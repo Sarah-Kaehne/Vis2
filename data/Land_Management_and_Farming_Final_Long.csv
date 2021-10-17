@@ -1,1455 +1,1455 @@
 ﻿State,RegionCode,RegionLabel,Desc, Area 
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,TotalArea,55438874
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseNotAgri,2224872
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseAgri,51657430
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseCrops,8742205
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseGraze,42573891
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseForest,319674
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseOther,21660
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubTotal,5596789
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubCoolBurn,823944
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubHotBurn,419705
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubWindrowLeft,26126
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubWindrowRemove,105900
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubSoil,788674
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubRetainGround,1010844
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubRetainStand,1719666
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubGraze,579824
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubOther,122106
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManTotal,1242552
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManCompost,54263
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManGreen,12743
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManMulch,3705
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManLime,438983
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManDolo,13589
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManGyp,405114
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManBio,1388
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilMa0ou,139880
-NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManOther,172887
-NSW AND ACT,101,Central Tablelands,TotalArea,1669441
-NSW AND ACT,101,Central Tablelands,LandUseNotAgri,68638
-NSW AND ACT,101,Central Tablelands,LandUseAgri,1549398
-NSW AND ACT,101,Central Tablelands,LandUseCrops,156239
-NSW AND ACT,101,Central Tablelands,LandUseGraze,1372808
-NSW AND ACT,101,Central Tablelands,LandUseForest,20145
-NSW AND ACT,101,Central Tablelands,LandUseOther,206
-NSW AND ACT,101,Central Tablelands,CropStubTotal,117680
-NSW AND ACT,101,Central Tablelands,CropStubCoolBurn,24325
-NSW AND ACT,101,Central Tablelands,CropStubHotBurn,7509
-NSW AND ACT,101,Central Tablelands,CropStubWindrowRemove,7612
-NSW AND ACT,101,Central Tablelands,CropStubSoil,15958
-NSW AND ACT,101,Central Tablelands,CropStubRetainGround,19875
-NSW AND ACT,101,Central Tablelands,CropStubRetainStand,4012
-NSW AND ACT,101,Central Tablelands,CropStubGraze,37425
-NSW AND ACT,101,Central Tablelands,CropStubOther,964
-NSW AND ACT,101,Central Tablelands,SoilManTotal,65967
-NSW AND ACT,101,Central Tablelands,SoilManCompost,6124
-NSW AND ACT,101,Central Tablelands,SoilManGreen,98
-NSW AND ACT,101,Central Tablelands,SoilManMulch,105
-NSW AND ACT,101,Central Tablelands,SoilManLime,0
-NSW AND ACT,101,Central Tablelands,SoilManDolo,0
-NSW AND ACT,101,Central Tablelands,SoilManGyp,4217
-NSW AND ACT,101,Central Tablelands,SoilManBio,0
-NSW AND ACT,101,Central Tablelands,SoilMa0ou,3627
-NSW AND ACT,101,Central Tablelands,SoilManOther,8469
-NSW AND ACT,102,Central West,TotalArea,7298851
-NSW AND ACT,102,Central West,LandUseNotAgri,324965
-NSW AND ACT,102,Central West,LandUseAgri,6743163
-NSW AND ACT,102,Central West,LandUseCrops,2237170
-NSW AND ACT,102,Central West,LandUseGraze,4489691
-NSW AND ACT,102,Central West,LandUseForest,13258
-NSW AND ACT,102,Central West,LandUseOther,3045
-NSW AND ACT,102,Central West,CropStubTotal,1421761
-NSW AND ACT,102,Central West,CropStubCoolBurn,199555
-NSW AND ACT,102,Central West,CropStubHotBurn,97720
-NSW AND ACT,102,Central West,CropStubWindrowLeft,10660
-NSW AND ACT,102,Central West,CropStubWindrowRemove,24976
-NSW AND ACT,102,Central West,CropStubSoil,222208
-NSW AND ACT,102,Central West,CropStubRetainGround,196924
-NSW AND ACT,102,Central West,CropStubRetainStand,491767
-NSW AND ACT,102,Central West,CropStubGraze,158498
-NSW AND ACT,102,Central West,CropStubOther,19452
-NSW AND ACT,102,Central West,SoilManTotal,198025
-NSW AND ACT,102,Central West,SoilManCompost,8704
-NSW AND ACT,102,Central West,SoilManGreen,0
-NSW AND ACT,102,Central West,SoilManMulch,0
-NSW AND ACT,102,Central West,SoilManLime,62292
-NSW AND ACT,102,Central West,SoilManDolo,2809
-NSW AND ACT,102,Central West,SoilManGyp,50467
-NSW AND ACT,102,Central West,SoilMa0ou,17950
-NSW AND ACT,102,Central West,SoilManOther,52860
-NSW AND ACT,103,Greater Sydney,TotalArea,70878
-NSW AND ACT,103,Greater Sydney,LandUseNotAgri,9711
-NSW AND ACT,103,Greater Sydney,LandUseAgri,61726
-NSW AND ACT,103,Greater Sydney,LandUseCrops,13612
-NSW AND ACT,103,Greater Sydney,LandUseGraze,46547
-NSW AND ACT,103,Greater Sydney,LandUseForest,169
-NSW AND ACT,103,Greater Sydney,LandUseOther,1398
-NSW AND ACT,103,Greater Sydney,CropStubTotal,94
-NSW AND ACT,103,Greater Sydney,CropStubRetainGround,47
-NSW AND ACT,103,Greater Sydney,CropStubGraze,47
-NSW AND ACT,103,Greater Sydney,SoilManTotal,5366
-NSW AND ACT,103,Greater Sydney,SoilManCompost,503
-NSW AND ACT,103,Greater Sydney,SoilManGreen,291
-NSW AND ACT,103,Greater Sydney,SoilManMulch,88
-NSW AND ACT,103,Greater Sydney,SoilManLime,893
-NSW AND ACT,103,Greater Sydney,SoilManDolo,326
-NSW AND ACT,103,Greater Sydney,SoilManGyp,227
-NSW AND ACT,103,Greater Sydney,SoilMa0ou,2983
-NSW AND ACT,103,Greater Sydney,SoilManOther,54
-NSW AND ACT,104,Hunter,TotalArea,1177500
-NSW AND ACT,104,Hunter,LandUseNotAgri,94779
-NSW AND ACT,104,Hunter,LandUseAgri,1066521
-NSW AND ACT,104,Hunter,LandUseCrops,35726
-NSW AND ACT,104,Hunter,LandUseGraze,1024637
-NSW AND ACT,104,Hunter,LandUseForest,4228
-NSW AND ACT,104,Hunter,LandUseOther,1929
-NSW AND ACT,104,Hunter,CropStubTotal,15360
-NSW AND ACT,104,Hunter,CropStubCoolBurn,1297
-NSW AND ACT,104,Hunter,CropStubHotBurn,546
-NSW AND ACT,104,Hunter,CropStubWindrowRemove,948
-NSW AND ACT,104,Hunter,CropStubSoil,1848
-NSW AND ACT,104,Hunter,CropStubRetainGround,4994
-NSW AND ACT,104,Hunter,CropStubRetainStand,1101
-NSW AND ACT,104,Hunter,CropStubGraze,4627
-NSW AND ACT,104,Hunter,SoilManTotal,29662
-NSW AND ACT,104,Hunter,SoilManCompost,1188
-NSW AND ACT,104,Hunter,SoilManGreen,0
-NSW AND ACT,104,Hunter,SoilManMulch,655
-NSW AND ACT,104,Hunter,SoilManLime,6726
-NSW AND ACT,104,Hunter,SoilManDolo,1624
-NSW AND ACT,104,Hunter,SoilManGyp,875
-NSW AND ACT,104,Hunter,SoilManBio,0
-NSW AND ACT,104,Hunter,SoilMa0ou,12025
-NSW AND ACT,104,Hunter,SoilManOther,5769
-NSW AND ACT,105,Murray,TotalArea,3248241
-NSW AND ACT,105,Murray,LandUseNotAgri,128192
-NSW AND ACT,105,Murray,LandUseAgri,3022187
-NSW AND ACT,105,Murray,LandUseCrops,1037179
-NSW AND ACT,105,Murray,LandUseGraze,1949351
-NSW AND ACT,105,Murray,LandUseForest,31293
-NSW AND ACT,105,Murray,LandUseOther,4364
-NSW AND ACT,105,Murray,CropStubTotal,738729
-NSW AND ACT,105,Murray,CropStubCoolBurn,159303
-NSW AND ACT,105,Murray,CropStubHotBurn,105647
-NSW AND ACT,105,Murray,CropStubWindrowLeft,4511
-NSW AND ACT,105,Murray,CropStubWindrowRemove,12096
-NSW AND ACT,105,Murray,CropStubSoil,75614
-NSW AND ACT,105,Murray,CropStubRetainGround,149091
-NSW AND ACT,105,Murray,CropStubRetainStand,129414
-NSW AND ACT,105,Murray,CropStubGraze,83877
-NSW AND ACT,105,Murray,CropStubOther,19176
-NSW AND ACT,105,Murray,SoilManTotal,253817
-NSW AND ACT,105,Murray,SoilManCompost,5897
-NSW AND ACT,105,Murray,SoilManGreen,1237
-NSW AND ACT,105,Murray,SoilManMulch,0
-NSW AND ACT,105,Murray,SoilManLime,97965
-NSW AND ACT,105,Murray,SoilManDolo,900
-NSW AND ACT,105,Murray,SoilManGyp,112202
-NSW AND ACT,105,Murray,SoilManBio,0
-NSW AND ACT,105,Murray,SoilMa0ou,18301
-NSW AND ACT,105,Murray,SoilManOther,16479
-NSW AND ACT,106,North Coast,TotalArea,731743
-NSW AND ACT,106,North Coast,LandUseNotAgri,63917
-NSW AND ACT,106,North Coast,LandUseAgri,645813
-NSW AND ACT,106,North Coast,LandUseCrops,64033
-NSW AND ACT,106,North Coast,LandUseGraze,497788
-NSW AND ACT,106,North Coast,LandUseForest,80046
-NSW AND ACT,106,North Coast,LandUseOther,3946
-NSW AND ACT,106,North Coast,CropStubTotal,18478
-NSW AND ACT,106,North Coast,CropStubCoolBurn,4211
-NSW AND ACT,106,North Coast,CropStubHotBurn,543
-NSW AND ACT,106,North Coast,CropStubWindrowLeft,804
-NSW AND ACT,106,North Coast,CropStubWindrowRemove,245
-NSW AND ACT,106,North Coast,CropStubSoil,4547
-NSW AND ACT,106,North Coast,CropStubRetainGround,4738
-NSW AND ACT,106,North Coast,CropStubRetainStand,207
-NSW AND ACT,106,North Coast,CropStubGraze,371
-NSW AND ACT,106,North Coast,CropStubOther,2812
-NSW AND ACT,106,North Coast,SoilManTotal,54510
-NSW AND ACT,106,North Coast,SoilManCompost,4066
-NSW AND ACT,106,North Coast,SoilManGreen,880
-NSW AND ACT,106,North Coast,SoilManMulch,1994
-NSW AND ACT,106,North Coast,SoilManLime,19477
-NSW AND ACT,106,North Coast,SoilManDolo,1353
-NSW AND ACT,106,North Coast,SoilManGyp,1131
-NSW AND ACT,106,North Coast,SoilManBio,85
-NSW AND ACT,106,North Coast,SoilMa0ou,10687
-NSW AND ACT,106,North Coast,SoilManOther,14836
-NSW AND ACT,108,North West NSW,TotalArea,6229510
-NSW AND ACT,108,North West NSW,LandUseNotAgri,260146
-NSW AND ACT,108,North West NSW,LandUseAgri,5763825
-NSW AND ACT,108,North West NSW,LandUseCrops,2504479
-NSW AND ACT,108,North West NSW,LandUseGraze,3219516
-NSW AND ACT,108,North West NSW,LandUseForest,37735
-NSW AND ACT,108,North West NSW,LandUseOther,2095
-NSW AND ACT,108,North West NSW,CropStubTotal,1569140
-NSW AND ACT,108,North West NSW,CropStubCoolBurn,82846
-NSW AND ACT,108,North West NSW,CropStubHotBurn,20484
-NSW AND ACT,108,North West NSW,CropStubWindrowRemove,10731
-NSW AND ACT,108,North West NSW,CropStubSoil,280074
-NSW AND ACT,108,North West NSW,CropStubRetainGround,332051
-NSW AND ACT,108,North West NSW,CropStubRetainStand,729327
-NSW AND ACT,108,North West NSW,CropStubGraze,81125
-NSW AND ACT,108,North West NSW,CropStubOther,32501
-NSW AND ACT,108,North West NSW,SoilManTotal,117698
-NSW AND ACT,108,North West NSW,SoilManCompost,9768
-NSW AND ACT,108,North West NSW,SoilManGreen,0
-NSW AND ACT,108,North West NSW,SoilManMulch,0
-NSW AND ACT,108,North West NSW,SoilManLime,0
-NSW AND ACT,108,North West NSW,SoilManDolo,0
-NSW AND ACT,108,North West NSW,SoilManGyp,42759
-NSW AND ACT,108,North West NSW,SoilMa0ou,23849
-NSW AND ACT,108,North West NSW,SoilManOther,22114
-NSW AND ACT,109,Northern Tablelands,TotalArea,1795059
-NSW AND ACT,109,Northern Tablelands,LandUseNotAgri,110604
-NSW AND ACT,109,Northern Tablelands,LandUseAgri,1627359
-NSW AND ACT,109,Northern Tablelands,LandUseCrops,106914
-NSW AND ACT,109,Northern Tablelands,LandUseGraze,1481987
-NSW AND ACT,109,Northern Tablelands,LandUseForest,38135
-NSW AND ACT,109,Northern Tablelands,LandUseOther,323
-NSW AND ACT,109,Northern Tablelands,CropStubTotal,70113
-NSW AND ACT,109,Northern Tablelands,CropStubCoolBurn,3110
-NSW AND ACT,109,Northern Tablelands,CropStubHotBurn,896
-NSW AND ACT,109,Northern Tablelands,CropStubWindrowRemove,727
-NSW AND ACT,109,Northern Tablelands,CropStubSoil,9159
-NSW AND ACT,109,Northern Tablelands,CropStubRetainGround,12150
-NSW AND ACT,109,Northern Tablelands,CropStubRetainStand,24626
-NSW AND ACT,109,Northern Tablelands,CropStubGraze,17126
-NSW AND ACT,109,Northern Tablelands,CropStubOther,2318
-NSW AND ACT,109,Northern Tablelands,SoilManTotal,43371
-NSW AND ACT,109,Northern Tablelands,SoilManCompost,752
-NSW AND ACT,109,Northern Tablelands,SoilManGreen,1762
-NSW AND ACT,109,Northern Tablelands,SoilManMulch,0
-NSW AND ACT,109,Northern Tablelands,SoilManLime,0
-NSW AND ACT,109,Northern Tablelands,SoilManDolo,0
-NSW AND ACT,109,Northern Tablelands,SoilManGyp,5350
-NSW AND ACT,109,Northern Tablelands,SoilManBio,0
-NSW AND ACT,109,Northern Tablelands,SoilMa0ou,0
-NSW AND ACT,109,Northern Tablelands,SoilManOther,22192
-NSW AND ACT,110801,Riverina and ACT,TotalArea,5980840
-NSW AND ACT,110801,Riverina and ACT,LandUseNotAgri,255949
-NSW AND ACT,110801,Riverina and ACT,LandUseAgri,5554156
-NSW AND ACT,110801,Riverina and ACT,LandUseCrops,1998807
-NSW AND ACT,110801,Riverina and ACT,LandUseGraze,3533521
-NSW AND ACT,110801,Riverina and ACT,LandUseForest,18176
-NSW AND ACT,110801,Riverina and ACT,LandUseOther,3653
-NSW AND ACT,110801,Riverina and ACT,CropStubTotal,1353380
-NSW AND ACT,110801,Riverina and ACT,CropStubCoolBurn,330841
-NSW AND ACT,110801,Riverina and ACT,CropStubHotBurn,178250
-NSW AND ACT,110801,Riverina and ACT,CropStubWindrowLeft,9648
-NSW AND ACT,110801,Riverina and ACT,CropStubWindrowRemove,40804
-NSW AND ACT,110801,Riverina and ACT,CropStubSoil,141966
-NSW AND ACT,110801,Riverina and ACT,CropStubRetainGround,192953
-NSW AND ACT,110801,Riverina and ACT,CropStubRetainStand,281247
-NSW AND ACT,110801,Riverina and ACT,CropStubGraze,136554
-NSW AND ACT,110801,Riverina and ACT,CropStubOther,41118
-NSW AND ACT,110801,Riverina and ACT,SoilManTotal,378025
-NSW AND ACT,110801,Riverina and ACT,SoilManCompost,9064
-NSW AND ACT,110801,Riverina and ACT,SoilManGreen,4179
-NSW AND ACT,110801,Riverina and ACT,SoilManMulch,0
-NSW AND ACT,110801,Riverina and ACT,SoilManLime,157534
-NSW AND ACT,110801,Riverina and ACT,SoilManDolo,6058
-NSW AND ACT,110801,Riverina and ACT,SoilManGyp,146715
-NSW AND ACT,110801,Riverina and ACT,SoilManBio,0
-NSW AND ACT,110801,Riverina and ACT,SoilMa0ou,38433
-NSW AND ACT,110801,Riverina and ACT,SoilManOther,15838
-NSW AND ACT,111,South East NSW,TotalArea,1730235
-NSW AND ACT,111,South East NSW,LandUseNotAgri,116448
-NSW AND ACT,111,South East NSW,LandUseAgri,1588482
-NSW AND ACT,111,South East NSW,LandUseCrops,88658
-NSW AND ACT,111,South East NSW,LandUseGraze,1486634
-NSW AND ACT,111,South East NSW,LandUseForest,12495
-NSW AND ACT,111,South East NSW,LandUseOther,695
-NSW AND ACT,111,South East NSW,CropStubTotal,47789
-NSW AND ACT,111,South East NSW,CropStubCoolBurn,5979
-NSW AND ACT,111,South East NSW,CropStubHotBurn,7590
-NSW AND ACT,111,South East NSW,CropStubWindrowLeft,503
-NSW AND ACT,111,South East NSW,CropStubWindrowRemove,354
-NSW AND ACT,111,South East NSW,CropStubSoil,8252
-NSW AND ACT,111,South East NSW,CropStubRetainGround,2389
-NSW AND ACT,111,South East NSW,CropStubRetainStand,1556
-NSW AND ACT,111,South East NSW,CropStubGraze,17403
-NSW AND ACT,111,South East NSW,CropStubOther,3764
-NSW AND ACT,111,South East NSW,SoilManTotal,78130
-NSW AND ACT,111,South East NSW,SoilManCompost,788
-NSW AND ACT,111,South East NSW,SoilManGreen,639
-NSW AND ACT,111,South East NSW,SoilManMulch,48
-NSW AND ACT,111,South East NSW,SoilManLime,17913
-NSW AND ACT,111,South East NSW,SoilManDolo,125
-NSW AND ACT,111,South East NSW,SoilManGyp,36310
-NSW AND ACT,111,South East NSW,SoilMa0ou,8836
-NSW AND ACT,111,South East NSW,SoilManOther,13471
-NSW AND ACT,112,Western,TotalArea,25506574
-NSW AND ACT,112,Western,LandUseNotAgri,791523
-NSW AND ACT,112,Western,LandUseAgri,24034799
-NSW AND ACT,112,Western,LandUseCrops,499388
-NSW AND ACT,112,Western,LandUseGraze,23471410
-NSW AND ACT,112,Western,LandUseForest,63995
-NSW AND ACT,112,Western,LandUseOther,6
-NSW AND ACT,112,Western,CropStubTotal,244265
-NSW AND ACT,112,Western,CropStubCoolBurn,12477
-NSW AND ACT,112,Western,CropStubHotBurn,522
-NSW AND ACT,112,Western,CropStubWindrowRemove,7408
-NSW AND ACT,112,Western,CropStubSoil,29048
-NSW AND ACT,112,Western,CropStubRetainGround,95632
-NSW AND ACT,112,Western,CropStubRetainStand,56408
-NSW AND ACT,112,Western,CropStubGraze,42770
-NSW AND ACT,112,Western,SoilManTotal,17980
-NSW AND ACT,112,Western,SoilManCompost,7408
-NSW AND ACT,112,Western,SoilManGreen,341
-NSW AND ACT,112,Western,SoilManLime,0
-NSW AND ACT,112,Western,SoilManDolo,0
-NSW AND ACT,112,Western,SoilManGyp,4861
-NSW AND ACT,112,Western,SoilManBio,0
-NSW AND ACT,112,Western,SoilMa0ou,0
-NSW AND ACT,112,Western,SoilManOther,804
-VIC,9992,Victoria,TotalArea,10852481
-VIC,9992,Victoria,LandUseNotAgri,456567
-VIC,9992,Victoria,LandUseAgri,9960567
-VIC,9992,Victoria,LandUseCrops,4329377
-VIC,9992,Victoria,LandUseGraze,5571609
-VIC,9992,Victoria,LandUseForest,43940
-VIC,9992,Victoria,LandUseOther,15642
-VIC,9992,Victoria,CropStubTotal,3002454
-VIC,9992,Victoria,CropStubCoolBurn,378932
-VIC,9992,Victoria,CropStubHotBurn,269448
-VIC,9992,Victoria,CropStubWindrowLeft,7480
-VIC,9992,Victoria,CropStubWindrowRemove,113066
-VIC,9992,Victoria,CropStubSoil,126177
-VIC,9992,Victoria,CropStubRetainGround,820560
-VIC,9992,Victoria,CropStubRetainStand,903288
-VIC,9992,Victoria,CropStubGraze,343595
-VIC,9992,Victoria,CropStubOther,39908
-VIC,9992,Victoria,SoilManTotal,822601
-VIC,9992,Victoria,SoilManCompost,67539
-VIC,9992,Victoria,SoilManGreen,9329
-VIC,9992,Victoria,SoilManMulch,0
-VIC,9992,Victoria,SoilManLime,381776
-VIC,9992,Victoria,SoilManDolo,14343
-VIC,9992,Victoria,SoilManGyp,242930
-VIC,9992,Victoria,SoilManBio,0
-VIC,9992,Victoria,SoilMa0ou,47815
-VIC,9992,Victoria,SoilManOther,56450
-VIC,201,Corangamite,TotalArea,789056
-VIC,201,Corangamite,LandUseNotAgri,38114
-VIC,201,Corangamite,LandUseAgri,705488
-VIC,201,Corangamite,LandUseCrops,189465
-VIC,201,Corangamite,LandUseGraze,512976
-VIC,201,Corangamite,LandUseForest,1813
-VIC,201,Corangamite,LandUseOther,1234
-VIC,201,Corangamite,CropStubTotal,148402
-VIC,201,Corangamite,CropStubCoolBurn,43374
-VIC,201,Corangamite,CropStubHotBurn,35095
-VIC,201,Corangamite,CropStubWindrowRemove,10394
-VIC,201,Corangamite,CropStubSoil,6766
-VIC,201,Corangamite,CropStubRetainGround,18564
-VIC,201,Corangamite,CropStubRetainStand,18339
-VIC,201,Corangamite,CropStubGraze,15839
-VIC,201,Corangamite,CropStubOther,31
-VIC,201,Corangamite,SoilManTotal,78771
-VIC,201,Corangamite,SoilManCompost,6846
-VIC,201,Corangamite,SoilManGreen,424
-VIC,201,Corangamite,SoilManMulch,29
-VIC,201,Corangamite,SoilManLime,0
-VIC,201,Corangamite,SoilManDolo,0
-VIC,201,Corangamite,SoilManGyp,7776
-VIC,201,Corangamite,SoilManBio,0
-VIC,201,Corangamite,SoilMa0ou,2853
-VIC,201,Corangamite,SoilManOther,2204
-VIC,202,East Gippsland,TotalArea,250394
-VIC,202,East Gippsland,LandUseNotAgri,24831
-VIC,202,East Gippsland,LandUseAgri,213972
-VIC,202,East Gippsland,LandUseCrops,8322
-VIC,202,East Gippsland,LandUseGraze,203993
-VIC,202,East Gippsland,LandUseForest,1569
-VIC,202,East Gippsland,LandUseOther,89
-VIC,202,East Gippsland,CropStubTotal,3330
-VIC,202,East Gippsland,CropStubCoolBurn,55
-VIC,202,East Gippsland,CropStubHotBurn,54
-VIC,202,East Gippsland,CropStubWindrowRemove,25
-VIC,202,East Gippsland,CropStubSoil,2087
-VIC,202,East Gippsland,CropStubRetainGround,63
-VIC,202,East Gippsland,CropStubRetainStand,137
-VIC,202,East Gippsland,CropStubGraze,427
-VIC,202,East Gippsland,CropStubOther,484
-VIC,202,East Gippsland,SoilManTotal,14483
-VIC,202,East Gippsland,SoilManCompost,471
-VIC,202,East Gippsland,SoilManGreen,511
-VIC,202,East Gippsland,SoilManMulch,0
-VIC,202,East Gippsland,SoilManLime,11076
-VIC,202,East Gippsland,SoilManDolo,1297
-VIC,202,East Gippsland,SoilManGyp,0
-VIC,202,East Gippsland,SoilMa0ou,369
-VIC,202,East Gippsland,SoilManOther,428
-VIC,203,Glenelg Hopkins,TotalArea,1538568
-VIC,203,Glenelg Hopkins,LandUseNotAgri,52286
-VIC,203,Glenelg Hopkins,LandUseAgri,1466865
-VIC,203,Glenelg Hopkins,LandUseCrops,245586
-VIC,203,Glenelg Hopkins,LandUseGraze,1204961
-VIC,203,Glenelg Hopkins,LandUseForest,16011
-VIC,203,Glenelg Hopkins,LandUseOther,308
-VIC,203,Glenelg Hopkins,CropStubTotal,193088
-VIC,203,Glenelg Hopkins,CropStubCoolBurn,66163
-VIC,203,Glenelg Hopkins,CropStubHotBurn,39560
-VIC,203,Glenelg Hopkins,CropStubWindrowLeft,2002
-VIC,203,Glenelg Hopkins,CropStubWindrowRemove,4981
-VIC,203,Glenelg Hopkins,CropStubSoil,20387
-VIC,203,Glenelg Hopkins,CropStubRetainGround,29232
-VIC,203,Glenelg Hopkins,CropStubRetainStand,18349
-VIC,203,Glenelg Hopkins,CropStubGraze,10546
-VIC,203,Glenelg Hopkins,CropStubOther,1868
-VIC,203,Glenelg Hopkins,SoilManTotal,137249
-VIC,203,Glenelg Hopkins,SoilManCompost,17913
-VIC,203,Glenelg Hopkins,SoilManGreen,0
-VIC,203,Glenelg Hopkins,SoilManMulch,0
-VIC,203,Glenelg Hopkins,SoilManLime,98549
-VIC,203,Glenelg Hopkins,SoilManDolo,3784
-VIC,203,Glenelg Hopkins,SoilManGyp,12399
-VIC,203,Glenelg Hopkins,SoilMa0ou,2651
-VIC,203,Glenelg Hopkins,SoilManOther,1709
-VIC,204,Goulburn Broken,TotalArea,1074790
-VIC,204,Goulburn Broken,LandUseNotAgri,56585
-VIC,204,Goulburn Broken,LandUseAgri,974854
-VIC,204,Goulburn Broken,LandUseCrops,229275
-VIC,204,Goulburn Broken,LandUseGraze,740389
-VIC,204,Goulburn Broken,LandUseForest,3129
-VIC,204,Goulburn Broken,LandUseOther,2061
-VIC,204,Goulburn Broken,CropStubTotal,149661
-VIC,204,Goulburn Broken,CropStubCoolBurn,51540
-VIC,204,Goulburn Broken,CropStubHotBurn,39895
-VIC,204,Goulburn Broken,CropStubWindrowLeft,2986
-VIC,204,Goulburn Broken,CropStubWindrowRemove,2505
-VIC,204,Goulburn Broken,CropStubSoil,10040
-VIC,204,Goulburn Broken,CropStubRetainGround,20108
-VIC,204,Goulburn Broken,CropStubRetainStand,5290
-VIC,204,Goulburn Broken,CropStubGraze,13780
-VIC,204,Goulburn Broken,CropStubOther,3517
-VIC,204,Goulburn Broken,SoilManTotal,95244
-VIC,204,Goulburn Broken,SoilManCompost,4751
-VIC,204,Goulburn Broken,SoilManGreen,1644
-VIC,204,Goulburn Broken,SoilManMulch,76
-VIC,204,Goulburn Broken,SoilManLime,58702
-VIC,204,Goulburn Broken,SoilManDolo,2205
-VIC,204,Goulburn Broken,SoilManGyp,14102
-VIC,204,Goulburn Broken,SoilMa0ou,5962
-VIC,204,Goulburn Broken,SoilManOther,7802
-VIC,205,Mallee,TotalArea,2170778
-VIC,205,Mallee,LandUseNotAgri,81901
-VIC,205,Mallee,LandUseAgri,2018571
-VIC,205,Mallee,LandUseCrops,1715377
-VIC,205,Mallee,LandUseGraze,302475
-VIC,205,Mallee,LandUseForest,226
-VIC,205,Mallee,LandUseOther,493
-VIC,205,Mallee,CropStubTotal,1089445
-VIC,205,Mallee,CropStubCoolBurn,32088
-VIC,205,Mallee,CropStubHotBurn,16829
-VIC,205,Mallee,CropStubWindrowRemove,54781
-VIC,205,Mallee,CropStubSoil,9637
-VIC,205,Mallee,CropStubRetainGround,380963
-VIC,205,Mallee,CropStubRetainStand,424214
-VIC,205,Mallee,CropStubGraze,155536
-VIC,205,Mallee,CropStubOther,15397
-VIC,205,Mallee,SoilManTotal,51549
-VIC,205,Mallee,SoilManCompost,6745
-VIC,205,Mallee,SoilManGreen,2047
-VIC,205,Mallee,SoilManMulch,8
-VIC,205,Mallee,SoilManLime,2325
-VIC,205,Mallee,SoilManDolo,398
-VIC,205,Mallee,SoilManGyp,32973
-VIC,205,Mallee,SoilMa0ou,3636
-VIC,205,Mallee,SoilManOther,3417
-VIC,206,North Central,TotalArea,1969349
-VIC,206,North Central,LandUseNotAgri,58661
-VIC,206,North Central,LandUseAgri,1831671
-VIC,206,North Central,LandUseCrops,955319
-VIC,206,North Central,LandUseGraze,867131
-VIC,206,North Central,LandUseForest,2854
-VIC,206,North Central,LandUseOther,6367
-VIC,206,North Central,CropStubTotal,681113
-VIC,206,North Central,CropStubCoolBurn,70158
-VIC,206,North Central,CropStubHotBurn,57391
-VIC,206,North Central,CropStubWindrowLeft,984
-VIC,206,North Central,CropStubWindrowRemove,28499
-VIC,206,North Central,CropStubSoil,41797
-VIC,206,North Central,CropStubRetainGround,195686
-VIC,206,North Central,CropStubRetainStand,191252
-VIC,206,North Central,CropStubGraze,88959
-VIC,206,North Central,CropStubOther,6387
-VIC,206,North Central,SoilManTotal,169233
-VIC,206,North Central,SoilManCompost,11735
-VIC,206,North Central,SoilManGreen,2927
-VIC,206,North Central,SoilManMulch,1710
-VIC,206,North Central,SoilManLime,66717
-VIC,206,North Central,SoilManDolo,294
-VIC,206,North Central,SoilManGyp,48379
-VIC,206,North Central,SoilMa0ou,25452
-VIC,206,North Central,SoilManOther,12019
-VIC,207,North East,TotalArea,656572
-VIC,207,North East,LandUseNotAgri,37426
-VIC,207,North East,LandUseAgri,580193
-VIC,207,North East,LandUseCrops,33501
-VIC,207,North East,LandUseGraze,542473
-VIC,207,North East,LandUseForest,3012
-VIC,207,North East,LandUseOther,1207
-VIC,207,North East,CropStubTotal,18915
-VIC,207,North East,CropStubCoolBurn,5827
-VIC,207,North East,CropStubHotBurn,4694
-VIC,207,North East,CropStubWindrowLeft,546
-VIC,207,North East,CropStubWindrowRemove,1771
-VIC,207,North East,CropStubSoil,227
-VIC,207,North East,CropStubRetainGround,1563
-VIC,207,North East,CropStubRetainStand,2606
-VIC,207,North East,CropStubGraze,1542
-VIC,207,North East,CropStubOther,140
-VIC,207,North East,SoilManTotal,36261
-VIC,207,North East,SoilManCompost,166
-VIC,207,North East,SoilManGreen,22
-VIC,207,North East,SoilManMulch,0
-VIC,207,North East,SoilManLime,18209
-VIC,207,North East,SoilManDolo,2095
-VIC,207,North East,SoilManGyp,5714
-VIC,207,North East,SoilMa0ou,0
-VIC,207,North East,SoilManOther,9773
-VIC,208,Port Phillip and Western Port,TotalArea,275515
-VIC,208,Port Phillip and Western Port,LandUseNotAgri,16525
-VIC,208,Port Phillip and Western Port,LandUseAgri,230771
-VIC,208,Port Phillip and Western Port,LandUseCrops,49868
-VIC,208,Port Phillip and Western Port,LandUseGraze,177940
-VIC,208,Port Phillip and Western Port,LandUseForest,252
-VIC,208,Port Phillip and Western Port,LandUseOther,2711
-VIC,208,Port Phillip and Western Port,CropStubTotal,20389
-VIC,208,Port Phillip and Western Port,CropStubCoolBurn,2546
-VIC,208,Port Phillip and Western Port,CropStubHotBurn,2290
-VIC,208,Port Phillip and Western Port,CropStubWindrowRemove,357
-VIC,208,Port Phillip and Western Port,CropStubSoil,2727
-VIC,208,Port Phillip and Western Port,CropStubRetainGround,5632
-VIC,208,Port Phillip and Western Port,CropStubRetainStand,3694
-VIC,208,Port Phillip and Western Port,CropStubGraze,2630
-VIC,208,Port Phillip and Western Port,CropStubOther,513
-VIC,208,Port Phillip and Western Port,SoilManTotal,32723
-VIC,208,Port Phillip and Western Port,SoilManCompost,3873
-VIC,208,Port Phillip and Western Port,SoilManGreen,1077
-VIC,208,Port Phillip and Western Port,SoilManMulch,258
-VIC,208,Port Phillip and Western Port,SoilManLime,16499
-VIC,208,Port Phillip and Western Port,SoilManDolo,484
-VIC,208,Port Phillip and Western Port,SoilManGyp,4740
-VIC,208,Port Phillip and Western Port,SoilMa0ou,3318
-VIC,208,Port Phillip and Western Port,SoilManOther,2475
-VIC,209,West Gippsland,TotalArea,580642
-VIC,209,West Gippsland,LandUseNotAgri,34013
-VIC,209,West Gippsland,LandUseAgri,518580
-VIC,209,West Gippsland,LandUseCrops,28304
-VIC,209,West Gippsland,LandUseGraze,485204
-VIC,209,West Gippsland,LandUseForest,4793
-VIC,209,West Gippsland,LandUseOther,279
-VIC,209,West Gippsland,CropStubTotal,11927
-VIC,209,West Gippsland,CropStubCoolBurn,2193
-VIC,209,West Gippsland,CropStubHotBurn,20
-VIC,209,West Gippsland,CropStubSoil,138
-VIC,209,West Gippsland,CropStubRetainGround,235
-VIC,209,West Gippsland,CropStubRetainStand,1761
-VIC,209,West Gippsland,CropStubGraze,7580
-VIC,209,West Gippsland,SoilManTotal,71616
-VIC,209,West Gippsland,SoilManCompost,11239
-VIC,209,West Gippsland,SoilManGreen,571
-VIC,209,West Gippsland,SoilManMulch,0
-VIC,209,West Gippsland,SoilManLime,40562
-VIC,209,West Gippsland,SoilManDolo,1729
-VIC,209,West Gippsland,SoilManGyp,0
-VIC,209,West Gippsland,SoilMa0ou,3019
-VIC,209,West Gippsland,SoilManOther,9079
-VIC,210,Wimmera,TotalArea,1546818
-VIC,210,Wimmera,LandUseNotAgri,56224
-VIC,210,Wimmera,LandUseAgri,1419603
-VIC,210,Wimmera,LandUseCrops,874360
-VIC,210,Wimmera,LandUseGraze,534068
-VIC,210,Wimmera,LandUseForest,10281
-VIC,210,Wimmera,LandUseOther,894
-VIC,210,Wimmera,CropStubTotal,686185
-VIC,210,Wimmera,CropStubCoolBurn,104988
-VIC,210,Wimmera,CropStubHotBurn,73621
-VIC,210,Wimmera,CropStubWindrowLeft,963
-VIC,210,Wimmera,CropStubWindrowRemove,9753
-VIC,210,Wimmera,CropStubSoil,32372
-VIC,210,Wimmera,CropStubRetainGround,168515
-VIC,210,Wimmera,CropStubRetainStand,237646
-VIC,210,Wimmera,CropStubGraze,46757
-VIC,210,Wimmera,CropStubOther,11570
-VIC,210,Wimmera,SoilManTotal,135472
-VIC,210,Wimmera,SoilManCompost,3801
-VIC,210,Wimmera,SoilManGreen,0
-VIC,210,Wimmera,SoilManMulch,0
-VIC,210,Wimmera,SoilManLime,0
-VIC,210,Wimmera,SoilManDolo,0
-VIC,210,Wimmera,SoilManGyp,111283
-VIC,210,Wimmera,SoilMa0ou,0
-VIC,210,Wimmera,SoilManOther,7544
-QLD,9993,Queensland,TotalArea,137954589
-QLD,9993,Queensland,LandUseNotAgri,4803103
-QLD,9993,Queensland,LandUseAgri,132771840
-QLD,9993,Queensland,LandUseCrops,3181157
-QLD,9993,Queensland,LandUseGraze,129372500
-QLD,9993,Queensland,LandUseForest,195049
-QLD,9993,Queensland,LandUseOther,23135
-QLD,9993,Queensland,CropStubTotal,1920659
-QLD,9993,Queensland,CropStubCoolBurn,43158
-QLD,9993,Queensland,CropStubHotBurn,15752
-QLD,9993,Queensland,CropStubWindrowLeft,3194
-QLD,9993,Queensland,CropStubWindrowRemove,8163
-QLD,9993,Queensland,CropStubSoil,333051
-QLD,9993,Queensland,CropStubRetainGround,527069
-QLD,9993,Queensland,CropStubRetainStand,779299
-QLD,9993,Queensland,CropStubGraze,143032
-QLD,9993,Queensland,CropStubOther,67942
-QLD,9993,Queensland,SoilManTotal,407685
-QLD,9993,Queensland,SoilManCompost,44998
-QLD,9993,Queensland,SoilManGreen,16840
-QLD,9993,Queensland,SoilManMulch,5564
-QLD,9993,Queensland,SoilManLime,46877
-QLD,9993,Queensland,SoilManDolo,17832
-QLD,9993,Queensland,SoilManGyp,56730
-QLD,9993,Queensland,SoilManBio,287
-QLD,9993,Queensland,SoilMa0ou,18454
-QLD,9993,Queensland,LandUseBioD,91302
-QLD,9993,Queensland,SoilManOther,108801
-QLD,301,Burnett Mary,TotalArea,3353011
-QLD,301,Burnett Mary,LandUseNotAgri,142753
-QLD,301,Burnett Mary,LandUseAgri,3116897
-QLD,301,Burnett Mary,LandUseCrops,155772
-QLD,301,Burnett Mary,LandUseGraze,2867673
-QLD,301,Burnett Mary,LandUseForest,89719
-QLD,301,Burnett Mary,LandUseOther,3733
-QLD,301,Burnett Mary,CropStubTotal,75575
-QLD,301,Burnett Mary,CropStubCoolBurn,5173
-QLD,301,Burnett Mary,CropStubHotBurn,392
-QLD,301,Burnett Mary,CropStubWindrowLeft,1966
-QLD,301,Burnett Mary,CropStubWindrowRemove,4066
-QLD,301,Burnett Mary,CropStubSoil,16942
-QLD,301,Burnett Mary,CropStubRetainGround,27516
-QLD,301,Burnett Mary,CropStubRetainStand,4696
-QLD,301,Burnett Mary,CropStubGraze,6054
-QLD,301,Burnett Mary,CropStubOther,8771
-QLD,301,Burnett Mary,SoilManTotal,65021
-QLD,301,Burnett Mary,SoilManCompost,6348
-QLD,301,Burnett Mary,SoilManGreen,3393
-QLD,301,Burnett Mary,SoilManMulch,2595
-QLD,301,Burnett Mary,SoilManLime,9219
-QLD,301,Burnett Mary,SoilManDolo,1579
-QLD,301,Burnett Mary,SoilManGyp,11239
-QLD,301,Burnett Mary,SoilManBio,0
-QLD,301,Burnett Mary,SoilMa0ou,1761
-QLD,301,Burnett Mary,LandUseBioD,0
-QLD,301,Burnett Mary,SoilManOther,24453
-QLD,302,Cape York,TotalArea,2561605
-QLD,302,Cape York,LandUseNotAgri,135837
-QLD,302,Cape York,LandUseAgri,2452401
-QLD,302,Cape York,LandUseCrops,2057
-QLD,302,Cape York,LandUseGraze,2449463
-QLD,302,Cape York,LandUseForest,820
-QLD,302,Cape York,LandUseOther,61
-QLD,302,Cape York,CropStubTotal,492
-QLD,302,Cape York,CropStubRetainGround,223
-QLD,302,Cape York,CropStubRetainStand,135
-QLD,302,Cape York,CropStubGraze,135
-QLD,302,Cape York,SoilManTotal,217
-QLD,302,Cape York,SoilManGreen,0
-QLD,302,Cape York,SoilManMulch,0
-QLD,302,Cape York,SoilManLime,0
-QLD,302,Cape York,SoilManDolo,0
-QLD,302,Cape York,SoilManGyp,0
-QLD,302,Cape York,SoilMa0ou,0
-QLD,303,Condamine,TotalArea,1599722
-QLD,303,Condamine,LandUseNotAgri,71225
-QLD,303,Condamine,LandUseAgri,1475082
-QLD,303,Condamine,LandUseCrops,678196
-QLD,303,Condamine,LandUseGraze,784176
-QLD,303,Condamine,LandUseForest,7295
-QLD,303,Condamine,LandUseOther,5415
-QLD,303,Condamine,CropStubTotal,494593
-QLD,303,Condamine,CropStubCoolBurn,2094
-QLD,303,Condamine,CropStubHotBurn,2408
-QLD,303,Condamine,CropStubWindrowLeft,25
-QLD,303,Condamine,CropStubWindrowRemove,2191
-QLD,303,Condamine,CropStubSoil,126057
-QLD,303,Condamine,CropStubRetainGround,111658
-QLD,303,Condamine,CropStubRetainStand,212511
-QLD,303,Condamine,CropStubGraze,34579
-QLD,303,Condamine,CropStubOther,3070
-QLD,303,Condamine,SoilManTotal,66344
-QLD,303,Condamine,SoilManCompost,15802
-QLD,303,Condamine,SoilManGreen,4131
-QLD,303,Condamine,SoilManMulch,0
-QLD,303,Condamine,SoilManLime,683
-QLD,303,Condamine,SoilManDolo,0
-QLD,303,Condamine,SoilManGyp,2828
-QLD,303,Condamine,SoilMa0ou,5318
-QLD,303,Condamine,SoilManOther,37519
-QLD,304,Cooperative Management Area,TotalArea,1610830
-QLD,304,Cooperative Management Area,LandUseNotAgri,17285
-QLD,304,Cooperative Management Area,LandUseAgri,1593127
-QLD,304,Cooperative Management Area,LandUseCrops,1775
-QLD,304,Cooperative Management Area,LandUseGraze,1591315
-QLD,304,Cooperative Management Area,LandUseForest,38
-QLD,304,Cooperative Management Area,CropStubTotal,1543
-QLD,304,Cooperative Management Area,CropStubSoil,69
-QLD,304,Cooperative Management Area,CropStubRetainGround,1473
-QLD,304,Cooperative Management Area,SoilManTotal,0
-QLD,304,Cooperative Management Area,SoilManGyp,0
-QLD,305,Desert Channels,TotalArea,44150071
-QLD,305,Desert Channels,LandUseNotAgri,1688207
-QLD,305,Desert Channels,LandUseAgri,42486619
-QLD,305,Desert Channels,LandUseCrops,69190
-QLD,305,Desert Channels,LandUseGraze,42393230
-QLD,305,Desert Channels,LandUseForest,24199
-QLD,305,Desert Channels,CropStubTotal,334
-QLD,305,Desert Channels,CropStubSoil,5
-QLD,305,Desert Channels,CropStubRetainGround,44
-QLD,305,Desert Channels,CropStubRetainStand,154
-QLD,305,Desert Channels,CropStubGraze,130
-QLD,305,Desert Channels,SoilManTotal,192
-QLD,305,Desert Channels,SoilManCompost,0
-QLD,305,Desert Channels,SoilManLime,0
-QLD,305,Desert Channels,SoilManOther,0
-QLD,306,Fitzroy Basin,TotalArea,14987168
-QLD,306,Fitzroy Basin,LandUseNotAgri,536263
-QLD,306,Fitzroy Basin,LandUseAgri,14141585
-QLD,306,Fitzroy Basin,LandUseCrops,456781
-QLD,306,Fitzroy Basin,LandUseGraze,13632682
-QLD,306,Fitzroy Basin,LandUseForest,45451
-QLD,306,Fitzroy Basin,LandUseOther,6671
-QLD,306,Fitzroy Basin,CropStubTotal,291250
-QLD,306,Fitzroy Basin,CropStubCoolBurn,605
-QLD,306,Fitzroy Basin,CropStubHotBurn,213
-QLD,306,Fitzroy Basin,CropStubWindrowRemove,434
-QLD,306,Fitzroy Basin,CropStubSoil,71880
-QLD,306,Fitzroy Basin,CropStubRetainGround,68107
-QLD,306,Fitzroy Basin,CropStubRetainStand,115594
-QLD,306,Fitzroy Basin,CropStubGraze,30752
-QLD,306,Fitzroy Basin,CropStubOther,3664
-QLD,306,Fitzroy Basin,SoilManTotal,26636
-QLD,306,Fitzroy Basin,SoilManCompost,2247
-QLD,306,Fitzroy Basin,SoilManGreen,4445
-QLD,306,Fitzroy Basin,SoilManMulch,0
-QLD,306,Fitzroy Basin,SoilManLime,519
-QLD,306,Fitzroy Basin,SoilManDolo,221
-QLD,306,Fitzroy Basin,SoilManGyp,2937
-QLD,306,Fitzroy Basin,SoilMa0ou,3246
-QLD,306,Fitzroy Basin,LandUseBioD,0
-QLD,306,Fitzroy Basin,SoilManOther,12719
-QLD,307,North Queensland Dry Tropics,TotalArea,12545909
-QLD,307,North Queensland Dry Tropics,LandUseNotAgri,318507
-QLD,307,North Queensland Dry Tropics,LandUseAgri,12268553
-QLD,307,North Queensland Dry Tropics,LandUseCrops,216138
-QLD,307,North Queensland Dry Tropics,LandUseGraze,12052154
-QLD,307,North Queensland Dry Tropics,LandUseForest,212
-QLD,307,North Queensland Dry Tropics,LandUseOther,50
-QLD,307,North Queensland Dry Tropics,CropStubTotal,100939
-QLD,307,North Queensland Dry Tropics,CropStubCoolBurn,17326
-QLD,307,North Queensland Dry Tropics,CropStubHotBurn,11001
-QLD,307,North Queensland Dry Tropics,CropStubWindrowLeft,14
-QLD,307,North Queensland Dry Tropics,CropStubWindrowRemove,487
-QLD,307,North Queensland Dry Tropics,CropStubSoil,15696
-QLD,307,North Queensland Dry Tropics,CropStubRetainGround,22607
-QLD,307,North Queensland Dry Tropics,CropStubRetainStand,27406
-QLD,307,North Queensland Dry Tropics,CropStubGraze,4414
-QLD,307,North Queensland Dry Tropics,CropStubOther,1987
-QLD,307,North Queensland Dry Tropics,SoilManTotal,48949
-QLD,307,North Queensland Dry Tropics,SoilManCompost,4264
-QLD,307,North Queensland Dry Tropics,SoilManGreen,319
-QLD,307,North Queensland Dry Tropics,SoilManMulch,0
-QLD,307,North Queensland Dry Tropics,SoilManLime,1495
-QLD,307,North Queensland Dry Tropics,SoilManDolo,2615
-QLD,307,North Queensland Dry Tropics,SoilManGyp,14979
-QLD,307,North Queensland Dry Tropics,SoilMa0ou,0
-QLD,307,North Queensland Dry Tropics,LandUseBioD,22003
-QLD,307,North Queensland Dry Tropics,SoilManOther,3105
-QLD,308,Northern Gulf,TotalArea,12503257
-QLD,308,Northern Gulf,LandUseNotAgri,804027
-QLD,308,Northern Gulf,LandUseAgri,11699281
-QLD,308,Northern Gulf,LandUseCrops,14402
-QLD,308,Northern Gulf,LandUseGraze,11683626
-QLD,308,Northern Gulf,LandUseForest,1172
-QLD,308,Northern Gulf,LandUseOther,81
-QLD,308,Northern Gulf,CropStubTotal,4294
-QLD,308,Northern Gulf,CropStubCoolBurn,2
-QLD,308,Northern Gulf,CropStubHotBurn,54
-QLD,308,Northern Gulf,CropStubSoil,46
-QLD,308,Northern Gulf,CropStubRetainGround,762
-QLD,308,Northern Gulf,CropStubOther,3429
-QLD,308,Northern Gulf,SoilManTotal,4475
-QLD,308,Northern Gulf,SoilManCompost,0
-QLD,308,Northern Gulf,SoilManGreen,0
-QLD,308,Northern Gulf,SoilManMulch,1169
-QLD,308,Northern Gulf,SoilManLime,917
-QLD,308,Northern Gulf,SoilManDolo,214
-QLD,308,Northern Gulf,SoilManGyp,1625
-QLD,308,Northern Gulf,SoilMa0ou,199
-QLD,308,Northern Gulf,SoilManOther,0
-QLD,309,Queensland Murray Darling Basin,TotalArea,9029457
-QLD,309,Queensland Murray Darling Basin,LandUseNotAgri,424483
-QLD,309,Queensland Murray Darling Basin,LandUseAgri,8483660
-QLD,309,Queensland Murray Darling Basin,LandUseCrops,1211413
-QLD,309,Queensland Murray Darling Basin,LandUseGraze,7249611
-QLD,309,Queensland Murray Darling Basin,LandUseForest,19398
-QLD,309,Queensland Murray Darling Basin,LandUseOther,3238
-QLD,309,Queensland Murray Darling Basin,CropStubTotal,736699
-QLD,309,Queensland Murray Darling Basin,CropStubCoolBurn,14514
-QLD,309,Queensland Murray Darling Basin,CropStubHotBurn,866
-QLD,309,Queensland Murray Darling Basin,CropStubWindrowLeft,115
-QLD,309,Queensland Murray Darling Basin,CropStubWindrowRemove,457
-QLD,309,Queensland Murray Darling Basin,CropStubSoil,84163
-QLD,309,Queensland Murray Darling Basin,CropStubRetainGround,150622
-QLD,309,Queensland Murray Darling Basin,CropStubRetainStand,414217
-QLD,309,Queensland Murray Darling Basin,CropStubGraze,64942
-QLD,309,Queensland Murray Darling Basin,CropStubOther,6803
-QLD,309,Queensland Murray Darling Basin,SoilManTotal,58740
-QLD,309,Queensland Murray Darling Basin,SoilManCompost,9670
-QLD,309,Queensland Murray Darling Basin,SoilManGreen,1806
-QLD,309,Queensland Murray Darling Basin,SoilManMulch,7
-QLD,309,Queensland Murray Darling Basin,SoilManLime,1588
-QLD,309,Queensland Murray Darling Basin,SoilManDolo,9397
-QLD,309,Queensland Murray Darling Basin,SoilManGyp,15176
-QLD,309,Queensland Murray Darling Basin,SoilMa0ou,620
-QLD,309,Queensland Murray Darling Basin,SoilManOther,20477
-QLD,310,Reef Catchments,TotalArea,706847
-QLD,310,Reef Catchments,LandUseNotAgri,79107
-QLD,310,Reef Catchments,LandUseAgri,611391
-QLD,310,Reef Catchments,LandUseCrops,145093
-QLD,310,Reef Catchments,LandUseGraze,463464
-QLD,310,Reef Catchments,LandUseForest,2605
-QLD,310,Reef Catchments,LandUseOther,229
-QLD,310,Reef Catchments,CropStubTotal,96948
-QLD,310,Reef Catchments,CropStubCoolBurn,1149
-QLD,310,Reef Catchments,CropStubHotBurn,729
-QLD,310,Reef Catchments,CropStubWindrowLeft,232
-QLD,310,Reef Catchments,CropStubWindrowRemove,79
-QLD,310,Reef Catchments,CropStubSoil,5907
-QLD,310,Reef Catchments,CropStubRetainGround,64691
-QLD,310,Reef Catchments,CropStubRetainStand,1649
-QLD,310,Reef Catchments,CropStubGraze,614
-QLD,310,Reef Catchments,CropStubOther,21898
-QLD,310,Reef Catchments,SoilManTotal,75269
-QLD,310,Reef Catchments,SoilManCompost,0
-QLD,310,Reef Catchments,SoilManGreen,0
-QLD,310,Reef Catchments,SoilManMulch,0
-QLD,310,Reef Catchments,SoilManLime,6507
-QLD,310,Reef Catchments,SoilManDolo,210
-QLD,310,Reef Catchments,SoilManGyp,1887
-QLD,310,Reef Catchments,SoilMa0ou,8
-QLD,310,Reef Catchments,LandUseBioD,62065
-QLD,310,Reef Catchments,SoilManOther,3753
-QLD,311,South East Queensland,TotalArea,988949
-QLD,311,South East Queensland,LandUseNotAgri,33237
-QLD,311,South East Queensland,LandUseAgri,968826
-QLD,311,South East Queensland,LandUseCrops,44718
-QLD,311,South East Queensland,LandUseGraze,918538
-QLD,311,South East Queensland,LandUseForest,3037
-QLD,311,South East Queensland,LandUseOther,2532
-QLD,311,South East Queensland,CropStubTotal,10234
-QLD,311,South East Queensland,CropStubCoolBurn,10
-QLD,311,South East Queensland,CropStubSoil,2827
-QLD,311,South East Queensland,CropStubRetainGround,5764
-QLD,311,South East Queensland,CropStubRetainStand,1275
-QLD,311,South East Queensland,CropStubGraze,334
-QLD,311,South East Queensland,CropStubOther,24
-QLD,311,South East Queensland,SoilManTotal,22746
-QLD,311,South East Queensland,SoilManCompost,3766
-QLD,311,South East Queensland,SoilManGreen,1311
-QLD,311,South East Queensland,SoilManMulch,0
-QLD,311,South East Queensland,SoilManLime,3762
-QLD,311,South East Queensland,SoilManDolo,862
-QLD,311,South East Queensland,SoilManGyp,2978
-QLD,311,South East Queensland,SoilManBio,0
-QLD,311,South East Queensland,SoilMa0ou,5879
-QLD,311,South East Queensland,LandUseBioD,0
-QLD,311,South East Queensland,SoilManOther,3599
-QLD,312,South West Queensland,TotalArea,16608709
-QLD,312,South West Queensland,LandUseNotAgri,230630
-QLD,312,South West Queensland,LandUseAgri,16367054
-QLD,312,South West Queensland,LandUseCrops,7248
-QLD,312,South West Queensland,LandUseGraze,16359804
-QLD,312,South West Queensland,LandUseOther,2
-QLD,312,South West Queensland,CropStubTotal,620
-QLD,312,South West Queensland,CropStubGraze,620
-QLD,312,South West Queensland,SoilManTotal,0
-QLD,312,South West Queensland,SoilManCompost,0
-QLD,312,South West Queensland,SoilManGyp,0
-QLD,313,Southern Gulf,TotalArea,16580765
-QLD,313,Southern Gulf,LandUseNotAgri,289474
-QLD,313,Southern Gulf,LandUseAgri,16432765
-QLD,313,Southern Gulf,LandUseCrops,4487
-QLD,313,Southern Gulf,LandUseGraze,16427683
-QLD,313,Southern Gulf,LandUseOther,594
-QLD,313,Southern Gulf,CropStubTotal,141
-QLD,313,Southern Gulf,CropStubGraze,141
-QLD,313,Southern Gulf,SoilManTotal,0
-QLD,313,Southern Gulf,SoilMa0ou,0
-QLD,314,Terrain NRM,TotalArea,728289
-QLD,314,Terrain NRM,LandUseNotAgri,32066
-QLD,314,Terrain NRM,LandUseAgri,674599
-QLD,314,Terrain NRM,LandUseCrops,173888
-QLD,314,Terrain NRM,LandUseGraze,499080
-QLD,314,Terrain NRM,LandUseForest,1103
-QLD,314,Terrain NRM,LandUseOther,528
-QLD,314,Terrain NRM,CropStubTotal,106998
-QLD,314,Terrain NRM,CropStubCoolBurn,2284
-QLD,314,Terrain NRM,CropStubHotBurn,90
-QLD,314,Terrain NRM,CropStubWindrowLeft,842
-QLD,314,Terrain NRM,CropStubWindrowRemove,449
-QLD,314,Terrain NRM,CropStubSoil,9457
-QLD,314,Terrain NRM,CropStubRetainGround,73602
-QLD,314,Terrain NRM,CropStubRetainStand,1661
-QLD,314,Terrain NRM,CropStubGraze,318
-QLD,314,Terrain NRM,CropStubOther,18294
-QLD,314,Terrain NRM,SoilManTotal,38099
-QLD,314,Terrain NRM,SoilManCompost,2043
-QLD,314,Terrain NRM,SoilManGreen,1272
-QLD,314,Terrain NRM,SoilManMulch,1106
-QLD,314,Terrain NRM,SoilManLime,22074
-QLD,314,Terrain NRM,SoilManDolo,2677
-QLD,314,Terrain NRM,SoilManGyp,2964
-QLD,314,Terrain NRM,SoilMa0ou,391
-QLD,314,Terrain NRM,LandUseBioD,2751
-QLD,314,Terrain NRM,SoilManOther,2821
-SA,9994,South Australia,TotalArea,49720453
-SA,9994,South Australia,LandUseNotAgri,1740286
-SA,9994,South Australia,LandUseAgri,47554773
-SA,9994,South Australia,LandUseCrops,4995179
-SA,9994,South Australia,LandUseGraze,42516951
-SA,9994,South Australia,LandUseForest,10461
-SA,9994,South Australia,LandUseOther,32182
-SA,9994,South Australia,CropStubTotal,3641990
-SA,9994,South Australia,CropStubCoolBurn,183519
-SA,9994,South Australia,CropStubHotBurn,133320
-SA,9994,South Australia,CropStubWindrowLeft,15752
-SA,9994,South Australia,CropStubWindrowRemove,89678
-SA,9994,South Australia,CropStubSoil,222918
-SA,9994,South Australia,CropStubRetainGround,1302160
-SA,9994,South Australia,CropStubRetainStand,790549
-SA,9994,South Australia,CropStubGraze,816378
-SA,9994,South Australia,CropStubOther,87716
-SA,9994,South Australia,SoilManTotal,339998
-SA,9994,South Australia,SoilManCompost,24632
-SA,9994,South Australia,SoilManGreen,4131
-SA,9994,South Australia,SoilManMulch,1387
-SA,9994,South Australia,SoilManLime,51949
-SA,9994,South Australia,SoilManDolo,3296
-SA,9994,South Australia,SoilManGyp,174319
-SA,9994,South Australia,SoilManBio,1268
-SA,9994,South Australia,SoilMa0ou,38117
-SA,9994,South Australia,SoilManOther,40900
-SA,401,Adelaide and Mount Lofty Ranges,TotalArea,313183
-SA,401,Adelaide and Mount Lofty Ranges,LandUseNotAgri,21497
-SA,401,Adelaide and Mount Lofty Ranges,LandUseAgri,274557
-SA,401,Adelaide and Mount Lofty Ranges,LandUseCrops,134028
-SA,401,Adelaide and Mount Lofty Ranges,LandUseGraze,138650
-SA,401,Adelaide and Mount Lofty Ranges,LandUseForest,854
-SA,401,Adelaide and Mount Lofty Ranges,LandUseOther,1024
-SA,401,Adelaide and Mount Lofty Ranges,CropStubTotal,86599
-SA,401,Adelaide and Mount Lofty Ranges,CropStubCoolBurn,6860
-SA,401,Adelaide and Mount Lofty Ranges,CropStubHotBurn,3936
-SA,401,Adelaide and Mount Lofty Ranges,CropStubWindrowLeft,490
-SA,401,Adelaide and Mount Lofty Ranges,CropStubWindrowRemove,9166
-SA,401,Adelaide and Mount Lofty Ranges,CropStubSoil,11313
-SA,401,Adelaide and Mount Lofty Ranges,CropStubRetainGround,23875
-SA,401,Adelaide and Mount Lofty Ranges,CropStubRetainStand,16358
-SA,401,Adelaide and Mount Lofty Ranges,CropStubGraze,13049
-SA,401,Adelaide and Mount Lofty Ranges,CropStubOther,1551
-SA,401,Adelaide and Mount Lofty Ranges,SoilManTotal,32767
-SA,401,Adelaide and Mount Lofty Ranges,SoilManCompost,5914
-SA,401,Adelaide and Mount Lofty Ranges,SoilManGreen,340
-SA,401,Adelaide and Mount Lofty Ranges,SoilManMulch,768
-SA,401,Adelaide and Mount Lofty Ranges,SoilManLime,6238
-SA,401,Adelaide and Mount Lofty Ranges,SoilManDolo,0
-SA,401,Adelaide and Mount Lofty Ranges,SoilManGyp,0
-SA,401,Adelaide and Mount Lofty Ranges,SoilManBio,0
-SA,401,Adelaide and Mount Lofty Ranges,SoilMa0ou,9125
-SA,401,Adelaide and Mount Lofty Ranges,SoilManOther,2846
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,TotalArea,36606933
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseNotAgri,869577
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseAgri,35707517
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseCrops,23318
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseGraze,35684139
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseForest,60
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubTotal,14859
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubCoolBurn,600
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubHotBurn,100
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubWindrowRemove,1025
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubSoil,522
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubRetainGround,5000
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubRetainStand,3751
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubGraze,3700
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubOther,160
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,SoilManTotal,0
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,SoilManLime,0
-SA,402406,Alinytjara Wilurara and South Australian Arid Lands,SoilManGyp,0
-SA,403,Eyre Peninsula,TotalArea,3869709
-SA,403,Eyre Peninsula,LandUseNotAgri,364900
-SA,403,Eyre Peninsula,LandUseAgri,3361645
-SA,403,Eyre Peninsula,LandUseCrops,1859608
-SA,403,Eyre Peninsula,LandUseGraze,1499070
-SA,403,Eyre Peninsula,LandUseForest,944
-SA,403,Eyre Peninsula,LandUseOther,2022
-SA,403,Eyre Peninsula,CropStubTotal,1292663
-SA,403,Eyre Peninsula,CropStubCoolBurn,60397
-SA,403,Eyre Peninsula,CropStubHotBurn,62364
-SA,403,Eyre Peninsula,CropStubWindrowLeft,9052
-SA,403,Eyre Peninsula,CropStubWindrowRemove,54399
-SA,403,Eyre Peninsula,CropStubSoil,82788
-SA,403,Eyre Peninsula,CropStubRetainGround,409309
-SA,403,Eyre Peninsula,CropStubRetainStand,265597
-SA,403,Eyre Peninsula,CropStubGraze,315363
-SA,403,Eyre Peninsula,CropStubOther,33394
-SA,403,Eyre Peninsula,SoilManTotal,92248
-SA,403,Eyre Peninsula,SoilManCompost,0
-SA,403,Eyre Peninsula,SoilManGreen,0
-SA,403,Eyre Peninsula,SoilManMulch,0
-SA,403,Eyre Peninsula,SoilManLime,11644
-SA,403,Eyre Peninsula,SoilManGyp,75870
-SA,403,Eyre Peninsula,SoilMa0ou,0
-SA,403,Eyre Peninsula,SoilManOther,0
-SA,404,Kangaroo Island,TotalArea,167523
-SA,404,Kangaroo Island,LandUseNotAgri,31571
-SA,404,Kangaroo Island,LandUseAgri,134248
-SA,404,Kangaroo Island,LandUseCrops,15572
-SA,404,Kangaroo Island,LandUseGraze,117070
-SA,404,Kangaroo Island,LandUseForest,1589
-SA,404,Kangaroo Island,LandUseOther,17
-SA,404,Kangaroo Island,CropStubTotal,11232
-SA,404,Kangaroo Island,CropStubCoolBurn,945
-SA,404,Kangaroo Island,CropStubHotBurn,54
-SA,404,Kangaroo Island,CropStubWindrowRemove,77
-SA,404,Kangaroo Island,CropStubRetainGround,5893
-SA,404,Kangaroo Island,CropStubRetainStand,1181
-SA,404,Kangaroo Island,CropStubGraze,3082
-SA,404,Kangaroo Island,SoilManTotal,0
-SA,404,Kangaroo Island,SoilManCompost,0
-SA,404,Kangaroo Island,SoilManGreen,0
-SA,404,Kangaroo Island,SoilManLime,5488
-SA,404,Kangaroo Island,SoilManGyp,0
-SA,404,Kangaroo Island,SoilMa0ou,0
-SA,404,Kangaroo Island,SoilManOther,1724
-SA,405,Northern and Yorke,TotalArea,3251043
-SA,405,Northern and Yorke,LandUseNotAgri,78426
-SA,405,Northern and Yorke,LandUseAgri,3090665
-SA,405,Northern and Yorke,LandUseCrops,1566451
-SA,405,Northern and Yorke,LandUseGraze,1511042
-SA,405,Northern and Yorke,LandUseForest,448
-SA,405,Northern and Yorke,LandUseOther,12724
-SA,405,Northern and Yorke,CropStubTotal,1342378
-SA,405,Northern and Yorke,CropStubCoolBurn,73854
-SA,405,Northern and Yorke,CropStubHotBurn,30539
-SA,405,Northern and Yorke,CropStubWindrowLeft,5060
-SA,405,Northern and Yorke,CropStubWindrowRemove,16292
-SA,405,Northern and Yorke,CropStubSoil,60599
-SA,405,Northern and Yorke,CropStubRetainGround,604249
-SA,405,Northern and Yorke,CropStubRetainStand,264199
-SA,405,Northern and Yorke,CropStubGraze,247355
-SA,405,Northern and Yorke,CropStubOther,40232
-SA,405,Northern and Yorke,SoilManTotal,91177
-SA,405,Northern and Yorke,SoilManCompost,2790
-SA,405,Northern and Yorke,SoilManGreen,0
-SA,405,Northern and Yorke,SoilManMulch,130
-SA,405,Northern and Yorke,SoilManLime,10129
-SA,405,Northern and Yorke,SoilManDolo,1371
-SA,405,Northern and Yorke,SoilManGyp,52623
-SA,405,Northern and Yorke,SoilManBio,0
-SA,405,Northern and Yorke,SoilMa0ou,22034
-SA,405,Northern and Yorke,SoilManOther,0
-SA,407,South Australian Murray Darling Basin,TotalArea,3743890
-SA,407,South Australian Murray Darling Basin,LandUseNotAgri,245349
-SA,407,South Australian Murray Darling Basin,LandUseAgri,3371335
-SA,407,South Australian Murray Darling Basin,LandUseCrops,1104266
-SA,407,South Australian Murray Darling Basin,LandUseGraze,2250539
-SA,407,South Australian Murray Darling Basin,LandUseForest,1649
-SA,407,South Australian Murray Darling Basin,LandUseOther,14881
-SA,407,South Australian Murray Darling Basin,CropStubTotal,687440
-SA,407,South Australian Murray Darling Basin,CropStubCoolBurn,23901
-SA,407,South Australian Murray Darling Basin,CropStubHotBurn,17333
-SA,407,South Australian Murray Darling Basin,CropStubWindrowLeft,1151
-SA,407,South Australian Murray Darling Basin,CropStubWindrowRemove,6087
-SA,407,South Australian Murray Darling Basin,CropStubSoil,42695
-SA,407,South Australian Murray Darling Basin,CropStubRetainGround,192700
-SA,407,South Australian Murray Darling Basin,CropStubRetainStand,212454
-SA,407,South Australian Murray Darling Basin,CropStubGraze,185589
-SA,407,South Australian Murray Darling Basin,CropStubOther,5531
-SA,407,South Australian Murray Darling Basin,SoilManTotal,36257
-SA,407,South Australian Murray Darling Basin,SoilManCompost,6714
-SA,407,South Australian Murray Darling Basin,SoilManGreen,2519
-SA,407,South Australian Murray Darling Basin,SoilManMulch,303
-SA,407,South Australian Murray Darling Basin,SoilManLime,0
-SA,407,South Australian Murray Darling Basin,SoilManDolo,0
-SA,407,South Australian Murray Darling Basin,SoilManGyp,12724
-SA,407,South Australian Murray Darling Basin,SoilManBio,651
-SA,407,South Australian Murray Darling Basin,SoilMa0ou,5743
-SA,407,South Australian Murray Darling Basin,SoilManOther,4707
-SA,408,South East,TotalArea,1768172
-SA,408,South East,LandUseNotAgri,128966
-SA,408,South East,LandUseAgri,1614806
-SA,408,South East,LandUseCrops,291935
-SA,408,South East,LandUseGraze,1316441
-SA,408,South East,LandUseForest,4916
-SA,408,South East,LandUseOther,1513
-SA,408,South East,CropStubTotal,206818
-SA,408,South East,CropStubCoolBurn,16962
-SA,408,South East,CropStubHotBurn,18994
-SA,408,South East,CropStubWindrowRemove,2632
-SA,408,South East,CropStubSoil,25000
-SA,408,South East,CropStubRetainGround,61134
-SA,408,South East,CropStubRetainStand,27009
-SA,408,South East,CropStubGraze,48240
-SA,408,South East,CropStubOther,6848
-SA,408,South East,SoilManTotal,79022
-SA,408,South East,SoilManCompost,9064
-SA,408,South East,SoilManGreen,739
-SA,408,South East,SoilManMulch,0
-SA,408,South East,SoilManLime,15112
-SA,408,South East,SoilManDolo,995
-SA,408,South East,SoilManGyp,25721
-SA,408,South East,SoilManBio,0
-SA,408,South East,SoilMa0ou,1060
-SA,408,South East,SoilManOther,25586
-WA,9995,Western Australia,TotalArea,83770447
-WA,9995,Western Australia,LandUseNotAgri,2860411
-WA,9995,Western Australia,LandUseAgri,79609836
-WA,9995,Western Australia,LandUseCrops,9704222
-WA,9995,Western Australia,LandUseGraze,69800153
-WA,9995,Western Australia,LandUseForest,91976
-WA,9995,Western Australia,LandUseOther,13485
-WA,9995,Western Australia,CropStubTotal,6430354
-WA,9995,Western Australia,CropStubCoolBurn,734784
-WA,9995,Western Australia,CropStubHotBurn,571659
-WA,9995,Western Australia,CropStubWindrowLeft,138297
-WA,9995,Western Australia,CropStubWindrowRemove,354122
-WA,9995,Western Australia,CropStubSoil,239957
-WA,9995,Western Australia,CropStubRetainGround,2065260
-WA,9995,Western Australia,CropStubRetainStand,1082890
-WA,9995,Western Australia,CropStubGraze,1114097
-WA,9995,Western Australia,CropStubOther,129288
-WA,9995,Western Australia,SoilManTotal,1662723
-WA,9995,Western Australia,SoilManCompost,11142
-WA,9995,Western Australia,SoilManGreen,3902
-WA,9995,Western Australia,SoilManMulch,1243
-WA,9995,Western Australia,SoilManLime,1189703
-WA,9995,Western Australia,SoilManDolo,31093
-WA,9995,Western Australia,SoilManGyp,387724
-WA,9995,Western Australia,SoilManBio,1370
-WA,9995,Western Australia,SoilMa0ou,8779
-WA,9995,Western Australia,SoilManOther,27768
-WA,501,Northern Agricultural,TotalArea,4119565
-WA,501,Northern Agricultural,LandUseNotAgri,531189
-WA,501,Northern Agricultural,LandUseAgri,3518668
-WA,501,Northern Agricultural,LandUseCrops,2553090
-WA,501,Northern Agricultural,LandUseGraze,954909
-WA,501,Northern Agricultural,LandUseForest,9929
-WA,501,Northern Agricultural,LandUseOther,741
-WA,501,Northern Agricultural,CropStubTotal,1797320
-WA,501,Northern Agricultural,CropStubCoolBurn,240405
-WA,501,Northern Agricultural,CropStubHotBurn,133901
-WA,501,Northern Agricultural,CropStubWindrowLeft,77351
-WA,501,Northern Agricultural,CropStubWindrowRemove,76515
-WA,501,Northern Agricultural,CropStubSoil,54548
-WA,501,Northern Agricultural,CropStubRetainGround,609315
-WA,501,Northern Agricultural,CropStubRetainStand,342113
-WA,501,Northern Agricultural,CropStubGraze,247931
-WA,501,Northern Agricultural,CropStubOther,15240
-WA,501,Northern Agricultural,SoilManTotal,537675
-WA,501,Northern Agricultural,SoilManCompost,4022
-WA,501,Northern Agricultural,SoilManGreen,1073
-WA,501,Northern Agricultural,SoilManMulch,0
-WA,501,Northern Agricultural,SoilManLime,433398
-WA,501,Northern Agricultural,SoilManDolo,13049
-WA,501,Northern Agricultural,SoilManGyp,82447
-WA,501,Northern Agricultural,SoilMa0ou,0
-WA,501,Northern Agricultural,SoilManOther,3271
-WA,502,Peel-Harvey,TotalArea,490950
-WA,502,Peel-Harvey,LandUseNotAgri,45614
-WA,502,Peel-Harvey,LandUseAgri,453332
-WA,502,Peel-Harvey,LandUseCrops,175020
-WA,502,Peel-Harvey,LandUseGraze,264265
-WA,502,Peel-Harvey,LandUseForest,10295
-WA,502,Peel-Harvey,LandUseOther,3752
-WA,502,Peel-Harvey,CropStubTotal,124577
-WA,502,Peel-Harvey,CropStubCoolBurn,14957
-WA,502,Peel-Harvey,CropStubHotBurn,19850
-WA,502,Peel-Harvey,CropStubWindrowLeft,111
-WA,502,Peel-Harvey,CropStubWindrowRemove,7775
-WA,502,Peel-Harvey,CropStubSoil,4220
-WA,502,Peel-Harvey,CropStubRetainGround,20414
-WA,502,Peel-Harvey,CropStubRetainStand,13752
-WA,502,Peel-Harvey,CropStubGraze,34767
-WA,502,Peel-Harvey,CropStubOther,8732
-WA,502,Peel-Harvey,SoilManTotal,54359
-WA,502,Peel-Harvey,SoilManCompost,183
-WA,502,Peel-Harvey,SoilManGreen,0
-WA,502,Peel-Harvey,SoilManMulch,0
-WA,502,Peel-Harvey,SoilManLime,0
-WA,502,Peel-Harvey,SoilManDolo,0
-WA,502,Peel-Harvey,SoilManGyp,2006
-WA,502,Peel-Harvey,SoilMa0ou,0
-WA,502,Peel-Harvey,SoilManOther,248
-WA,503,Perth,TotalArea,12434
-WA,503,Perth,LandUseNotAgri,4839
-WA,503,Perth,LandUseAgri,6180
-WA,503,Perth,LandUseCrops,2654
-WA,503,Perth,LandUseGraze,3166
-WA,503,Perth,LandUseForest,10
-WA,503,Perth,LandUseOther,351
-WA,503,Perth,CropStubTotal,860
-WA,503,Perth,CropStubHotBurn,680
-WA,503,Perth,CropStubRetainGround,181
-WA,503,Perth,SoilManTotal,758
-WA,503,Perth,SoilManCompost,71
-WA,503,Perth,SoilManGreen,0
-WA,503,Perth,SoilManMulch,0
-WA,503,Perth,SoilManLime,0
-WA,503,Perth,SoilManDolo,0
-WA,503,Perth,SoilManGyp,118
-WA,503,Perth,SoilMa0ou,178
-WA,503,Perth,SoilManOther,0
-WA,504,Rangelands,TotalArea,66173383
-WA,504,Rangelands,LandUseNotAgri,821549
-WA,504,Rangelands,LandUseAgri,64400556
-WA,504,Rangelands,LandUseCrops,15052
-WA,504,Rangelands,LandUseGraze,64384722
-WA,504,Rangelands,LandUseForest,776
-WA,504,Rangelands,LandUseOther,6
-WA,504,Rangelands,CropStubTotal,6665
-WA,504,Rangelands,CropStubCoolBurn,1768
-WA,504,Rangelands,CropStubHotBurn,1816
-WA,504,Rangelands,CropStubWindrowRemove,131
-WA,504,Rangelands,CropStubSoil,2500
-WA,504,Rangelands,CropStubRetainGround,450
-WA,504,Rangelands,SoilManTotal,1620
-WA,504,Rangelands,SoilManCompost,0
-WA,504,Rangelands,SoilManMulch,0
-WA,504,Rangelands,SoilManLime,0
-WA,504,Rangelands,SoilManGyp,875
-WA,504,Rangelands,SoilMa0ou,0
-WA,504,Rangelands,SoilManOther,0
-WA,505,South Coast,TotalArea,3320572
-WA,505,South Coast,LandUseNotAgri,472758
-WA,505,South Coast,LandUseAgri,2776892
-WA,505,South Coast,LandUseCrops,1791497
-WA,505,South Coast,LandUseGraze,952178
-WA,505,South Coast,LandUseForest,28724
-WA,505,South Coast,LandUseOther,4493
-WA,505,South Coast,CropStubTotal,1244616
-WA,505,South Coast,CropStubCoolBurn,85187
-WA,505,South Coast,CropStubHotBurn,57896
-WA,505,South Coast,CropStubWindrowLeft,32022
-WA,505,South Coast,CropStubWindrowRemove,20245
-WA,505,South Coast,CropStubSoil,52980
-WA,505,South Coast,CropStubRetainGround,452540
-WA,505,South Coast,CropStubRetainStand,220503
-WA,505,South Coast,CropStubGraze,269952
-WA,505,South Coast,CropStubOther,53291
-WA,505,South Coast,SoilManTotal,320692
-WA,505,South Coast,SoilManCompost,0
-WA,505,South Coast,SoilManGreen,1743
-WA,505,South Coast,SoilManMulch,0
-WA,505,South Coast,SoilManLime,173725
-WA,505,South Coast,SoilManDolo,3756
-WA,505,South Coast,SoilManGyp,136379
-WA,505,South Coast,SoilMa0ou,0
-WA,505,South Coast,SoilManOther,3099
-WA,506,South West,TotalArea,1961749
-WA,506,South West,LandUseNotAgri,220769
-WA,506,South West,LandUseAgri,1652284
-WA,506,South West,LandUseCrops,699918
-WA,506,South West,LandUseGraze,929586
-WA,506,South West,LandUseForest,21678
-WA,506,South West,LandUseOther,1102
-WA,506,South West,CropStubTotal,522298
-WA,506,South West,CropStubCoolBurn,110323
-WA,506,South West,CropStubHotBurn,66236
-WA,506,South West,CropStubWindrowLeft,2999
-WA,506,South West,CropStubWindrowRemove,30796
-WA,506,South West,CropStubSoil,22726
-WA,506,South West,CropStubRetainGround,99445
-WA,506,South West,CropStubRetainStand,57346
-WA,506,South West,CropStubGraze,107309
-WA,506,South West,CropStubOther,25118
-WA,506,South West,SoilManTotal,150649
-WA,506,South West,SoilManCompost,3961
-WA,506,South West,SoilManGreen,404
-WA,506,South West,SoilManMulch,1188
-WA,506,South West,SoilManLime,114129
-WA,506,South West,SoilManDolo,5777
-WA,506,South West,SoilManGyp,14076
-WA,506,South West,SoilManBio,1370
-WA,506,South West,SoilMa0ou,2073
-WA,506,South West,SoilManOther,7672
-WA,507,Wheatbelt,TotalArea,7691794
-WA,507,Wheatbelt,LandUseNotAgri,763693
-WA,507,Wheatbelt,LandUseAgri,6801924
-WA,507,Wheatbelt,LandUseCrops,4466993
-WA,507,Wheatbelt,LandUseGraze,2311328
-WA,507,Wheatbelt,LandUseForest,20564
-WA,507,Wheatbelt,LandUseOther,3040
-WA,507,Wheatbelt,CropStubTotal,2734018
-WA,507,Wheatbelt,CropStubCoolBurn,282145
-WA,507,Wheatbelt,CropStubHotBurn,291281
-WA,507,Wheatbelt,CropStubWindrowLeft,25814
-WA,507,Wheatbelt,CropStubWindrowRemove,218659
-WA,507,Wheatbelt,CropStubSoil,102983
-WA,507,Wheatbelt,CropStubRetainGround,882915
-WA,507,Wheatbelt,CropStubRetainStand,449176
-WA,507,Wheatbelt,CropStubGraze,454138
-WA,507,Wheatbelt,CropStubOther,26906
-WA,507,Wheatbelt,SoilManTotal,596970
-WA,507,Wheatbelt,SoilManCompost,2556
-WA,507,Wheatbelt,SoilManGreen,0
-WA,507,Wheatbelt,SoilManMulch,0
-WA,507,Wheatbelt,SoilManLime,418095
-WA,507,Wheatbelt,SoilManDolo,7575
-WA,507,Wheatbelt,SoilManGyp,151824
-WA,507,Wheatbelt,SoilMa0ou,2976
-WA,507,Wheatbelt,SoilManOther,13301
-TAS,9996,Tasmania,TotalArea,1480287
-TAS,9996,Tasmania,LandUseNotAgri,208304
-TAS,9996,Tasmania,LandUseAgri,1245862
-TAS,9996,Tasmania,LandUseCrops,100857
-TAS,9996,Tasmania,LandUseGraze,1033055
-TAS,9996,Tasmania,LandUseForest,108339
-TAS,9996,Tasmania,LandUseOther,3611
-TAS,9996,Tasmania,CropStubTotal,29713
-TAS,9996,Tasmania,CropStubCoolBurn,4996
-TAS,9996,Tasmania,CropStubHotBurn,1756
-TAS,9996,Tasmania,CropStubWindrowLeft,35
-TAS,9996,Tasmania,CropStubWindrowRemove,2522
-TAS,9996,Tasmania,CropStubSoil,10469
-TAS,9996,Tasmania,CropStubRetainGround,3176
-TAS,9996,Tasmania,CropStubRetainStand,877
-TAS,9996,Tasmania,CropStubGraze,5825
-TAS,9996,Tasmania,CropStubOther,58
-TAS,9996,Tasmania,SoilManTotal,120973
-TAS,9996,Tasmania,SoilManCompost,6420
-TAS,9996,Tasmania,SoilManGreen,1414
-TAS,9996,Tasmania,SoilManMulch,0
-TAS,9996,Tasmania,SoilManLime,68314
-TAS,9996,Tasmania,SoilManDolo,32778
-TAS,9996,Tasmania,SoilManGyp,2183
-TAS,9996,Tasmania,SoilManBio,0
-TAS,9996,Tasmania,SoilMa0ou,1124
-TAS,9996,Tasmania,SoilManOther,8514
-TAS,601,Cradle Coast,TotalArea,270336
-TAS,601,Cradle Coast,LandUseNotAgri,29105
-TAS,601,Cradle Coast,LandUseAgri,233529
-TAS,601,Cradle Coast,LandUseCrops,20937
-TAS,601,Cradle Coast,LandUseGraze,205933
-TAS,601,Cradle Coast,LandUseForest,6314
-TAS,601,Cradle Coast,LandUseOther,346
-TAS,601,Cradle Coast,CropStubTotal,3285
-TAS,601,Cradle Coast,CropStubCoolBurn,534
-TAS,601,Cradle Coast,CropStubHotBurn,171
-TAS,601,Cradle Coast,CropStubWindrowRemove,142
-TAS,601,Cradle Coast,CropStubSoil,1992
-TAS,601,Cradle Coast,CropStubRetainGround,314
-TAS,601,Cradle Coast,CropStubRetainStand,87
-TAS,601,Cradle Coast,CropStubGraze,24
-TAS,601,Cradle Coast,CropStubOther,20
-TAS,601,Cradle Coast,SoilManTotal,78912
-TAS,601,Cradle Coast,SoilManCompost,2931
-TAS,601,Cradle Coast,SoilManGreen,1125
-TAS,601,Cradle Coast,SoilManMulch,0
-TAS,601,Cradle Coast,SoilManLime,45814
-TAS,601,Cradle Coast,SoilManDolo,25562
-TAS,601,Cradle Coast,SoilManGyp,4
-TAS,601,Cradle Coast,SoilMa0ou,0
-TAS,601,Cradle Coast,SoilManOther,3134
-TAS,602,North,TotalArea,686790
-TAS,602,North,LandUseNotAgri,111470
-TAS,602,North,LandUseAgri,568787
-TAS,602,North,LandUseCrops,57792
-TAS,602,North,LandUseGraze,461851
-TAS,602,North,LandUseForest,46272
-TAS,602,North,LandUseOther,2872
-TAS,602,North,CropStubTotal,20889
-TAS,602,North,CropStubCoolBurn,2702
-TAS,602,North,CropStubHotBurn,1282
-TAS,602,North,CropStubWindrowLeft,17
-TAS,602,North,CropStubWindrowRemove,2026
-TAS,602,North,CropStubSoil,6639
-TAS,602,North,CropStubRetainGround,2556
-TAS,602,North,CropStubRetainStand,666
-TAS,602,North,CropStubGraze,5001
-TAS,602,North,SoilManTotal,33342
-TAS,602,North,SoilManCompost,3450
-TAS,602,North,SoilManGreen,284
-TAS,602,North,SoilManMulch,0
-TAS,602,North,SoilManLime,18484
-TAS,602,North,SoilManDolo,6202
-TAS,602,North,SoilManGyp,1652
-TAS,602,North,SoilMa0ou,0
-TAS,602,North,SoilManOther,3024
-TAS,603,South,TotalArea,523161
-TAS,603,South,LandUseNotAgri,67729
-TAS,603,South,LandUseAgri,443546
-TAS,603,South,LandUseCrops,22129
-TAS,603,South,LandUseGraze,365271
-TAS,603,South,LandUseForest,55753
-TAS,603,South,LandUseOther,394
-TAS,603,South,CropStubTotal,5539
-TAS,603,South,CropStubCoolBurn,1759
-TAS,603,South,CropStubHotBurn,303
-TAS,603,South,CropStubWindrowLeft,18
-TAS,603,South,CropStubWindrowRemove,354
-TAS,603,South,CropStubSoil,1838
-TAS,603,South,CropStubRetainGround,306
-TAS,603,South,CropStubRetainStand,123
-TAS,603,South,CropStubGraze,800
-TAS,603,South,CropStubOther,38
-TAS,603,South,SoilManTotal,8718
-TAS,603,South,SoilManCompost,39
-TAS,603,South,SoilManGreen,5
-TAS,603,South,SoilManMulch,0
-TAS,603,South,SoilManLime,4017
-TAS,603,South,SoilManDolo,1014
-TAS,603,South,SoilManGyp,527
-TAS,603,South,SoilManBio,0
-TAS,603,South,SoilMa0ou,690
-TAS,603,South,SoilManOther,2356
-NT,9997,Northern Territory,TotalArea,54580046
-NT,9997,Northern Territory,LandUseNotAgri,3153928
-NT,9997,Northern Territory,LandUseAgri,49920384
-NT,9997,Northern Territory,LandUseCrops,20576
-NT,9997,Northern Territory,LandUseGraze,49894961
-NT,9997,Northern Territory,LandUseForest,4317
-NT,9997,Northern Territory,LandUseOther,529
-NT,9997,Northern Territory,CropStubTotal,1309
-NT,9997,Northern Territory,CropStubSoil,71
-NT,9997,Northern Territory,CropStubRetainGround,22
-NT,9997,Northern Territory,CropStubGraze,1217
-NT,9997,Northern Territory,SoilManTotal,8511
-NT,9997,Northern Territory,SoilManCompost,77
-NT,9997,Northern Territory,SoilManGreen,1290
-NT,9997,Northern Territory,SoilManMulch,0
-NT,9997,Northern Territory,SoilManLime,651
-NT,9997,Northern Territory,SoilManDolo,375
-NT,9997,Northern Territory,SoilManGyp,2750
-NT,9997,Northern Territory,SoilManBio,0
-NT,9997,Northern Territory,SoilMa0ou,316
-NT,9997,Northern Territory,SoilManOther,3038
-NT,701,Northern Territory,TotalArea,54580046
-NT,701,Northern Territory,LandUseNotAgri,3153928
-NT,701,Northern Territory,LandUseAgri,49920384
-NT,701,Northern Territory,LandUseCrops,20576
-NT,701,Northern Territory,LandUseGraze,49894961
-NT,701,Northern Territory,LandUseForest,4317
-NT,701,Northern Territory,LandUseOther,529
-NT,701,Northern Territory,CropStubTotal,1309
-NT,701,Northern Territory,CropStubSoil,71
-NT,701,Northern Territory,CropStubRetainGround,22
-NT,701,Northern Territory,CropStubGraze,1217
-NT,701,Northern Territory,SoilManTotal,8511
-NT,701,Northern Territory,SoilManCompost,77
-NT,701,Northern Territory,SoilManGreen,1290
-NT,701,Northern Territory,SoilManMulch,0
-NT,701,Northern Territory,SoilManLime,651
-NT,701,Northern Territory,SoilManDolo,375
-NT,701,Northern Territory,SoilManGyp,2750
-NT,701,Northern Territory,SoilManBio,0
-NT,701,Northern Territory,SoilMa0ou,316
-NT,701,Northern Territory,SoilManOther,3038
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,TotalArea,55438874.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseNotAgri,2224872.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseAgri,51657430.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseCrops,8742205.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseGraze,42573891.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseForest,319674.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,LandUseOther,21660.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubTotal,5596789.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubCoolBurn,823944.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubHotBurn,419705.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubWindrowLeft,26126.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubWindrowRemove,105900.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubSoil,788674.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubRetainGround,1010844.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubRetainStand,1719666.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubGraze,579824.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,CropStubOther,122106.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManTotal,1242552.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManCompost,54263.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManGreen,12743.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManMulch,3705.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManLime,438983.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManDolo,13589.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManGyp,405114.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManBio,1388.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilMa0ou,139880.00
+NSW AND ACT,9991,New South Wales and Australian Capital Territory,SoilManOther,172887.00
+NSW AND ACT,101,Central Tablelands,TotalArea,1669441.00
+NSW AND ACT,101,Central Tablelands,LandUseNotAgri,68638.00
+NSW AND ACT,101,Central Tablelands,LandUseAgri,1549398.00
+NSW AND ACT,101,Central Tablelands,LandUseCrops,156239.00
+NSW AND ACT,101,Central Tablelands,LandUseGraze,1372808.00
+NSW AND ACT,101,Central Tablelands,LandUseForest,20145.00
+NSW AND ACT,101,Central Tablelands,LandUseOther,206.00
+NSW AND ACT,101,Central Tablelands,CropStubTotal,117680.00
+NSW AND ACT,101,Central Tablelands,CropStubCoolBurn,24325.00
+NSW AND ACT,101,Central Tablelands,CropStubHotBurn,7509.00
+NSW AND ACT,101,Central Tablelands,CropStubWindrowRemove,7612.00
+NSW AND ACT,101,Central Tablelands,CropStubSoil,15958.00
+NSW AND ACT,101,Central Tablelands,CropStubRetainGround,19875.00
+NSW AND ACT,101,Central Tablelands,CropStubRetainStand,4012.00
+NSW AND ACT,101,Central Tablelands,CropStubGraze,37425.00
+NSW AND ACT,101,Central Tablelands,CropStubOther,964.00
+NSW AND ACT,101,Central Tablelands,SoilManTotal,65967.00
+NSW AND ACT,101,Central Tablelands,SoilManCompost,6124.00
+NSW AND ACT,101,Central Tablelands,SoilManGreen,98.00
+NSW AND ACT,101,Central Tablelands,SoilManMulch,105.00
+NSW AND ACT,101,Central Tablelands,SoilManLime,0.00
+NSW AND ACT,101,Central Tablelands,SoilManDolo,0.00
+NSW AND ACT,101,Central Tablelands,SoilManGyp,4217.00
+NSW AND ACT,101,Central Tablelands,SoilManBio,0.00
+NSW AND ACT,101,Central Tablelands,SoilMa0ou,3627.00
+NSW AND ACT,101,Central Tablelands,SoilManOther,8469.00
+NSW AND ACT,102,Central West,TotalArea,7298851.00
+NSW AND ACT,102,Central West,LandUseNotAgri,324965.00
+NSW AND ACT,102,Central West,LandUseAgri,6743163.00
+NSW AND ACT,102,Central West,LandUseCrops,2237170.00
+NSW AND ACT,102,Central West,LandUseGraze,4489691.00
+NSW AND ACT,102,Central West,LandUseForest,13258.00
+NSW AND ACT,102,Central West,LandUseOther,3045.00
+NSW AND ACT,102,Central West,CropStubTotal,1421761.00
+NSW AND ACT,102,Central West,CropStubCoolBurn,199555.00
+NSW AND ACT,102,Central West,CropStubHotBurn,97720.00
+NSW AND ACT,102,Central West,CropStubWindrowLeft,10660.00
+NSW AND ACT,102,Central West,CropStubWindrowRemove,24976.00
+NSW AND ACT,102,Central West,CropStubSoil,222208.00
+NSW AND ACT,102,Central West,CropStubRetainGround,196924.00
+NSW AND ACT,102,Central West,CropStubRetainStand,491767.00
+NSW AND ACT,102,Central West,CropStubGraze,158498.00
+NSW AND ACT,102,Central West,CropStubOther,19452.00
+NSW AND ACT,102,Central West,SoilManTotal,198025.00
+NSW AND ACT,102,Central West,SoilManCompost,8704.00
+NSW AND ACT,102,Central West,SoilManGreen,0.00
+NSW AND ACT,102,Central West,SoilManMulch,0.00
+NSW AND ACT,102,Central West,SoilManLime,62292.00
+NSW AND ACT,102,Central West,SoilManDolo,2809.00
+NSW AND ACT,102,Central West,SoilManGyp,50467.00
+NSW AND ACT,102,Central West,SoilMa0ou,17950.00
+NSW AND ACT,102,Central West,SoilManOther,52860.00
+NSW AND ACT,103,Greater Sydney,TotalArea,70878.00
+NSW AND ACT,103,Greater Sydney,LandUseNotAgri,9711.00
+NSW AND ACT,103,Greater Sydney,LandUseAgri,61726.00
+NSW AND ACT,103,Greater Sydney,LandUseCrops,13612.00
+NSW AND ACT,103,Greater Sydney,LandUseGraze,46547.00
+NSW AND ACT,103,Greater Sydney,LandUseForest,169.00
+NSW AND ACT,103,Greater Sydney,LandUseOther,1398.00
+NSW AND ACT,103,Greater Sydney,CropStubTotal,94.00
+NSW AND ACT,103,Greater Sydney,CropStubRetainGround,47.00
+NSW AND ACT,103,Greater Sydney,CropStubGraze,47.00
+NSW AND ACT,103,Greater Sydney,SoilManTotal,5366.00
+NSW AND ACT,103,Greater Sydney,SoilManCompost,503.00
+NSW AND ACT,103,Greater Sydney,SoilManGreen,291.00
+NSW AND ACT,103,Greater Sydney,SoilManMulch,88.00
+NSW AND ACT,103,Greater Sydney,SoilManLime,893.00
+NSW AND ACT,103,Greater Sydney,SoilManDolo,326.00
+NSW AND ACT,103,Greater Sydney,SoilManGyp,227.00
+NSW AND ACT,103,Greater Sydney,SoilMa0ou,2983.00
+NSW AND ACT,103,Greater Sydney,SoilManOther,54.00
+NSW AND ACT,104,Hunter,TotalArea,1177500.00
+NSW AND ACT,104,Hunter,LandUseNotAgri,94779.00
+NSW AND ACT,104,Hunter,LandUseAgri,1066521.00
+NSW AND ACT,104,Hunter,LandUseCrops,35726.00
+NSW AND ACT,104,Hunter,LandUseGraze,1024637.00
+NSW AND ACT,104,Hunter,LandUseForest,4228.00
+NSW AND ACT,104,Hunter,LandUseOther,1929.00
+NSW AND ACT,104,Hunter,CropStubTotal,15360.00
+NSW AND ACT,104,Hunter,CropStubCoolBurn,1297.00
+NSW AND ACT,104,Hunter,CropStubHotBurn,546.00
+NSW AND ACT,104,Hunter,CropStubWindrowRemove,948.00
+NSW AND ACT,104,Hunter,CropStubSoil,1848.00
+NSW AND ACT,104,Hunter,CropStubRetainGround,4994.00
+NSW AND ACT,104,Hunter,CropStubRetainStand,1101.00
+NSW AND ACT,104,Hunter,CropStubGraze,4627.00
+NSW AND ACT,104,Hunter,SoilManTotal,29662.00
+NSW AND ACT,104,Hunter,SoilManCompost,1188.00
+NSW AND ACT,104,Hunter,SoilManGreen,0.00
+NSW AND ACT,104,Hunter,SoilManMulch,655.00
+NSW AND ACT,104,Hunter,SoilManLime,6726.00
+NSW AND ACT,104,Hunter,SoilManDolo,1624.00
+NSW AND ACT,104,Hunter,SoilManGyp,875.00
+NSW AND ACT,104,Hunter,SoilManBio,0.00
+NSW AND ACT,104,Hunter,SoilMa0ou,12025.00
+NSW AND ACT,104,Hunter,SoilManOther,5769.00
+NSW AND ACT,105,Murray,TotalArea,3248241.00
+NSW AND ACT,105,Murray,LandUseNotAgri,128192.00
+NSW AND ACT,105,Murray,LandUseAgri,3022187.00
+NSW AND ACT,105,Murray,LandUseCrops,1037179.00
+NSW AND ACT,105,Murray,LandUseGraze,1949351.00
+NSW AND ACT,105,Murray,LandUseForest,31293.00
+NSW AND ACT,105,Murray,LandUseOther,4364.00
+NSW AND ACT,105,Murray,CropStubTotal,738729.00
+NSW AND ACT,105,Murray,CropStubCoolBurn,159303.00
+NSW AND ACT,105,Murray,CropStubHotBurn,105647.00
+NSW AND ACT,105,Murray,CropStubWindrowLeft,4511.00
+NSW AND ACT,105,Murray,CropStubWindrowRemove,12096.00
+NSW AND ACT,105,Murray,CropStubSoil,75614.00
+NSW AND ACT,105,Murray,CropStubRetainGround,149091.00
+NSW AND ACT,105,Murray,CropStubRetainStand,129414.00
+NSW AND ACT,105,Murray,CropStubGraze,83877.00
+NSW AND ACT,105,Murray,CropStubOther,19176.00
+NSW AND ACT,105,Murray,SoilManTotal,253817.00
+NSW AND ACT,105,Murray,SoilManCompost,5897.00
+NSW AND ACT,105,Murray,SoilManGreen,1237.00
+NSW AND ACT,105,Murray,SoilManMulch,0.00
+NSW AND ACT,105,Murray,SoilManLime,97965.00
+NSW AND ACT,105,Murray,SoilManDolo,900.00
+NSW AND ACT,105,Murray,SoilManGyp,112202.00
+NSW AND ACT,105,Murray,SoilManBio,0.00
+NSW AND ACT,105,Murray,SoilMa0ou,18301.00
+NSW AND ACT,105,Murray,SoilManOther,16479.00
+NSW AND ACT,106,North Coast,TotalArea,731743.00
+NSW AND ACT,106,North Coast,LandUseNotAgri,63917.00
+NSW AND ACT,106,North Coast,LandUseAgri,645813.00
+NSW AND ACT,106,North Coast,LandUseCrops,64033.00
+NSW AND ACT,106,North Coast,LandUseGraze,497788.00
+NSW AND ACT,106,North Coast,LandUseForest,80046.00
+NSW AND ACT,106,North Coast,LandUseOther,3946.00
+NSW AND ACT,106,North Coast,CropStubTotal,18478.00
+NSW AND ACT,106,North Coast,CropStubCoolBurn,4211.00
+NSW AND ACT,106,North Coast,CropStubHotBurn,543.00
+NSW AND ACT,106,North Coast,CropStubWindrowLeft,804.00
+NSW AND ACT,106,North Coast,CropStubWindrowRemove,245.00
+NSW AND ACT,106,North Coast,CropStubSoil,4547.00
+NSW AND ACT,106,North Coast,CropStubRetainGround,4738.00
+NSW AND ACT,106,North Coast,CropStubRetainStand,207.00
+NSW AND ACT,106,North Coast,CropStubGraze,371.00
+NSW AND ACT,106,North Coast,CropStubOther,2812.00
+NSW AND ACT,106,North Coast,SoilManTotal,54510.00
+NSW AND ACT,106,North Coast,SoilManCompost,4066.00
+NSW AND ACT,106,North Coast,SoilManGreen,880.00
+NSW AND ACT,106,North Coast,SoilManMulch,1994.00
+NSW AND ACT,106,North Coast,SoilManLime,19477.00
+NSW AND ACT,106,North Coast,SoilManDolo,1353.00
+NSW AND ACT,106,North Coast,SoilManGyp,1131.00
+NSW AND ACT,106,North Coast,SoilManBio,85.00
+NSW AND ACT,106,North Coast,SoilMa0ou,10687.00
+NSW AND ACT,106,North Coast,SoilManOther,14836.00
+NSW AND ACT,108,North West NSW,TotalArea,6229510.00
+NSW AND ACT,108,North West NSW,LandUseNotAgri,260146.00
+NSW AND ACT,108,North West NSW,LandUseAgri,5763825.00
+NSW AND ACT,108,North West NSW,LandUseCrops,2504479.00
+NSW AND ACT,108,North West NSW,LandUseGraze,3219516.00
+NSW AND ACT,108,North West NSW,LandUseForest,37735.00
+NSW AND ACT,108,North West NSW,LandUseOther,2095.00
+NSW AND ACT,108,North West NSW,CropStubTotal,1569140.00
+NSW AND ACT,108,North West NSW,CropStubCoolBurn,82846.00
+NSW AND ACT,108,North West NSW,CropStubHotBurn,20484.00
+NSW AND ACT,108,North West NSW,CropStubWindrowRemove,10731.00
+NSW AND ACT,108,North West NSW,CropStubSoil,280074.00
+NSW AND ACT,108,North West NSW,CropStubRetainGround,332051.00
+NSW AND ACT,108,North West NSW,CropStubRetainStand,729327.00
+NSW AND ACT,108,North West NSW,CropStubGraze,81125.00
+NSW AND ACT,108,North West NSW,CropStubOther,32501.00
+NSW AND ACT,108,North West NSW,SoilManTotal,117698.00
+NSW AND ACT,108,North West NSW,SoilManCompost,9768.00
+NSW AND ACT,108,North West NSW,SoilManGreen,0.00
+NSW AND ACT,108,North West NSW,SoilManMulch,0.00
+NSW AND ACT,108,North West NSW,SoilManLime,0.00
+NSW AND ACT,108,North West NSW,SoilManDolo,0.00
+NSW AND ACT,108,North West NSW,SoilManGyp,42759.00
+NSW AND ACT,108,North West NSW,SoilMa0ou,23849.00
+NSW AND ACT,108,North West NSW,SoilManOther,22114.00
+NSW AND ACT,109,Northern Tablelands,TotalArea,1795059.00
+NSW AND ACT,109,Northern Tablelands,LandUseNotAgri,110604.00
+NSW AND ACT,109,Northern Tablelands,LandUseAgri,1627359.00
+NSW AND ACT,109,Northern Tablelands,LandUseCrops,106914.00
+NSW AND ACT,109,Northern Tablelands,LandUseGraze,1481987.00
+NSW AND ACT,109,Northern Tablelands,LandUseForest,38135.00
+NSW AND ACT,109,Northern Tablelands,LandUseOther,323.00
+NSW AND ACT,109,Northern Tablelands,CropStubTotal,70113.00
+NSW AND ACT,109,Northern Tablelands,CropStubCoolBurn,3110.00
+NSW AND ACT,109,Northern Tablelands,CropStubHotBurn,896.00
+NSW AND ACT,109,Northern Tablelands,CropStubWindrowRemove,727.00
+NSW AND ACT,109,Northern Tablelands,CropStubSoil,9159.00
+NSW AND ACT,109,Northern Tablelands,CropStubRetainGround,12150.00
+NSW AND ACT,109,Northern Tablelands,CropStubRetainStand,24626.00
+NSW AND ACT,109,Northern Tablelands,CropStubGraze,17126.00
+NSW AND ACT,109,Northern Tablelands,CropStubOther,2318.00
+NSW AND ACT,109,Northern Tablelands,SoilManTotal,43371.00
+NSW AND ACT,109,Northern Tablelands,SoilManCompost,752.00
+NSW AND ACT,109,Northern Tablelands,SoilManGreen,1762.00
+NSW AND ACT,109,Northern Tablelands,SoilManMulch,0.00
+NSW AND ACT,109,Northern Tablelands,SoilManLime,0.00
+NSW AND ACT,109,Northern Tablelands,SoilManDolo,0.00
+NSW AND ACT,109,Northern Tablelands,SoilManGyp,5350.00
+NSW AND ACT,109,Northern Tablelands,SoilManBio,0.00
+NSW AND ACT,109,Northern Tablelands,SoilMa0ou,0.00
+NSW AND ACT,109,Northern Tablelands,SoilManOther,22192.00
+NSW AND ACT,110801,Riverina and ACT,TotalArea,5980840.00
+NSW AND ACT,110801,Riverina and ACT,LandUseNotAgri,255949.00
+NSW AND ACT,110801,Riverina and ACT,LandUseAgri,5554156.00
+NSW AND ACT,110801,Riverina and ACT,LandUseCrops,1998807.00
+NSW AND ACT,110801,Riverina and ACT,LandUseGraze,3533521.00
+NSW AND ACT,110801,Riverina and ACT,LandUseForest,18176.00
+NSW AND ACT,110801,Riverina and ACT,LandUseOther,3653.00
+NSW AND ACT,110801,Riverina and ACT,CropStubTotal,1353380.00
+NSW AND ACT,110801,Riverina and ACT,CropStubCoolBurn,330841.00
+NSW AND ACT,110801,Riverina and ACT,CropStubHotBurn,178250.00
+NSW AND ACT,110801,Riverina and ACT,CropStubWindrowLeft,9648.00
+NSW AND ACT,110801,Riverina and ACT,CropStubWindrowRemove,40804.00
+NSW AND ACT,110801,Riverina and ACT,CropStubSoil,141966.00
+NSW AND ACT,110801,Riverina and ACT,CropStubRetainGround,192953.00
+NSW AND ACT,110801,Riverina and ACT,CropStubRetainStand,281247.00
+NSW AND ACT,110801,Riverina and ACT,CropStubGraze,136554.00
+NSW AND ACT,110801,Riverina and ACT,CropStubOther,41118.00
+NSW AND ACT,110801,Riverina and ACT,SoilManTotal,378025.00
+NSW AND ACT,110801,Riverina and ACT,SoilManCompost,9064.00
+NSW AND ACT,110801,Riverina and ACT,SoilManGreen,4179.00
+NSW AND ACT,110801,Riverina and ACT,SoilManMulch,0.00
+NSW AND ACT,110801,Riverina and ACT,SoilManLime,157534.00
+NSW AND ACT,110801,Riverina and ACT,SoilManDolo,6058.00
+NSW AND ACT,110801,Riverina and ACT,SoilManGyp,146715.00
+NSW AND ACT,110801,Riverina and ACT,SoilManBio,0.00
+NSW AND ACT,110801,Riverina and ACT,SoilMa0ou,38433.00
+NSW AND ACT,110801,Riverina and ACT,SoilManOther,15838.00
+NSW AND ACT,111,South East NSW,TotalArea,1730235.00
+NSW AND ACT,111,South East NSW,LandUseNotAgri,116448.00
+NSW AND ACT,111,South East NSW,LandUseAgri,1588482.00
+NSW AND ACT,111,South East NSW,LandUseCrops,88658.00
+NSW AND ACT,111,South East NSW,LandUseGraze,1486634.00
+NSW AND ACT,111,South East NSW,LandUseForest,12495.00
+NSW AND ACT,111,South East NSW,LandUseOther,695.00
+NSW AND ACT,111,South East NSW,CropStubTotal,47789.00
+NSW AND ACT,111,South East NSW,CropStubCoolBurn,5979.00
+NSW AND ACT,111,South East NSW,CropStubHotBurn,7590.00
+NSW AND ACT,111,South East NSW,CropStubWindrowLeft,503.00
+NSW AND ACT,111,South East NSW,CropStubWindrowRemove,354.00
+NSW AND ACT,111,South East NSW,CropStubSoil,8252.00
+NSW AND ACT,111,South East NSW,CropStubRetainGround,2389.00
+NSW AND ACT,111,South East NSW,CropStubRetainStand,1556.00
+NSW AND ACT,111,South East NSW,CropStubGraze,17403.00
+NSW AND ACT,111,South East NSW,CropStubOther,3764.00
+NSW AND ACT,111,South East NSW,SoilManTotal,78130.00
+NSW AND ACT,111,South East NSW,SoilManCompost,788.00
+NSW AND ACT,111,South East NSW,SoilManGreen,639.00
+NSW AND ACT,111,South East NSW,SoilManMulch,48.00
+NSW AND ACT,111,South East NSW,SoilManLime,17913.00
+NSW AND ACT,111,South East NSW,SoilManDolo,125.00
+NSW AND ACT,111,South East NSW,SoilManGyp,36310.00
+NSW AND ACT,111,South East NSW,SoilMa0ou,8836.00
+NSW AND ACT,111,South East NSW,SoilManOther,13471.00
+NSW AND ACT,112,Western,TotalArea,25506574.00
+NSW AND ACT,112,Western,LandUseNotAgri,791523.00
+NSW AND ACT,112,Western,LandUseAgri,24034799.00
+NSW AND ACT,112,Western,LandUseCrops,499388.00
+NSW AND ACT,112,Western,LandUseGraze,23471410.00
+NSW AND ACT,112,Western,LandUseForest,63995.00
+NSW AND ACT,112,Western,LandUseOther,6.00
+NSW AND ACT,112,Western,CropStubTotal,244265.00
+NSW AND ACT,112,Western,CropStubCoolBurn,12477.00
+NSW AND ACT,112,Western,CropStubHotBurn,522.00
+NSW AND ACT,112,Western,CropStubWindrowRemove,7408.00
+NSW AND ACT,112,Western,CropStubSoil,29048.00
+NSW AND ACT,112,Western,CropStubRetainGround,95632.00
+NSW AND ACT,112,Western,CropStubRetainStand,56408.00
+NSW AND ACT,112,Western,CropStubGraze,42770.00
+NSW AND ACT,112,Western,SoilManTotal,17980.00
+NSW AND ACT,112,Western,SoilManCompost,7408.00
+NSW AND ACT,112,Western,SoilManGreen,341.00
+NSW AND ACT,112,Western,SoilManLime,0.00
+NSW AND ACT,112,Western,SoilManDolo,0.00
+NSW AND ACT,112,Western,SoilManGyp,4861.00
+NSW AND ACT,112,Western,SoilManBio,0.00
+NSW AND ACT,112,Western,SoilMa0ou,0.00
+NSW AND ACT,112,Western,SoilManOther,804.00
+VIC,9992,Victoria,TotalArea,10852481.00
+VIC,9992,Victoria,LandUseNotAgri,456567.00
+VIC,9992,Victoria,LandUseAgri,9960567.00
+VIC,9992,Victoria,LandUseCrops,4329377.00
+VIC,9992,Victoria,LandUseGraze,5571609.00
+VIC,9992,Victoria,LandUseForest,43940.00
+VIC,9992,Victoria,LandUseOther,15642.00
+VIC,9992,Victoria,CropStubTotal,3002454.00
+VIC,9992,Victoria,CropStubCoolBurn,378932.00
+VIC,9992,Victoria,CropStubHotBurn,269448.00
+VIC,9992,Victoria,CropStubWindrowLeft,7480.00
+VIC,9992,Victoria,CropStubWindrowRemove,113066.00
+VIC,9992,Victoria,CropStubSoil,126177.00
+VIC,9992,Victoria,CropStubRetainGround,820560.00
+VIC,9992,Victoria,CropStubRetainStand,903288.00
+VIC,9992,Victoria,CropStubGraze,343595.00
+VIC,9992,Victoria,CropStubOther,39908.00
+VIC,9992,Victoria,SoilManTotal,822601.00
+VIC,9992,Victoria,SoilManCompost,67539.00
+VIC,9992,Victoria,SoilManGreen,9329.00
+VIC,9992,Victoria,SoilManMulch,0.00
+VIC,9992,Victoria,SoilManLime,381776.00
+VIC,9992,Victoria,SoilManDolo,14343.00
+VIC,9992,Victoria,SoilManGyp,242930.00
+VIC,9992,Victoria,SoilManBio,0.00
+VIC,9992,Victoria,SoilMa0ou,47815.00
+VIC,9992,Victoria,SoilManOther,56450.00
+VIC,201,Corangamite,TotalArea,789056.00
+VIC,201,Corangamite,LandUseNotAgri,38114.00
+VIC,201,Corangamite,LandUseAgri,705488.00
+VIC,201,Corangamite,LandUseCrops,189465.00
+VIC,201,Corangamite,LandUseGraze,512976.00
+VIC,201,Corangamite,LandUseForest,1813.00
+VIC,201,Corangamite,LandUseOther,1234.00
+VIC,201,Corangamite,CropStubTotal,148402.00
+VIC,201,Corangamite,CropStubCoolBurn,43374.00
+VIC,201,Corangamite,CropStubHotBurn,35095.00
+VIC,201,Corangamite,CropStubWindrowRemove,10394.00
+VIC,201,Corangamite,CropStubSoil,6766.00
+VIC,201,Corangamite,CropStubRetainGround,18564.00
+VIC,201,Corangamite,CropStubRetainStand,18339.00
+VIC,201,Corangamite,CropStubGraze,15839.00
+VIC,201,Corangamite,CropStubOther,31.00
+VIC,201,Corangamite,SoilManTotal,78771.00
+VIC,201,Corangamite,SoilManCompost,6846.00
+VIC,201,Corangamite,SoilManGreen,424.00
+VIC,201,Corangamite,SoilManMulch,29.00
+VIC,201,Corangamite,SoilManLime,0.00
+VIC,201,Corangamite,SoilManDolo,0.00
+VIC,201,Corangamite,SoilManGyp,7776.00
+VIC,201,Corangamite,SoilManBio,0.00
+VIC,201,Corangamite,SoilMa0ou,2853.00
+VIC,201,Corangamite,SoilManOther,2204.00
+VIC,202,East Gippsland,TotalArea,250394.00
+VIC,202,East Gippsland,LandUseNotAgri,24831.00
+VIC,202,East Gippsland,LandUseAgri,213972.00
+VIC,202,East Gippsland,LandUseCrops,8322.00
+VIC,202,East Gippsland,LandUseGraze,203993.00
+VIC,202,East Gippsland,LandUseForest,1569.00
+VIC,202,East Gippsland,LandUseOther,89.00
+VIC,202,East Gippsland,CropStubTotal,3330.00
+VIC,202,East Gippsland,CropStubCoolBurn,55.00
+VIC,202,East Gippsland,CropStubHotBurn,54.00
+VIC,202,East Gippsland,CropStubWindrowRemove,25.00
+VIC,202,East Gippsland,CropStubSoil,2087.00
+VIC,202,East Gippsland,CropStubRetainGround,63.00
+VIC,202,East Gippsland,CropStubRetainStand,137.00
+VIC,202,East Gippsland,CropStubGraze,427.00
+VIC,202,East Gippsland,CropStubOther,484.00
+VIC,202,East Gippsland,SoilManTotal,14483.00
+VIC,202,East Gippsland,SoilManCompost,471.00
+VIC,202,East Gippsland,SoilManGreen,511.00
+VIC,202,East Gippsland,SoilManMulch,0.00
+VIC,202,East Gippsland,SoilManLime,11076.00
+VIC,202,East Gippsland,SoilManDolo,1297.00
+VIC,202,East Gippsland,SoilManGyp,0.00
+VIC,202,East Gippsland,SoilMa0ou,369.00
+VIC,202,East Gippsland,SoilManOther,428.00
+VIC,203,Glenelg Hopkins,TotalArea,1538568.00
+VIC,203,Glenelg Hopkins,LandUseNotAgri,52286.00
+VIC,203,Glenelg Hopkins,LandUseAgri,1466865.00
+VIC,203,Glenelg Hopkins,LandUseCrops,245586.00
+VIC,203,Glenelg Hopkins,LandUseGraze,1204961.00
+VIC,203,Glenelg Hopkins,LandUseForest,16011.00
+VIC,203,Glenelg Hopkins,LandUseOther,308.00
+VIC,203,Glenelg Hopkins,CropStubTotal,193088.00
+VIC,203,Glenelg Hopkins,CropStubCoolBurn,66163.00
+VIC,203,Glenelg Hopkins,CropStubHotBurn,39560.00
+VIC,203,Glenelg Hopkins,CropStubWindrowLeft,2002.00
+VIC,203,Glenelg Hopkins,CropStubWindrowRemove,4981.00
+VIC,203,Glenelg Hopkins,CropStubSoil,20387.00
+VIC,203,Glenelg Hopkins,CropStubRetainGround,29232.00
+VIC,203,Glenelg Hopkins,CropStubRetainStand,18349.00
+VIC,203,Glenelg Hopkins,CropStubGraze,10546.00
+VIC,203,Glenelg Hopkins,CropStubOther,1868.00
+VIC,203,Glenelg Hopkins,SoilManTotal,137249.00
+VIC,203,Glenelg Hopkins,SoilManCompost,17913.00
+VIC,203,Glenelg Hopkins,SoilManGreen,0.00
+VIC,203,Glenelg Hopkins,SoilManMulch,0.00
+VIC,203,Glenelg Hopkins,SoilManLime,98549.00
+VIC,203,Glenelg Hopkins,SoilManDolo,3784.00
+VIC,203,Glenelg Hopkins,SoilManGyp,12399.00
+VIC,203,Glenelg Hopkins,SoilMa0ou,2651.00
+VIC,203,Glenelg Hopkins,SoilManOther,1709.00
+VIC,204,Goulburn Broken,TotalArea,1074790.00
+VIC,204,Goulburn Broken,LandUseNotAgri,56585.00
+VIC,204,Goulburn Broken,LandUseAgri,974854.00
+VIC,204,Goulburn Broken,LandUseCrops,229275.00
+VIC,204,Goulburn Broken,LandUseGraze,740389.00
+VIC,204,Goulburn Broken,LandUseForest,3129.00
+VIC,204,Goulburn Broken,LandUseOther,2061.00
+VIC,204,Goulburn Broken,CropStubTotal,149661.00
+VIC,204,Goulburn Broken,CropStubCoolBurn,51540.00
+VIC,204,Goulburn Broken,CropStubHotBurn,39895.00
+VIC,204,Goulburn Broken,CropStubWindrowLeft,2986.00
+VIC,204,Goulburn Broken,CropStubWindrowRemove,2505.00
+VIC,204,Goulburn Broken,CropStubSoil,10040.00
+VIC,204,Goulburn Broken,CropStubRetainGround,20108.00
+VIC,204,Goulburn Broken,CropStubRetainStand,5290.00
+VIC,204,Goulburn Broken,CropStubGraze,13780.00
+VIC,204,Goulburn Broken,CropStubOther,3517.00
+VIC,204,Goulburn Broken,SoilManTotal,95244.00
+VIC,204,Goulburn Broken,SoilManCompost,4751.00
+VIC,204,Goulburn Broken,SoilManGreen,1644.00
+VIC,204,Goulburn Broken,SoilManMulch,76.00
+VIC,204,Goulburn Broken,SoilManLime,58702.00
+VIC,204,Goulburn Broken,SoilManDolo,2205.00
+VIC,204,Goulburn Broken,SoilManGyp,14102.00
+VIC,204,Goulburn Broken,SoilMa0ou,5962.00
+VIC,204,Goulburn Broken,SoilManOther,7802.00
+VIC,205,Mallee,TotalArea,2170778.00
+VIC,205,Mallee,LandUseNotAgri,81901.00
+VIC,205,Mallee,LandUseAgri,2018571.00
+VIC,205,Mallee,LandUseCrops,1715377.00
+VIC,205,Mallee,LandUseGraze,302475.00
+VIC,205,Mallee,LandUseForest,226.00
+VIC,205,Mallee,LandUseOther,493.00
+VIC,205,Mallee,CropStubTotal,1089445.00
+VIC,205,Mallee,CropStubCoolBurn,32088.00
+VIC,205,Mallee,CropStubHotBurn,16829.00
+VIC,205,Mallee,CropStubWindrowRemove,54781.00
+VIC,205,Mallee,CropStubSoil,9637.00
+VIC,205,Mallee,CropStubRetainGround,380963.00
+VIC,205,Mallee,CropStubRetainStand,424214.00
+VIC,205,Mallee,CropStubGraze,155536.00
+VIC,205,Mallee,CropStubOther,15397.00
+VIC,205,Mallee,SoilManTotal,51549.00
+VIC,205,Mallee,SoilManCompost,6745.00
+VIC,205,Mallee,SoilManGreen,2047.00
+VIC,205,Mallee,SoilManMulch,8.00
+VIC,205,Mallee,SoilManLime,2325.00
+VIC,205,Mallee,SoilManDolo,398.00
+VIC,205,Mallee,SoilManGyp,32973.00
+VIC,205,Mallee,SoilMa0ou,3636.00
+VIC,205,Mallee,SoilManOther,3417.00
+VIC,206,North Central,TotalArea,1969349.00
+VIC,206,North Central,LandUseNotAgri,58661.00
+VIC,206,North Central,LandUseAgri,1831671.00
+VIC,206,North Central,LandUseCrops,955319.00
+VIC,206,North Central,LandUseGraze,867131.00
+VIC,206,North Central,LandUseForest,2854.00
+VIC,206,North Central,LandUseOther,6367.00
+VIC,206,North Central,CropStubTotal,681113.00
+VIC,206,North Central,CropStubCoolBurn,70158.00
+VIC,206,North Central,CropStubHotBurn,57391.00
+VIC,206,North Central,CropStubWindrowLeft,984.00
+VIC,206,North Central,CropStubWindrowRemove,28499.00
+VIC,206,North Central,CropStubSoil,41797.00
+VIC,206,North Central,CropStubRetainGround,195686.00
+VIC,206,North Central,CropStubRetainStand,191252.00
+VIC,206,North Central,CropStubGraze,88959.00
+VIC,206,North Central,CropStubOther,6387.00
+VIC,206,North Central,SoilManTotal,169233.00
+VIC,206,North Central,SoilManCompost,11735.00
+VIC,206,North Central,SoilManGreen,2927.00
+VIC,206,North Central,SoilManMulch,1710.00
+VIC,206,North Central,SoilManLime,66717.00
+VIC,206,North Central,SoilManDolo,294.00
+VIC,206,North Central,SoilManGyp,48379.00
+VIC,206,North Central,SoilMa0ou,25452.00
+VIC,206,North Central,SoilManOther,12019.00
+VIC,207,North East,TotalArea,656572.00
+VIC,207,North East,LandUseNotAgri,37426.00
+VIC,207,North East,LandUseAgri,580193.00
+VIC,207,North East,LandUseCrops,33501.00
+VIC,207,North East,LandUseGraze,542473.00
+VIC,207,North East,LandUseForest,3012.00
+VIC,207,North East,LandUseOther,1207.00
+VIC,207,North East,CropStubTotal,18915.00
+VIC,207,North East,CropStubCoolBurn,5827.00
+VIC,207,North East,CropStubHotBurn,4694.00
+VIC,207,North East,CropStubWindrowLeft,546.00
+VIC,207,North East,CropStubWindrowRemove,1771.00
+VIC,207,North East,CropStubSoil,227.00
+VIC,207,North East,CropStubRetainGround,1563.00
+VIC,207,North East,CropStubRetainStand,2606.00
+VIC,207,North East,CropStubGraze,1542.00
+VIC,207,North East,CropStubOther,140.00
+VIC,207,North East,SoilManTotal,36261.00
+VIC,207,North East,SoilManCompost,166.00
+VIC,207,North East,SoilManGreen,22.00
+VIC,207,North East,SoilManMulch,0.00
+VIC,207,North East,SoilManLime,18209.00
+VIC,207,North East,SoilManDolo,2095.00
+VIC,207,North East,SoilManGyp,5714.00
+VIC,207,North East,SoilMa0ou,0.00
+VIC,207,North East,SoilManOther,9773.00
+VIC,208,Port Phillip and Western Port,TotalArea,275515.00
+VIC,208,Port Phillip and Western Port,LandUseNotAgri,16525.00
+VIC,208,Port Phillip and Western Port,LandUseAgri,230771.00
+VIC,208,Port Phillip and Western Port,LandUseCrops,49868.00
+VIC,208,Port Phillip and Western Port,LandUseGraze,177940.00
+VIC,208,Port Phillip and Western Port,LandUseForest,252.00
+VIC,208,Port Phillip and Western Port,LandUseOther,2711.00
+VIC,208,Port Phillip and Western Port,CropStubTotal,20389.00
+VIC,208,Port Phillip and Western Port,CropStubCoolBurn,2546.00
+VIC,208,Port Phillip and Western Port,CropStubHotBurn,2290.00
+VIC,208,Port Phillip and Western Port,CropStubWindrowRemove,357.00
+VIC,208,Port Phillip and Western Port,CropStubSoil,2727.00
+VIC,208,Port Phillip and Western Port,CropStubRetainGround,5632.00
+VIC,208,Port Phillip and Western Port,CropStubRetainStand,3694.00
+VIC,208,Port Phillip and Western Port,CropStubGraze,2630.00
+VIC,208,Port Phillip and Western Port,CropStubOther,513.00
+VIC,208,Port Phillip and Western Port,SoilManTotal,32723.00
+VIC,208,Port Phillip and Western Port,SoilManCompost,3873.00
+VIC,208,Port Phillip and Western Port,SoilManGreen,1077.00
+VIC,208,Port Phillip and Western Port,SoilManMulch,258.00
+VIC,208,Port Phillip and Western Port,SoilManLime,16499.00
+VIC,208,Port Phillip and Western Port,SoilManDolo,484.00
+VIC,208,Port Phillip and Western Port,SoilManGyp,4740.00
+VIC,208,Port Phillip and Western Port,SoilMa0ou,3318.00
+VIC,208,Port Phillip and Western Port,SoilManOther,2475.00
+VIC,209,West Gippsland,TotalArea,580642.00
+VIC,209,West Gippsland,LandUseNotAgri,34013.00
+VIC,209,West Gippsland,LandUseAgri,518580.00
+VIC,209,West Gippsland,LandUseCrops,28304.00
+VIC,209,West Gippsland,LandUseGraze,485204.00
+VIC,209,West Gippsland,LandUseForest,4793.00
+VIC,209,West Gippsland,LandUseOther,279.00
+VIC,209,West Gippsland,CropStubTotal,11927.00
+VIC,209,West Gippsland,CropStubCoolBurn,2193.00
+VIC,209,West Gippsland,CropStubHotBurn,20.00
+VIC,209,West Gippsland,CropStubSoil,138.00
+VIC,209,West Gippsland,CropStubRetainGround,235.00
+VIC,209,West Gippsland,CropStubRetainStand,1761.00
+VIC,209,West Gippsland,CropStubGraze,7580.00
+VIC,209,West Gippsland,SoilManTotal,71616.00
+VIC,209,West Gippsland,SoilManCompost,11239.00
+VIC,209,West Gippsland,SoilManGreen,571.00
+VIC,209,West Gippsland,SoilManMulch,0.00
+VIC,209,West Gippsland,SoilManLime,40562.00
+VIC,209,West Gippsland,SoilManDolo,1729.00
+VIC,209,West Gippsland,SoilManGyp,0.00
+VIC,209,West Gippsland,SoilMa0ou,3019.00
+VIC,209,West Gippsland,SoilManOther,9079.00
+VIC,210,Wimmera,TotalArea,1546818.00
+VIC,210,Wimmera,LandUseNotAgri,56224.00
+VIC,210,Wimmera,LandUseAgri,1419603.00
+VIC,210,Wimmera,LandUseCrops,874360.00
+VIC,210,Wimmera,LandUseGraze,534068.00
+VIC,210,Wimmera,LandUseForest,10281.00
+VIC,210,Wimmera,LandUseOther,894.00
+VIC,210,Wimmera,CropStubTotal,686185.00
+VIC,210,Wimmera,CropStubCoolBurn,104988.00
+VIC,210,Wimmera,CropStubHotBurn,73621.00
+VIC,210,Wimmera,CropStubWindrowLeft,963.00
+VIC,210,Wimmera,CropStubWindrowRemove,9753.00
+VIC,210,Wimmera,CropStubSoil,32372.00
+VIC,210,Wimmera,CropStubRetainGround,168515.00
+VIC,210,Wimmera,CropStubRetainStand,237646.00
+VIC,210,Wimmera,CropStubGraze,46757.00
+VIC,210,Wimmera,CropStubOther,11570.00
+VIC,210,Wimmera,SoilManTotal,135472.00
+VIC,210,Wimmera,SoilManCompost,3801.00
+VIC,210,Wimmera,SoilManGreen,0.00
+VIC,210,Wimmera,SoilManMulch,0.00
+VIC,210,Wimmera,SoilManLime,0.00
+VIC,210,Wimmera,SoilManDolo,0.00
+VIC,210,Wimmera,SoilManGyp,111283.00
+VIC,210,Wimmera,SoilMa0ou,0.00
+VIC,210,Wimmera,SoilManOther,7544.00
+QLD,9993,Queensland,TotalArea,137954589.00
+QLD,9993,Queensland,LandUseNotAgri,4803103.00
+QLD,9993,Queensland,LandUseAgri,132771840.00
+QLD,9993,Queensland,LandUseCrops,3181157.00
+QLD,9993,Queensland,LandUseGraze,129372500.00
+QLD,9993,Queensland,LandUseForest,195049.00
+QLD,9993,Queensland,LandUseOther,23135.00
+QLD,9993,Queensland,CropStubTotal,1920659.00
+QLD,9993,Queensland,CropStubCoolBurn,43158.00
+QLD,9993,Queensland,CropStubHotBurn,15752.00
+QLD,9993,Queensland,CropStubWindrowLeft,3194.00
+QLD,9993,Queensland,CropStubWindrowRemove,8163.00
+QLD,9993,Queensland,CropStubSoil,333051.00
+QLD,9993,Queensland,CropStubRetainGround,527069.00
+QLD,9993,Queensland,CropStubRetainStand,779299.00
+QLD,9993,Queensland,CropStubGraze,143032.00
+QLD,9993,Queensland,CropStubOther,67942.00
+QLD,9993,Queensland,SoilManTotal,407685.00
+QLD,9993,Queensland,SoilManCompost,44998.00
+QLD,9993,Queensland,SoilManGreen,16840.00
+QLD,9993,Queensland,SoilManMulch,5564.00
+QLD,9993,Queensland,SoilManLime,46877.00
+QLD,9993,Queensland,SoilManDolo,17832.00
+QLD,9993,Queensland,SoilManGyp,56730.00
+QLD,9993,Queensland,SoilManBio,287.00
+QLD,9993,Queensland,SoilMa0ou,18454.00
+QLD,9993,Queensland,LandUseBioD,91302.00
+QLD,9993,Queensland,SoilManOther,108801.00
+QLD,301,Burnett Mary,TotalArea,3353011.00
+QLD,301,Burnett Mary,LandUseNotAgri,142753.00
+QLD,301,Burnett Mary,LandUseAgri,3116897.00
+QLD,301,Burnett Mary,LandUseCrops,155772.00
+QLD,301,Burnett Mary,LandUseGraze,2867673.00
+QLD,301,Burnett Mary,LandUseForest,89719.00
+QLD,301,Burnett Mary,LandUseOther,3733.00
+QLD,301,Burnett Mary,CropStubTotal,75575.00
+QLD,301,Burnett Mary,CropStubCoolBurn,5173.00
+QLD,301,Burnett Mary,CropStubHotBurn,392.00
+QLD,301,Burnett Mary,CropStubWindrowLeft,1966.00
+QLD,301,Burnett Mary,CropStubWindrowRemove,4066.00
+QLD,301,Burnett Mary,CropStubSoil,16942.00
+QLD,301,Burnett Mary,CropStubRetainGround,27516.00
+QLD,301,Burnett Mary,CropStubRetainStand,4696.00
+QLD,301,Burnett Mary,CropStubGraze,6054.00
+QLD,301,Burnett Mary,CropStubOther,8771.00
+QLD,301,Burnett Mary,SoilManTotal,65021.00
+QLD,301,Burnett Mary,SoilManCompost,6348.00
+QLD,301,Burnett Mary,SoilManGreen,3393.00
+QLD,301,Burnett Mary,SoilManMulch,2595.00
+QLD,301,Burnett Mary,SoilManLime,9219.00
+QLD,301,Burnett Mary,SoilManDolo,1579.00
+QLD,301,Burnett Mary,SoilManGyp,11239.00
+QLD,301,Burnett Mary,SoilManBio,0.00
+QLD,301,Burnett Mary,SoilMa0ou,1761.00
+QLD,301,Burnett Mary,LandUseBioD,0.00
+QLD,301,Burnett Mary,SoilManOther,24453.00
+QLD,302,Cape York,TotalArea,2561605.00
+QLD,302,Cape York,LandUseNotAgri,135837.00
+QLD,302,Cape York,LandUseAgri,2452401.00
+QLD,302,Cape York,LandUseCrops,2057.00
+QLD,302,Cape York,LandUseGraze,2449463.00
+QLD,302,Cape York,LandUseForest,820.00
+QLD,302,Cape York,LandUseOther,61.00
+QLD,302,Cape York,CropStubTotal,492.00
+QLD,302,Cape York,CropStubRetainGround,223.00
+QLD,302,Cape York,CropStubRetainStand,135.00
+QLD,302,Cape York,CropStubGraze,135.00
+QLD,302,Cape York,SoilManTotal,217.00
+QLD,302,Cape York,SoilManGreen,0.00
+QLD,302,Cape York,SoilManMulch,0.00
+QLD,302,Cape York,SoilManLime,0.00
+QLD,302,Cape York,SoilManDolo,0.00
+QLD,302,Cape York,SoilManGyp,0.00
+QLD,302,Cape York,SoilMa0ou,0.00
+QLD,303,Condamine,TotalArea,1599722.00
+QLD,303,Condamine,LandUseNotAgri,71225.00
+QLD,303,Condamine,LandUseAgri,1475082.00
+QLD,303,Condamine,LandUseCrops,678196.00
+QLD,303,Condamine,LandUseGraze,784176.00
+QLD,303,Condamine,LandUseForest,7295.00
+QLD,303,Condamine,LandUseOther,5415.00
+QLD,303,Condamine,CropStubTotal,494593.00
+QLD,303,Condamine,CropStubCoolBurn,2094.00
+QLD,303,Condamine,CropStubHotBurn,2408.00
+QLD,303,Condamine,CropStubWindrowLeft,25.00
+QLD,303,Condamine,CropStubWindrowRemove,2191.00
+QLD,303,Condamine,CropStubSoil,126057.00
+QLD,303,Condamine,CropStubRetainGround,111658.00
+QLD,303,Condamine,CropStubRetainStand,212511.00
+QLD,303,Condamine,CropStubGraze,34579.00
+QLD,303,Condamine,CropStubOther,3070.00
+QLD,303,Condamine,SoilManTotal,66344.00
+QLD,303,Condamine,SoilManCompost,15802.00
+QLD,303,Condamine,SoilManGreen,4131.00
+QLD,303,Condamine,SoilManMulch,0.00
+QLD,303,Condamine,SoilManLime,683.00
+QLD,303,Condamine,SoilManDolo,0.00
+QLD,303,Condamine,SoilManGyp,2828.00
+QLD,303,Condamine,SoilMa0ou,5318.00
+QLD,303,Condamine,SoilManOther,37519.00
+QLD,304,Cooperative Management Area,TotalArea,1610830.00
+QLD,304,Cooperative Management Area,LandUseNotAgri,17285.00
+QLD,304,Cooperative Management Area,LandUseAgri,1593127.00
+QLD,304,Cooperative Management Area,LandUseCrops,1775.00
+QLD,304,Cooperative Management Area,LandUseGraze,1591315.00
+QLD,304,Cooperative Management Area,LandUseForest,38.00
+QLD,304,Cooperative Management Area,CropStubTotal,1543.00
+QLD,304,Cooperative Management Area,CropStubSoil,69.00
+QLD,304,Cooperative Management Area,CropStubRetainGround,1473.00
+QLD,304,Cooperative Management Area,SoilManTotal,0.00
+QLD,304,Cooperative Management Area,SoilManGyp,0.00
+QLD,305,Desert Channels,TotalArea,44150071.00
+QLD,305,Desert Channels,LandUseNotAgri,1688207.00
+QLD,305,Desert Channels,LandUseAgri,42486619.00
+QLD,305,Desert Channels,LandUseCrops,69190.00
+QLD,305,Desert Channels,LandUseGraze,42393230.00
+QLD,305,Desert Channels,LandUseForest,24199.00
+QLD,305,Desert Channels,CropStubTotal,334.00
+QLD,305,Desert Channels,CropStubSoil,5.00
+QLD,305,Desert Channels,CropStubRetainGround,44.00
+QLD,305,Desert Channels,CropStubRetainStand,154.00
+QLD,305,Desert Channels,CropStubGraze,130.00
+QLD,305,Desert Channels,SoilManTotal,192.00
+QLD,305,Desert Channels,SoilManCompost,0.00
+QLD,305,Desert Channels,SoilManLime,0.00
+QLD,305,Desert Channels,SoilManOther,0.00
+QLD,306,Fitzroy Basin,TotalArea,14987168.00
+QLD,306,Fitzroy Basin,LandUseNotAgri,536263.00
+QLD,306,Fitzroy Basin,LandUseAgri,14141585.00
+QLD,306,Fitzroy Basin,LandUseCrops,456781.00
+QLD,306,Fitzroy Basin,LandUseGraze,13632682.00
+QLD,306,Fitzroy Basin,LandUseForest,45451.00
+QLD,306,Fitzroy Basin,LandUseOther,6671.00
+QLD,306,Fitzroy Basin,CropStubTotal,291250.00
+QLD,306,Fitzroy Basin,CropStubCoolBurn,605.00
+QLD,306,Fitzroy Basin,CropStubHotBurn,213.00
+QLD,306,Fitzroy Basin,CropStubWindrowRemove,434.00
+QLD,306,Fitzroy Basin,CropStubSoil,71880.00
+QLD,306,Fitzroy Basin,CropStubRetainGround,68107.00
+QLD,306,Fitzroy Basin,CropStubRetainStand,115594.00
+QLD,306,Fitzroy Basin,CropStubGraze,30752.00
+QLD,306,Fitzroy Basin,CropStubOther,3664.00
+QLD,306,Fitzroy Basin,SoilManTotal,26636.00
+QLD,306,Fitzroy Basin,SoilManCompost,2247.00
+QLD,306,Fitzroy Basin,SoilManGreen,4445.00
+QLD,306,Fitzroy Basin,SoilManMulch,0.00
+QLD,306,Fitzroy Basin,SoilManLime,519.00
+QLD,306,Fitzroy Basin,SoilManDolo,221.00
+QLD,306,Fitzroy Basin,SoilManGyp,2937.00
+QLD,306,Fitzroy Basin,SoilMa0ou,3246.00
+QLD,306,Fitzroy Basin,LandUseBioD,0.00
+QLD,306,Fitzroy Basin,SoilManOther,12719.00
+QLD,307,North Queensland Dry Tropics,TotalArea,12545909.00
+QLD,307,North Queensland Dry Tropics,LandUseNotAgri,318507.00
+QLD,307,North Queensland Dry Tropics,LandUseAgri,12268553.00
+QLD,307,North Queensland Dry Tropics,LandUseCrops,216138.00
+QLD,307,North Queensland Dry Tropics,LandUseGraze,12052154.00
+QLD,307,North Queensland Dry Tropics,LandUseForest,212.00
+QLD,307,North Queensland Dry Tropics,LandUseOther,50.00
+QLD,307,North Queensland Dry Tropics,CropStubTotal,100939.00
+QLD,307,North Queensland Dry Tropics,CropStubCoolBurn,17326.00
+QLD,307,North Queensland Dry Tropics,CropStubHotBurn,11001.00
+QLD,307,North Queensland Dry Tropics,CropStubWindrowLeft,14.00
+QLD,307,North Queensland Dry Tropics,CropStubWindrowRemove,487.00
+QLD,307,North Queensland Dry Tropics,CropStubSoil,15696.00
+QLD,307,North Queensland Dry Tropics,CropStubRetainGround,22607.00
+QLD,307,North Queensland Dry Tropics,CropStubRetainStand,27406.00
+QLD,307,North Queensland Dry Tropics,CropStubGraze,4414.00
+QLD,307,North Queensland Dry Tropics,CropStubOther,1987.00
+QLD,307,North Queensland Dry Tropics,SoilManTotal,48949.00
+QLD,307,North Queensland Dry Tropics,SoilManCompost,4264.00
+QLD,307,North Queensland Dry Tropics,SoilManGreen,319.00
+QLD,307,North Queensland Dry Tropics,SoilManMulch,0.00
+QLD,307,North Queensland Dry Tropics,SoilManLime,1495.00
+QLD,307,North Queensland Dry Tropics,SoilManDolo,2615.00
+QLD,307,North Queensland Dry Tropics,SoilManGyp,14979.00
+QLD,307,North Queensland Dry Tropics,SoilMa0ou,0.00
+QLD,307,North Queensland Dry Tropics,LandUseBioD,22003.00
+QLD,307,North Queensland Dry Tropics,SoilManOther,3105.00
+QLD,308,Northern Gulf,TotalArea,12503257.00
+QLD,308,Northern Gulf,LandUseNotAgri,804027.00
+QLD,308,Northern Gulf,LandUseAgri,11699281.00
+QLD,308,Northern Gulf,LandUseCrops,14402.00
+QLD,308,Northern Gulf,LandUseGraze,11683626.00
+QLD,308,Northern Gulf,LandUseForest,1172.00
+QLD,308,Northern Gulf,LandUseOther,81.00
+QLD,308,Northern Gulf,CropStubTotal,4294.00
+QLD,308,Northern Gulf,CropStubCoolBurn,2.00
+QLD,308,Northern Gulf,CropStubHotBurn,54.00
+QLD,308,Northern Gulf,CropStubSoil,46.00
+QLD,308,Northern Gulf,CropStubRetainGround,762.00
+QLD,308,Northern Gulf,CropStubOther,3429.00
+QLD,308,Northern Gulf,SoilManTotal,4475.00
+QLD,308,Northern Gulf,SoilManCompost,0.00
+QLD,308,Northern Gulf,SoilManGreen,0.00
+QLD,308,Northern Gulf,SoilManMulch,1169.00
+QLD,308,Northern Gulf,SoilManLime,917.00
+QLD,308,Northern Gulf,SoilManDolo,214.00
+QLD,308,Northern Gulf,SoilManGyp,1625.00
+QLD,308,Northern Gulf,SoilMa0ou,199.00
+QLD,308,Northern Gulf,SoilManOther,0.00
+QLD,309,Queensland Murray Darling Basin,TotalArea,9029457.00
+QLD,309,Queensland Murray Darling Basin,LandUseNotAgri,424483.00
+QLD,309,Queensland Murray Darling Basin,LandUseAgri,8483660.00
+QLD,309,Queensland Murray Darling Basin,LandUseCrops,1211413.00
+QLD,309,Queensland Murray Darling Basin,LandUseGraze,7249611.00
+QLD,309,Queensland Murray Darling Basin,LandUseForest,19398.00
+QLD,309,Queensland Murray Darling Basin,LandUseOther,3238.00
+QLD,309,Queensland Murray Darling Basin,CropStubTotal,736699.00
+QLD,309,Queensland Murray Darling Basin,CropStubCoolBurn,14514.00
+QLD,309,Queensland Murray Darling Basin,CropStubHotBurn,866.00
+QLD,309,Queensland Murray Darling Basin,CropStubWindrowLeft,115.00
+QLD,309,Queensland Murray Darling Basin,CropStubWindrowRemove,457.00
+QLD,309,Queensland Murray Darling Basin,CropStubSoil,84163.00
+QLD,309,Queensland Murray Darling Basin,CropStubRetainGround,150622.00
+QLD,309,Queensland Murray Darling Basin,CropStubRetainStand,414217.00
+QLD,309,Queensland Murray Darling Basin,CropStubGraze,64942.00
+QLD,309,Queensland Murray Darling Basin,CropStubOther,6803.00
+QLD,309,Queensland Murray Darling Basin,SoilManTotal,58740.00
+QLD,309,Queensland Murray Darling Basin,SoilManCompost,9670.00
+QLD,309,Queensland Murray Darling Basin,SoilManGreen,1806.00
+QLD,309,Queensland Murray Darling Basin,SoilManMulch,7.00
+QLD,309,Queensland Murray Darling Basin,SoilManLime,1588.00
+QLD,309,Queensland Murray Darling Basin,SoilManDolo,9397.00
+QLD,309,Queensland Murray Darling Basin,SoilManGyp,15176.00
+QLD,309,Queensland Murray Darling Basin,SoilMa0ou,620.00
+QLD,309,Queensland Murray Darling Basin,SoilManOther,20477.00
+QLD,310,Reef Catchments,TotalArea,706847.00
+QLD,310,Reef Catchments,LandUseNotAgri,79107.00
+QLD,310,Reef Catchments,LandUseAgri,611391.00
+QLD,310,Reef Catchments,LandUseCrops,145093.00
+QLD,310,Reef Catchments,LandUseGraze,463464.00
+QLD,310,Reef Catchments,LandUseForest,2605.00
+QLD,310,Reef Catchments,LandUseOther,229.00
+QLD,310,Reef Catchments,CropStubTotal,96948.00
+QLD,310,Reef Catchments,CropStubCoolBurn,1149.00
+QLD,310,Reef Catchments,CropStubHotBurn,729.00
+QLD,310,Reef Catchments,CropStubWindrowLeft,232.00
+QLD,310,Reef Catchments,CropStubWindrowRemove,79.00
+QLD,310,Reef Catchments,CropStubSoil,5907.00
+QLD,310,Reef Catchments,CropStubRetainGround,64691.00
+QLD,310,Reef Catchments,CropStubRetainStand,1649.00
+QLD,310,Reef Catchments,CropStubGraze,614.00
+QLD,310,Reef Catchments,CropStubOther,21898.00
+QLD,310,Reef Catchments,SoilManTotal,75269.00
+QLD,310,Reef Catchments,SoilManCompost,0.00
+QLD,310,Reef Catchments,SoilManGreen,0.00
+QLD,310,Reef Catchments,SoilManMulch,0.00
+QLD,310,Reef Catchments,SoilManLime,6507.00
+QLD,310,Reef Catchments,SoilManDolo,210.00
+QLD,310,Reef Catchments,SoilManGyp,1887.00
+QLD,310,Reef Catchments,SoilMa0ou,8.00
+QLD,310,Reef Catchments,LandUseBioD,62065.00
+QLD,310,Reef Catchments,SoilManOther,3753.00
+QLD,311,South East Queensland,TotalArea,988949.00
+QLD,311,South East Queensland,LandUseNotAgri,33237.00
+QLD,311,South East Queensland,LandUseAgri,968826.00
+QLD,311,South East Queensland,LandUseCrops,44718.00
+QLD,311,South East Queensland,LandUseGraze,918538.00
+QLD,311,South East Queensland,LandUseForest,3037.00
+QLD,311,South East Queensland,LandUseOther,2532.00
+QLD,311,South East Queensland,CropStubTotal,10234.00
+QLD,311,South East Queensland,CropStubCoolBurn,10.00
+QLD,311,South East Queensland,CropStubSoil,2827.00
+QLD,311,South East Queensland,CropStubRetainGround,5764.00
+QLD,311,South East Queensland,CropStubRetainStand,1275.00
+QLD,311,South East Queensland,CropStubGraze,334.00
+QLD,311,South East Queensland,CropStubOther,24.00
+QLD,311,South East Queensland,SoilManTotal,22746.00
+QLD,311,South East Queensland,SoilManCompost,3766.00
+QLD,311,South East Queensland,SoilManGreen,1311.00
+QLD,311,South East Queensland,SoilManMulch,0.00
+QLD,311,South East Queensland,SoilManLime,3762.00
+QLD,311,South East Queensland,SoilManDolo,862.00
+QLD,311,South East Queensland,SoilManGyp,2978.00
+QLD,311,South East Queensland,SoilManBio,0.00
+QLD,311,South East Queensland,SoilMa0ou,5879.00
+QLD,311,South East Queensland,LandUseBioD,0.00
+QLD,311,South East Queensland,SoilManOther,3599.00
+QLD,312,South West Queensland,TotalArea,16608709.00
+QLD,312,South West Queensland,LandUseNotAgri,230630.00
+QLD,312,South West Queensland,LandUseAgri,16367054.00
+QLD,312,South West Queensland,LandUseCrops,7248.00
+QLD,312,South West Queensland,LandUseGraze,16359804.00
+QLD,312,South West Queensland,LandUseOther,2.00
+QLD,312,South West Queensland,CropStubTotal,620.00
+QLD,312,South West Queensland,CropStubGraze,620.00
+QLD,312,South West Queensland,SoilManTotal,0.00
+QLD,312,South West Queensland,SoilManCompost,0.00
+QLD,312,South West Queensland,SoilManGyp,0.00
+QLD,313,Southern Gulf,TotalArea,16580765.00
+QLD,313,Southern Gulf,LandUseNotAgri,289474.00
+QLD,313,Southern Gulf,LandUseAgri,16432765.00
+QLD,313,Southern Gulf,LandUseCrops,4487.00
+QLD,313,Southern Gulf,LandUseGraze,16427683.00
+QLD,313,Southern Gulf,LandUseOther,594.00
+QLD,313,Southern Gulf,CropStubTotal,141.00
+QLD,313,Southern Gulf,CropStubGraze,141.00
+QLD,313,Southern Gulf,SoilManTotal,0.00
+QLD,313,Southern Gulf,SoilMa0ou,0.00
+QLD,314,Terrain NRM,TotalArea,728289.00
+QLD,314,Terrain NRM,LandUseNotAgri,32066.00
+QLD,314,Terrain NRM,LandUseAgri,674599.00
+QLD,314,Terrain NRM,LandUseCrops,173888.00
+QLD,314,Terrain NRM,LandUseGraze,499080.00
+QLD,314,Terrain NRM,LandUseForest,1103.00
+QLD,314,Terrain NRM,LandUseOther,528.00
+QLD,314,Terrain NRM,CropStubTotal,106998.00
+QLD,314,Terrain NRM,CropStubCoolBurn,2284.00
+QLD,314,Terrain NRM,CropStubHotBurn,90.00
+QLD,314,Terrain NRM,CropStubWindrowLeft,842.00
+QLD,314,Terrain NRM,CropStubWindrowRemove,449.00
+QLD,314,Terrain NRM,CropStubSoil,9457.00
+QLD,314,Terrain NRM,CropStubRetainGround,73602.00
+QLD,314,Terrain NRM,CropStubRetainStand,1661.00
+QLD,314,Terrain NRM,CropStubGraze,318.00
+QLD,314,Terrain NRM,CropStubOther,18294.00
+QLD,314,Terrain NRM,SoilManTotal,38099.00
+QLD,314,Terrain NRM,SoilManCompost,2043.00
+QLD,314,Terrain NRM,SoilManGreen,1272.00
+QLD,314,Terrain NRM,SoilManMulch,1106.00
+QLD,314,Terrain NRM,SoilManLime,22074.00
+QLD,314,Terrain NRM,SoilManDolo,2677.00
+QLD,314,Terrain NRM,SoilManGyp,2964.00
+QLD,314,Terrain NRM,SoilMa0ou,391.00
+QLD,314,Terrain NRM,LandUseBioD,2751.00
+QLD,314,Terrain NRM,SoilManOther,2821.00
+SA,9994,South Australia,TotalArea,49720453.00
+SA,9994,South Australia,LandUseNotAgri,1740286.00
+SA,9994,South Australia,LandUseAgri,47554773.00
+SA,9994,South Australia,LandUseCrops,4995179.00
+SA,9994,South Australia,LandUseGraze,42516951.00
+SA,9994,South Australia,LandUseForest,10461.00
+SA,9994,South Australia,LandUseOther,32182.00
+SA,9994,South Australia,CropStubTotal,3641990.00
+SA,9994,South Australia,CropStubCoolBurn,183519.00
+SA,9994,South Australia,CropStubHotBurn,133320.00
+SA,9994,South Australia,CropStubWindrowLeft,15752.00
+SA,9994,South Australia,CropStubWindrowRemove,89678.00
+SA,9994,South Australia,CropStubSoil,222918.00
+SA,9994,South Australia,CropStubRetainGround,1302160.00
+SA,9994,South Australia,CropStubRetainStand,790549.00
+SA,9994,South Australia,CropStubGraze,816378.00
+SA,9994,South Australia,CropStubOther,87716.00
+SA,9994,South Australia,SoilManTotal,339998.00
+SA,9994,South Australia,SoilManCompost,24632.00
+SA,9994,South Australia,SoilManGreen,4131.00
+SA,9994,South Australia,SoilManMulch,1387.00
+SA,9994,South Australia,SoilManLime,51949.00
+SA,9994,South Australia,SoilManDolo,3296.00
+SA,9994,South Australia,SoilManGyp,174319.00
+SA,9994,South Australia,SoilManBio,1268.00
+SA,9994,South Australia,SoilMa0ou,38117.00
+SA,9994,South Australia,SoilManOther,40900.00
+SA,401,Adelaide and Mount Lofty Ranges,TotalArea,313183.00
+SA,401,Adelaide and Mount Lofty Ranges,LandUseNotAgri,21497.00
+SA,401,Adelaide and Mount Lofty Ranges,LandUseAgri,274557.00
+SA,401,Adelaide and Mount Lofty Ranges,LandUseCrops,134028.00
+SA,401,Adelaide and Mount Lofty Ranges,LandUseGraze,138650.00
+SA,401,Adelaide and Mount Lofty Ranges,LandUseForest,854.00
+SA,401,Adelaide and Mount Lofty Ranges,LandUseOther,1024.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubTotal,86599.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubCoolBurn,6860.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubHotBurn,3936.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubWindrowLeft,490.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubWindrowRemove,9166.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubSoil,11313.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubRetainGround,23875.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubRetainStand,16358.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubGraze,13049.00
+SA,401,Adelaide and Mount Lofty Ranges,CropStubOther,1551.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManTotal,32767.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManCompost,5914.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManGreen,340.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManMulch,768.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManLime,6238.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManDolo,0.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManGyp,0.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManBio,0.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilMa0ou,9125.00
+SA,401,Adelaide and Mount Lofty Ranges,SoilManOther,2846.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,TotalArea,36606933.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseNotAgri,869577.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseAgri,35707517.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseCrops,23318.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseGraze,35684139.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,LandUseForest,60.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubTotal,14859.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubCoolBurn,600.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubHotBurn,100.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubWindrowRemove,1025.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubSoil,522.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubRetainGround,5000.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubRetainStand,3751.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubGraze,3700.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,CropStubOther,160.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,SoilManTotal,0.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,SoilManLime,0.00
+SA,402406,Alinytjara Wilurara and South Australian Arid Lands,SoilManGyp,0.00
+SA,403,Eyre Peninsula,TotalArea,3869709.00
+SA,403,Eyre Peninsula,LandUseNotAgri,364900.00
+SA,403,Eyre Peninsula,LandUseAgri,3361645.00
+SA,403,Eyre Peninsula,LandUseCrops,1859608.00
+SA,403,Eyre Peninsula,LandUseGraze,1499070.00
+SA,403,Eyre Peninsula,LandUseForest,944.00
+SA,403,Eyre Peninsula,LandUseOther,2022.00
+SA,403,Eyre Peninsula,CropStubTotal,1292663.00
+SA,403,Eyre Peninsula,CropStubCoolBurn,60397.00
+SA,403,Eyre Peninsula,CropStubHotBurn,62364.00
+SA,403,Eyre Peninsula,CropStubWindrowLeft,9052.00
+SA,403,Eyre Peninsula,CropStubWindrowRemove,54399.00
+SA,403,Eyre Peninsula,CropStubSoil,82788.00
+SA,403,Eyre Peninsula,CropStubRetainGround,409309.00
+SA,403,Eyre Peninsula,CropStubRetainStand,265597.00
+SA,403,Eyre Peninsula,CropStubGraze,315363.00
+SA,403,Eyre Peninsula,CropStubOther,33394.00
+SA,403,Eyre Peninsula,SoilManTotal,92248.00
+SA,403,Eyre Peninsula,SoilManCompost,0.00
+SA,403,Eyre Peninsula,SoilManGreen,0.00
+SA,403,Eyre Peninsula,SoilManMulch,0.00
+SA,403,Eyre Peninsula,SoilManLime,11644.00
+SA,403,Eyre Peninsula,SoilManGyp,75870.00
+SA,403,Eyre Peninsula,SoilMa0ou,0.00
+SA,403,Eyre Peninsula,SoilManOther,0.00
+SA,404,Kangaroo Island,TotalArea,167523.00
+SA,404,Kangaroo Island,LandUseNotAgri,31571.00
+SA,404,Kangaroo Island,LandUseAgri,134248.00
+SA,404,Kangaroo Island,LandUseCrops,15572.00
+SA,404,Kangaroo Island,LandUseGraze,117070.00
+SA,404,Kangaroo Island,LandUseForest,1589.00
+SA,404,Kangaroo Island,LandUseOther,17.00
+SA,404,Kangaroo Island,CropStubTotal,11232.00
+SA,404,Kangaroo Island,CropStubCoolBurn,945.00
+SA,404,Kangaroo Island,CropStubHotBurn,54.00
+SA,404,Kangaroo Island,CropStubWindrowRemove,77.00
+SA,404,Kangaroo Island,CropStubRetainGround,5893.00
+SA,404,Kangaroo Island,CropStubRetainStand,1181.00
+SA,404,Kangaroo Island,CropStubGraze,3082.00
+SA,404,Kangaroo Island,SoilManTotal,0.00
+SA,404,Kangaroo Island,SoilManCompost,0.00
+SA,404,Kangaroo Island,SoilManGreen,0.00
+SA,404,Kangaroo Island,SoilManLime,5488.00
+SA,404,Kangaroo Island,SoilManGyp,0.00
+SA,404,Kangaroo Island,SoilMa0ou,0.00
+SA,404,Kangaroo Island,SoilManOther,1724.00
+SA,405,Northern and Yorke,TotalArea,3251043.00
+SA,405,Northern and Yorke,LandUseNotAgri,78426.00
+SA,405,Northern and Yorke,LandUseAgri,3090665.00
+SA,405,Northern and Yorke,LandUseCrops,1566451.00
+SA,405,Northern and Yorke,LandUseGraze,1511042.00
+SA,405,Northern and Yorke,LandUseForest,448.00
+SA,405,Northern and Yorke,LandUseOther,12724.00
+SA,405,Northern and Yorke,CropStubTotal,1342378.00
+SA,405,Northern and Yorke,CropStubCoolBurn,73854.00
+SA,405,Northern and Yorke,CropStubHotBurn,30539.00
+SA,405,Northern and Yorke,CropStubWindrowLeft,5060.00
+SA,405,Northern and Yorke,CropStubWindrowRemove,16292.00
+SA,405,Northern and Yorke,CropStubSoil,60599.00
+SA,405,Northern and Yorke,CropStubRetainGround,604249.00
+SA,405,Northern and Yorke,CropStubRetainStand,264199.00
+SA,405,Northern and Yorke,CropStubGraze,247355.00
+SA,405,Northern and Yorke,CropStubOther,40232.00
+SA,405,Northern and Yorke,SoilManTotal,91177.00
+SA,405,Northern and Yorke,SoilManCompost,2790.00
+SA,405,Northern and Yorke,SoilManGreen,0.00
+SA,405,Northern and Yorke,SoilManMulch,130.00
+SA,405,Northern and Yorke,SoilManLime,10129.00
+SA,405,Northern and Yorke,SoilManDolo,1371.00
+SA,405,Northern and Yorke,SoilManGyp,52623.00
+SA,405,Northern and Yorke,SoilManBio,0.00
+SA,405,Northern and Yorke,SoilMa0ou,22034.00
+SA,405,Northern and Yorke,SoilManOther,0.00
+SA,407,South Australian Murray Darling Basin,TotalArea,3743890.00
+SA,407,South Australian Murray Darling Basin,LandUseNotAgri,245349.00
+SA,407,South Australian Murray Darling Basin,LandUseAgri,3371335.00
+SA,407,South Australian Murray Darling Basin,LandUseCrops,1104266.00
+SA,407,South Australian Murray Darling Basin,LandUseGraze,2250539.00
+SA,407,South Australian Murray Darling Basin,LandUseForest,1649.00
+SA,407,South Australian Murray Darling Basin,LandUseOther,14881.00
+SA,407,South Australian Murray Darling Basin,CropStubTotal,687440.00
+SA,407,South Australian Murray Darling Basin,CropStubCoolBurn,23901.00
+SA,407,South Australian Murray Darling Basin,CropStubHotBurn,17333.00
+SA,407,South Australian Murray Darling Basin,CropStubWindrowLeft,1151.00
+SA,407,South Australian Murray Darling Basin,CropStubWindrowRemove,6087.00
+SA,407,South Australian Murray Darling Basin,CropStubSoil,42695.00
+SA,407,South Australian Murray Darling Basin,CropStubRetainGround,192700.00
+SA,407,South Australian Murray Darling Basin,CropStubRetainStand,212454.00
+SA,407,South Australian Murray Darling Basin,CropStubGraze,185589.00
+SA,407,South Australian Murray Darling Basin,CropStubOther,5531.00
+SA,407,South Australian Murray Darling Basin,SoilManTotal,36257.00
+SA,407,South Australian Murray Darling Basin,SoilManCompost,6714.00
+SA,407,South Australian Murray Darling Basin,SoilManGreen,2519.00
+SA,407,South Australian Murray Darling Basin,SoilManMulch,303.00
+SA,407,South Australian Murray Darling Basin,SoilManLime,0.00
+SA,407,South Australian Murray Darling Basin,SoilManDolo,0.00
+SA,407,South Australian Murray Darling Basin,SoilManGyp,12724.00
+SA,407,South Australian Murray Darling Basin,SoilManBio,651.00
+SA,407,South Australian Murray Darling Basin,SoilMa0ou,5743.00
+SA,407,South Australian Murray Darling Basin,SoilManOther,4707.00
+SA,408,South East,TotalArea,1768172.00
+SA,408,South East,LandUseNotAgri,128966.00
+SA,408,South East,LandUseAgri,1614806.00
+SA,408,South East,LandUseCrops,291935.00
+SA,408,South East,LandUseGraze,1316441.00
+SA,408,South East,LandUseForest,4916.00
+SA,408,South East,LandUseOther,1513.00
+SA,408,South East,CropStubTotal,206818.00
+SA,408,South East,CropStubCoolBurn,16962.00
+SA,408,South East,CropStubHotBurn,18994.00
+SA,408,South East,CropStubWindrowRemove,2632.00
+SA,408,South East,CropStubSoil,25000.00
+SA,408,South East,CropStubRetainGround,61134.00
+SA,408,South East,CropStubRetainStand,27009.00
+SA,408,South East,CropStubGraze,48240.00
+SA,408,South East,CropStubOther,6848.00
+SA,408,South East,SoilManTotal,79022.00
+SA,408,South East,SoilManCompost,9064.00
+SA,408,South East,SoilManGreen,739.00
+SA,408,South East,SoilManMulch,0.00
+SA,408,South East,SoilManLime,15112.00
+SA,408,South East,SoilManDolo,995.00
+SA,408,South East,SoilManGyp,25721.00
+SA,408,South East,SoilManBio,0.00
+SA,408,South East,SoilMa0ou,1060.00
+SA,408,South East,SoilManOther,25586.00
+WA,9995,Western Australia,TotalArea,83770447.00
+WA,9995,Western Australia,LandUseNotAgri,2860411.00
+WA,9995,Western Australia,LandUseAgri,79609836.00
+WA,9995,Western Australia,LandUseCrops,9704222.00
+WA,9995,Western Australia,LandUseGraze,69800153.00
+WA,9995,Western Australia,LandUseForest,91976.00
+WA,9995,Western Australia,LandUseOther,13485.00
+WA,9995,Western Australia,CropStubTotal,6430354.00
+WA,9995,Western Australia,CropStubCoolBurn,734784.00
+WA,9995,Western Australia,CropStubHotBurn,571659.00
+WA,9995,Western Australia,CropStubWindrowLeft,138297.00
+WA,9995,Western Australia,CropStubWindrowRemove,354122.00
+WA,9995,Western Australia,CropStubSoil,239957.00
+WA,9995,Western Australia,CropStubRetainGround,2065260.00
+WA,9995,Western Australia,CropStubRetainStand,1082890.00
+WA,9995,Western Australia,CropStubGraze,1114097.00
+WA,9995,Western Australia,CropStubOther,129288.00
+WA,9995,Western Australia,SoilManTotal,1662723.00
+WA,9995,Western Australia,SoilManCompost,11142.00
+WA,9995,Western Australia,SoilManGreen,3902.00
+WA,9995,Western Australia,SoilManMulch,1243.00
+WA,9995,Western Australia,SoilManLime,1189703.00
+WA,9995,Western Australia,SoilManDolo,31093.00
+WA,9995,Western Australia,SoilManGyp,387724.00
+WA,9995,Western Australia,SoilManBio,1370.00
+WA,9995,Western Australia,SoilMa0ou,8779.00
+WA,9995,Western Australia,SoilManOther,27768.00
+WA,501,Northern Agricultural,TotalArea,4119565.00
+WA,501,Northern Agricultural,LandUseNotAgri,531189.00
+WA,501,Northern Agricultural,LandUseAgri,3518668.00
+WA,501,Northern Agricultural,LandUseCrops,2553090.00
+WA,501,Northern Agricultural,LandUseGraze,954909.00
+WA,501,Northern Agricultural,LandUseForest,9929.00
+WA,501,Northern Agricultural,LandUseOther,741.00
+WA,501,Northern Agricultural,CropStubTotal,1797320.00
+WA,501,Northern Agricultural,CropStubCoolBurn,240405.00
+WA,501,Northern Agricultural,CropStubHotBurn,133901.00
+WA,501,Northern Agricultural,CropStubWindrowLeft,77351.00
+WA,501,Northern Agricultural,CropStubWindrowRemove,76515.00
+WA,501,Northern Agricultural,CropStubSoil,54548.00
+WA,501,Northern Agricultural,CropStubRetainGround,609315.00
+WA,501,Northern Agricultural,CropStubRetainStand,342113.00
+WA,501,Northern Agricultural,CropStubGraze,247931.00
+WA,501,Northern Agricultural,CropStubOther,15240.00
+WA,501,Northern Agricultural,SoilManTotal,537675.00
+WA,501,Northern Agricultural,SoilManCompost,4022.00
+WA,501,Northern Agricultural,SoilManGreen,1073.00
+WA,501,Northern Agricultural,SoilManMulch,0.00
+WA,501,Northern Agricultural,SoilManLime,433398.00
+WA,501,Northern Agricultural,SoilManDolo,13049.00
+WA,501,Northern Agricultural,SoilManGyp,82447.00
+WA,501,Northern Agricultural,SoilMa0ou,0.00
+WA,501,Northern Agricultural,SoilManOther,3271.00
+WA,502,Peel-Harvey,TotalArea,490950.00
+WA,502,Peel-Harvey,LandUseNotAgri,45614.00
+WA,502,Peel-Harvey,LandUseAgri,453332.00
+WA,502,Peel-Harvey,LandUseCrops,175020.00
+WA,502,Peel-Harvey,LandUseGraze,264265.00
+WA,502,Peel-Harvey,LandUseForest,10295.00
+WA,502,Peel-Harvey,LandUseOther,3752.00
+WA,502,Peel-Harvey,CropStubTotal,124577.00
+WA,502,Peel-Harvey,CropStubCoolBurn,14957.00
+WA,502,Peel-Harvey,CropStubHotBurn,19850.00
+WA,502,Peel-Harvey,CropStubWindrowLeft,111.00
+WA,502,Peel-Harvey,CropStubWindrowRemove,7775.00
+WA,502,Peel-Harvey,CropStubSoil,4220.00
+WA,502,Peel-Harvey,CropStubRetainGround,20414.00
+WA,502,Peel-Harvey,CropStubRetainStand,13752.00
+WA,502,Peel-Harvey,CropStubGraze,34767.00
+WA,502,Peel-Harvey,CropStubOther,8732.00
+WA,502,Peel-Harvey,SoilManTotal,54359.00
+WA,502,Peel-Harvey,SoilManCompost,183.00
+WA,502,Peel-Harvey,SoilManGreen,0.00
+WA,502,Peel-Harvey,SoilManMulch,0.00
+WA,502,Peel-Harvey,SoilManLime,0.00
+WA,502,Peel-Harvey,SoilManDolo,0.00
+WA,502,Peel-Harvey,SoilManGyp,2006.00
+WA,502,Peel-Harvey,SoilMa0ou,0.00
+WA,502,Peel-Harvey,SoilManOther,248.00
+WA,503,Perth,TotalArea,12434.00
+WA,503,Perth,LandUseNotAgri,4839.00
+WA,503,Perth,LandUseAgri,6180.00
+WA,503,Perth,LandUseCrops,2654.00
+WA,503,Perth,LandUseGraze,3166.00
+WA,503,Perth,LandUseForest,10.00
+WA,503,Perth,LandUseOther,351.00
+WA,503,Perth,CropStubTotal,860.00
+WA,503,Perth,CropStubHotBurn,680.00
+WA,503,Perth,CropStubRetainGround,181.00
+WA,503,Perth,SoilManTotal,758.00
+WA,503,Perth,SoilManCompost,71.00
+WA,503,Perth,SoilManGreen,0.00
+WA,503,Perth,SoilManMulch,0.00
+WA,503,Perth,SoilManLime,0.00
+WA,503,Perth,SoilManDolo,0.00
+WA,503,Perth,SoilManGyp,118.00
+WA,503,Perth,SoilMa0ou,178.00
+WA,503,Perth,SoilManOther,0.00
+WA,504,Rangelands,TotalArea,66173383.00
+WA,504,Rangelands,LandUseNotAgri,821549.00
+WA,504,Rangelands,LandUseAgri,64400556.00
+WA,504,Rangelands,LandUseCrops,15052.00
+WA,504,Rangelands,LandUseGraze,64384722.00
+WA,504,Rangelands,LandUseForest,776.00
+WA,504,Rangelands,LandUseOther,6.00
+WA,504,Rangelands,CropStubTotal,6665.00
+WA,504,Rangelands,CropStubCoolBurn,1768.00
+WA,504,Rangelands,CropStubHotBurn,1816.00
+WA,504,Rangelands,CropStubWindrowRemove,131.00
+WA,504,Rangelands,CropStubSoil,2500.00
+WA,504,Rangelands,CropStubRetainGround,450.00
+WA,504,Rangelands,SoilManTotal,1620.00
+WA,504,Rangelands,SoilManCompost,0.00
+WA,504,Rangelands,SoilManMulch,0.00
+WA,504,Rangelands,SoilManLime,0.00
+WA,504,Rangelands,SoilManGyp,875.00
+WA,504,Rangelands,SoilMa0ou,0.00
+WA,504,Rangelands,SoilManOther,0.00
+WA,505,South Coast,TotalArea,3320572.00
+WA,505,South Coast,LandUseNotAgri,472758.00
+WA,505,South Coast,LandUseAgri,2776892.00
+WA,505,South Coast,LandUseCrops,1791497.00
+WA,505,South Coast,LandUseGraze,952178.00
+WA,505,South Coast,LandUseForest,28724.00
+WA,505,South Coast,LandUseOther,4493.00
+WA,505,South Coast,CropStubTotal,1244616.00
+WA,505,South Coast,CropStubCoolBurn,85187.00
+WA,505,South Coast,CropStubHotBurn,57896.00
+WA,505,South Coast,CropStubWindrowLeft,32022.00
+WA,505,South Coast,CropStubWindrowRemove,20245.00
+WA,505,South Coast,CropStubSoil,52980.00
+WA,505,South Coast,CropStubRetainGround,452540.00
+WA,505,South Coast,CropStubRetainStand,220503.00
+WA,505,South Coast,CropStubGraze,269952.00
+WA,505,South Coast,CropStubOther,53291.00
+WA,505,South Coast,SoilManTotal,320692.00
+WA,505,South Coast,SoilManCompost,0.00
+WA,505,South Coast,SoilManGreen,1743.00
+WA,505,South Coast,SoilManMulch,0.00
+WA,505,South Coast,SoilManLime,173725.00
+WA,505,South Coast,SoilManDolo,3756.00
+WA,505,South Coast,SoilManGyp,136379.00
+WA,505,South Coast,SoilMa0ou,0.00
+WA,505,South Coast,SoilManOther,3099.00
+WA,506,South West,TotalArea,1961749.00
+WA,506,South West,LandUseNotAgri,220769.00
+WA,506,South West,LandUseAgri,1652284.00
+WA,506,South West,LandUseCrops,699918.00
+WA,506,South West,LandUseGraze,929586.00
+WA,506,South West,LandUseForest,21678.00
+WA,506,South West,LandUseOther,1102.00
+WA,506,South West,CropStubTotal,522298.00
+WA,506,South West,CropStubCoolBurn,110323.00
+WA,506,South West,CropStubHotBurn,66236.00
+WA,506,South West,CropStubWindrowLeft,2999.00
+WA,506,South West,CropStubWindrowRemove,30796.00
+WA,506,South West,CropStubSoil,22726.00
+WA,506,South West,CropStubRetainGround,99445.00
+WA,506,South West,CropStubRetainStand,57346.00
+WA,506,South West,CropStubGraze,107309.00
+WA,506,South West,CropStubOther,25118.00
+WA,506,South West,SoilManTotal,150649.00
+WA,506,South West,SoilManCompost,3961.00
+WA,506,South West,SoilManGreen,404.00
+WA,506,South West,SoilManMulch,1188.00
+WA,506,South West,SoilManLime,114129.00
+WA,506,South West,SoilManDolo,5777.00
+WA,506,South West,SoilManGyp,14076.00
+WA,506,South West,SoilManBio,1370.00
+WA,506,South West,SoilMa0ou,2073.00
+WA,506,South West,SoilManOther,7672.00
+WA,507,Wheatbelt,TotalArea,7691794.00
+WA,507,Wheatbelt,LandUseNotAgri,763693.00
+WA,507,Wheatbelt,LandUseAgri,6801924.00
+WA,507,Wheatbelt,LandUseCrops,4466993.00
+WA,507,Wheatbelt,LandUseGraze,2311328.00
+WA,507,Wheatbelt,LandUseForest,20564.00
+WA,507,Wheatbelt,LandUseOther,3040.00
+WA,507,Wheatbelt,CropStubTotal,2734018.00
+WA,507,Wheatbelt,CropStubCoolBurn,282145.00
+WA,507,Wheatbelt,CropStubHotBurn,291281.00
+WA,507,Wheatbelt,CropStubWindrowLeft,25814.00
+WA,507,Wheatbelt,CropStubWindrowRemove,218659.00
+WA,507,Wheatbelt,CropStubSoil,102983.00
+WA,507,Wheatbelt,CropStubRetainGround,882915.00
+WA,507,Wheatbelt,CropStubRetainStand,449176.00
+WA,507,Wheatbelt,CropStubGraze,454138.00
+WA,507,Wheatbelt,CropStubOther,26906.00
+WA,507,Wheatbelt,SoilManTotal,596970.00
+WA,507,Wheatbelt,SoilManCompost,2556.00
+WA,507,Wheatbelt,SoilManGreen,0.00
+WA,507,Wheatbelt,SoilManMulch,0.00
+WA,507,Wheatbelt,SoilManLime,418095.00
+WA,507,Wheatbelt,SoilManDolo,7575.00
+WA,507,Wheatbelt,SoilManGyp,151824.00
+WA,507,Wheatbelt,SoilMa0ou,2976.00
+WA,507,Wheatbelt,SoilManOther,13301.00
+TAS,9996,Tasmania,TotalArea,1480287.00
+TAS,9996,Tasmania,LandUseNotAgri,208304.00
+TAS,9996,Tasmania,LandUseAgri,1245862.00
+TAS,9996,Tasmania,LandUseCrops,100857.00
+TAS,9996,Tasmania,LandUseGraze,1033055.00
+TAS,9996,Tasmania,LandUseForest,108339.00
+TAS,9996,Tasmania,LandUseOther,3611.00
+TAS,9996,Tasmania,CropStubTotal,29713.00
+TAS,9996,Tasmania,CropStubCoolBurn,4996.00
+TAS,9996,Tasmania,CropStubHotBurn,1756.00
+TAS,9996,Tasmania,CropStubWindrowLeft,35.00
+TAS,9996,Tasmania,CropStubWindrowRemove,2522.00
+TAS,9996,Tasmania,CropStubSoil,10469.00
+TAS,9996,Tasmania,CropStubRetainGround,3176.00
+TAS,9996,Tasmania,CropStubRetainStand,877.00
+TAS,9996,Tasmania,CropStubGraze,5825.00
+TAS,9996,Tasmania,CropStubOther,58.00
+TAS,9996,Tasmania,SoilManTotal,120973.00
+TAS,9996,Tasmania,SoilManCompost,6420.00
+TAS,9996,Tasmania,SoilManGreen,1414.00
+TAS,9996,Tasmania,SoilManMulch,0.00
+TAS,9996,Tasmania,SoilManLime,68314.00
+TAS,9996,Tasmania,SoilManDolo,32778.00
+TAS,9996,Tasmania,SoilManGyp,2183.00
+TAS,9996,Tasmania,SoilManBio,0.00
+TAS,9996,Tasmania,SoilMa0ou,1124.00
+TAS,9996,Tasmania,SoilManOther,8514.00
+TAS,601,Cradle Coast,TotalArea,270336.00
+TAS,601,Cradle Coast,LandUseNotAgri,29105.00
+TAS,601,Cradle Coast,LandUseAgri,233529.00
+TAS,601,Cradle Coast,LandUseCrops,20937.00
+TAS,601,Cradle Coast,LandUseGraze,205933.00
+TAS,601,Cradle Coast,LandUseForest,6314.00
+TAS,601,Cradle Coast,LandUseOther,346.00
+TAS,601,Cradle Coast,CropStubTotal,3285.00
+TAS,601,Cradle Coast,CropStubCoolBurn,534.00
+TAS,601,Cradle Coast,CropStubHotBurn,171.00
+TAS,601,Cradle Coast,CropStubWindrowRemove,142.00
+TAS,601,Cradle Coast,CropStubSoil,1992.00
+TAS,601,Cradle Coast,CropStubRetainGround,314.00
+TAS,601,Cradle Coast,CropStubRetainStand,87.00
+TAS,601,Cradle Coast,CropStubGraze,24.00
+TAS,601,Cradle Coast,CropStubOther,20.00
+TAS,601,Cradle Coast,SoilManTotal,78912.00
+TAS,601,Cradle Coast,SoilManCompost,2931.00
+TAS,601,Cradle Coast,SoilManGreen,1125.00
+TAS,601,Cradle Coast,SoilManMulch,0.00
+TAS,601,Cradle Coast,SoilManLime,45814.00
+TAS,601,Cradle Coast,SoilManDolo,25562.00
+TAS,601,Cradle Coast,SoilManGyp,4.00
+TAS,601,Cradle Coast,SoilMa0ou,0.00
+TAS,601,Cradle Coast,SoilManOther,3134.00
+TAS,602,North,TotalArea,686790.00
+TAS,602,North,LandUseNotAgri,111470.00
+TAS,602,North,LandUseAgri,568787.00
+TAS,602,North,LandUseCrops,57792.00
+TAS,602,North,LandUseGraze,461851.00
+TAS,602,North,LandUseForest,46272.00
+TAS,602,North,LandUseOther,2872.00
+TAS,602,North,CropStubTotal,20889.00
+TAS,602,North,CropStubCoolBurn,2702.00
+TAS,602,North,CropStubHotBurn,1282.00
+TAS,602,North,CropStubWindrowLeft,17.00
+TAS,602,North,CropStubWindrowRemove,2026.00
+TAS,602,North,CropStubSoil,6639.00
+TAS,602,North,CropStubRetainGround,2556.00
+TAS,602,North,CropStubRetainStand,666.00
+TAS,602,North,CropStubGraze,5001.00
+TAS,602,North,SoilManTotal,33342.00
+TAS,602,North,SoilManCompost,3450.00
+TAS,602,North,SoilManGreen,284.00
+TAS,602,North,SoilManMulch,0.00
+TAS,602,North,SoilManLime,18484.00
+TAS,602,North,SoilManDolo,6202.00
+TAS,602,North,SoilManGyp,1652.00
+TAS,602,North,SoilMa0ou,0.00
+TAS,602,North,SoilManOther,3024.00
+TAS,603,South,TotalArea,523161.00
+TAS,603,South,LandUseNotAgri,67729.00
+TAS,603,South,LandUseAgri,443546.00
+TAS,603,South,LandUseCrops,22129.00
+TAS,603,South,LandUseGraze,365271.00
+TAS,603,South,LandUseForest,55753.00
+TAS,603,South,LandUseOther,394.00
+TAS,603,South,CropStubTotal,5539.00
+TAS,603,South,CropStubCoolBurn,1759.00
+TAS,603,South,CropStubHotBurn,303.00
+TAS,603,South,CropStubWindrowLeft,18.00
+TAS,603,South,CropStubWindrowRemove,354.00
+TAS,603,South,CropStubSoil,1838.00
+TAS,603,South,CropStubRetainGround,306.00
+TAS,603,South,CropStubRetainStand,123.00
+TAS,603,South,CropStubGraze,800.00
+TAS,603,South,CropStubOther,38.00
+TAS,603,South,SoilManTotal,8718.00
+TAS,603,South,SoilManCompost,39.00
+TAS,603,South,SoilManGreen,5.00
+TAS,603,South,SoilManMulch,0.00
+TAS,603,South,SoilManLime,4017.00
+TAS,603,South,SoilManDolo,1014.00
+TAS,603,South,SoilManGyp,527.00
+TAS,603,South,SoilManBio,0.00
+TAS,603,South,SoilMa0ou,690.00
+TAS,603,South,SoilManOther,2356.00
+NT,9997,Northern Territory,TotalArea,54580046.00
+NT,9997,Northern Territory,LandUseNotAgri,3153928.00
+NT,9997,Northern Territory,LandUseAgri,49920384.00
+NT,9997,Northern Territory,LandUseCrops,20576.00
+NT,9997,Northern Territory,LandUseGraze,49894961.00
+NT,9997,Northern Territory,LandUseForest,4317.00
+NT,9997,Northern Territory,LandUseOther,529.00
+NT,9997,Northern Territory,CropStubTotal,1309.00
+NT,9997,Northern Territory,CropStubSoil,71.00
+NT,9997,Northern Territory,CropStubRetainGround,22.00
+NT,9997,Northern Territory,CropStubGraze,1217.00
+NT,9997,Northern Territory,SoilManTotal,8511.00
+NT,9997,Northern Territory,SoilManCompost,77.00
+NT,9997,Northern Territory,SoilManGreen,1290.00
+NT,9997,Northern Territory,SoilManMulch,0.00
+NT,9997,Northern Territory,SoilManLime,651.00
+NT,9997,Northern Territory,SoilManDolo,375.00
+NT,9997,Northern Territory,SoilManGyp,2750.00
+NT,9997,Northern Territory,SoilManBio,0.00
+NT,9997,Northern Territory,SoilMa0ou,316.00
+NT,9997,Northern Territory,SoilManOther,3038.00
+NT,701,Northern Territory,TotalArea,54580046.00
+NT,701,Northern Territory,LandUseNotAgri,3153928.00
+NT,701,Northern Territory,LandUseAgri,49920384.00
+NT,701,Northern Territory,LandUseCrops,20576.00
+NT,701,Northern Territory,LandUseGraze,49894961.00
+NT,701,Northern Territory,LandUseForest,4317.00
+NT,701,Northern Territory,LandUseOther,529.00
+NT,701,Northern Territory,CropStubTotal,1309.00
+NT,701,Northern Territory,CropStubSoil,71.00
+NT,701,Northern Territory,CropStubRetainGround,22.00
+NT,701,Northern Territory,CropStubGraze,1217.00
+NT,701,Northern Territory,SoilManTotal,8511.00
+NT,701,Northern Territory,SoilManCompost,77.00
+NT,701,Northern Territory,SoilManGreen,1290.00
+NT,701,Northern Territory,SoilManMulch,0.00
+NT,701,Northern Territory,SoilManLime,651.00
+NT,701,Northern Territory,SoilManDolo,375.00
+NT,701,Northern Territory,SoilManGyp,2750.00
+NT,701,Northern Territory,SoilManBio,0.00
+NT,701,Northern Territory,SoilMa0ou,316.00
+NT,701,Northern Territory,SoilManOther,3038.00
