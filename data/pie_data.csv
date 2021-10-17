@@ -1,0 +1,11 @@
+﻿Crop,CropValue,Soil,SoilValue,Land,LandValue
+CropStubTotal,42614775.54,SoilManTotal,9578586.32,LandUseNotAgri,32020466.28
+CropStubCoolBurn,4670105.32,SoilManCompost,425851.44,LandUseAgri,786703056.5
+CropStubHotBurn,3001633.13,SoilManGreen,98673.21,LandUseCrops,64169271.29
+CropStubWindrowLeft,391414.54,SoilManMulch,24133.13,LandUseGraze,720743897.7
+CropStubWindrowRemove,1388730.25,SoilManLime,4314917.05,LandUseForest,1565745.81
+CropStubSoil,3585120.24,SoilManDolo,228298.06,LandUseOther,224141.69
+CropStubRetainGround,11656136.23,SoilManGyp,2677156.92,,
+CropStubRetainStand,10838136.02,SoilManPou,538486.52,,
+CropStubGraze,6148186.94,SoilManOther,845986.09,,
+CropStubOther,935312.89,,,,
