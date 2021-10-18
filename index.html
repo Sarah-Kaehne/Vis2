@@ -5,20 +5,106 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Week 9 Homework</title>
+    <title>Visualisation 2</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-   
-    <script src="vega_lite_vis.js"></script>
     
 </head>
 <body>
-    <h1>Week 9 Homework</h1>
+    <h1>How is Land Health is Maintained in Australia</h1>
     <h3>By Sarah Kaehne</h3>
-    <div id = "choropleth_map"></div>
+    <h4>This dashboard will explore land use across Australia and how the land used for agricultural purposes is maintained.</h4>
     
+    <div class= "row">
+        
+        <div class="columnA">
+            <div id = "landusetotal_map"></div>
+            <script type="text/javascript">
+                var spec2 = "js/land_use_total.vg.json";
+                vegaEmbed('#landusetotal_map', spec2).then(function(result) {
+                }).catch(console.error);
+            </script>
+        </div>
+        <div class="columnB">
+            <p>This graph visualises the percentage of regions that are being used for agricultural purposes. These purposes include growing crops, grazing livestock, forestry and others.</p>
+            <p>Overall, we can see a highly agricultural country, especially in less populated regions, i.e. not the major cities of Sydney and Melbourne. A quick scan of tooltips show we primarily excel in grazing and crops.</p>
+            <p> .</p>
+            <p> .</p>
+            <div class="note">
+                <p>Note: Zooming in on states via the state selection can make it easier to see the difference in regions.</p>
+            </div>
+        </div>
+        
+        <div class="columnA">
+            <div id = "bubble_chart"></div>
+            <script type="text/javascript">
+                var spec2 = "js/bubble_chart.vg.json";
+                vegaEmbed('#bubble_chart', spec2).then(function(result) {
+                }).catch(console.error);
+            </script>
+        </div>
+        <div class="columnB">
+            <p>This graph is visualising the percentage of state’s land area that requires or is using some form of soil management and some form of crop stubble management.</p>
+            <p>Soil management replenishes the soil so that there are enough nutrients for fresh crops or pastures for grazing.</p>
+            <p>Crop stubble management is important post harvesting to also help replenish soil and prevents fire risks. As Australia is prone to bushfires it is important that the percentage of land receiving this treatment is high.</p>
+            <p>Here we see first the relative land mass of the states and can note the Victoria has the highest percentage area requiring crop stubble management, while Tasmania requires the highest percentage of soil management.</p>
+        </div>
+        
+        <div class="columnA">
+            <div id = "soil_bar_chart"></div>
+            <script type="text/javascript">
+                var spec2 = "js/soil_bar_chart.vg.json";
+                vegaEmbed('#soil_bar_chart', spec2).then(function(result) {
+                }).catch(console.error);
+            </script>
+        </div>
+        <div class="columnB">
+            <div id = "soil_pie_chart"></div>
+            <script type="text/javascript">
+                var spec2 = "js/soil_pie_chart.vg.json";
+                vegaEmbed('#soil_pie_chart', spec2).then(function(result) {
+                }).catch(console.error);
+            </script>
+        </div>
+        <div class = "columnC">
+            <p>This idiom couple shows the percentage of land requiring or using soil management and the referred methods.</p>
+            <p>We can see that the cradle coast has a significantly high use of soil manament techniques and many Victorian (purple) regions higher on the scale too. Queensland has the least use for these practices and NT does not record this data.</p>
+            <p>The most popular ingredient added to soil to replenish it are Lime and Gypsum. Mulch is unlikely used in large commercial practice and would mostly be in smaller boutique businesses.</p>
+            <p> .</p>
+            <div class="note">
+                <p>Note: Using the maximum and minimum filters we can zoom in on parts of the bar graph.</p>
+            </div>  
+        </div>
+
+        <div class="columnA">
+            <div id = "crop_bar_chart"></div>
+            <script type="text/javascript">
+                var spec2 = "js/crop_bar_chart.vg.json";
+                vegaEmbed('#crop_bar_chart', spec2).then(function(result) {
+                }).catch(console.error);
+            </script>
+        </div>
+        <div class="columnB">
+            <div id = "crop_pie_chart"></div>
+            <script type="text/javascript">
+                var spec2 = "js/crop_pie_chart.vg.json";
+                vegaEmbed('#crop_pie_chart', spec2).then(function(result) {
+                }).catch(console.error);
+            </script>
+        </div>
+        <div class = "columnC">
+            <p>These graphs are similar to those above, but here show the percentage of land undertaking crop stubble management.</p>
+            <p>The southern coast, WA, SA and VIC all rank higher here with NSW not far behind, likely due to the higher likelihood of bushfires. Also explaining why QLD is a bit lower. NT does not record this data.</p>
+            <p>The most popular forms of crop stubble management are retaining the crop either on the ground or standing, this is possible in colder months but generally avoided in warmer months when the preference for grazing animals and using controlled burning is safer.</p>
+            <p> .</p>
+            <div class="note">    
+                <p>Note: Using the maximum and minimum filters we can zoom in on parts of the bar graph.</p>
+            </div>
+        </div>
+    
+    </div>    
 </body>
 </html>
