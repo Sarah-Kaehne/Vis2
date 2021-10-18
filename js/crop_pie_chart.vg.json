@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 570,
+  "height": 450,
+  "title": "Crop Stubble Management",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/data/pie_data.csv"
+  },
+  "transform": [
+    {"filter": "datum.CropValue < 40000000"},
+    {"calculate": "datum.CropValue/42614775.54*100", "as": "CropV"}
+   
+    
+  ],
+  "mark": "arc",
+  "encoding": {
+    "theta": {"field": "CropV", "type": "quantitative"},
+    "order": {"field": "CropV", "type": "quantitative", "sort": "ascending"},
+    "color": {
+      "field": "Crop",
+      "type": "nominal",
+      "title": "Management Type",
+      "legend": {"labelExpr": "{'CropStubCoolBurn': 'Cool-Moderate Burn', 'CropStubHotBurn': 'Hot Burn', 'CropStubWindrowLeft': 'Windrowed and Left', 'CropStubWindrowRemove': 'Windrowed and Removed', 'CropStubSoil': 'Incorporated into Soil', 'CropStubRetainGround': 'Retained on Ground', 'CropStubRetainStand': 'Retained Standing', 'CropStubGraze': 'Grazed Off', 'CropStubOther': 'Other'}[datum.label]"}
+    },
+    "tooltip": [
+      {"field": "CropName", "type": "nominal"},
+      {"field": "CropV", "type": "nominal", "format":".3", "title": "Percentage"}
+    ]
+  }
+}

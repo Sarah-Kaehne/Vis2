@@ -1,0 +1,85 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Land Use for Agricultural Purposes",
+    "width": 950,
+    "height": 430,
+    "data": {
+      "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/js/NRMR_2016_AUST.topojson",
+      "format": {
+            "type": "topojson",
+            "feature": "NRMR_2016_AUST"
+          }
+    },
+    "transform": [{
+      "lookup": "properties.NRM_NAME16",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/data/Land_Management_and_Farming_Final.csv"
+        },
+        "key": "RegionLabel",
+        "fields": ["State","TotalArea","LandUseNotAgri","LandUseAgri","LandUseCrops","LandUseGraze","LandUseForest","LandUseOther"]
+      }
+    },
+    {"calculate": "datum.LandUseAgri/datum.TotalArea*100", "as": "Percentage Agricultural"},
+    {"calculate": "datum.LandUseCrops/datum.TotalArea*100", "as": "Percentage Crops"},
+    {"calculate": "datum.LandUseGraze/datum.TotalArea*100", "as": "Percentage Grazing"},
+    {"calculate": "datum.LandUseForest/datum.TotalArea*100", "as": "Percentage Forestry"},
+    {"calculate": "datum.LandUseOther/datum.TotalArea*100", "as": "Percentage Other"},
+    {"filter": "State_selection == null || datum.State == State_selection"}
+  ],
+  "params": [
+    {
+      "name": "State_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "labels":[
+          "Show All",
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "name": "State Selection: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equirectangular"
+  },
+  "mark": {
+    "type": "geoshape"
+    },
+  "encoding": {
+    "color": {
+      "field": "Percentage Agricultural",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [80, 82.5, 85, 87.5, 90, 92.5, 95, 97.5],
+        "range": ["#fdc998", "#fdb87b", "#fda55e", "#fc9244", "#f87f2c", "#f06b18","#e4580b","#d14904"]
+        }
+    },
+    "tooltip": [
+      {"field": "properties.NRM_NAME16", "type": "nominal", "title": "Region"},
+      {"field": "Percentage Agricultural", "format":".2", "type": "quantitative", "title": "% Agricultural Use"},
+      {"field": "Percentage Crops", "format":".2", "type": "quantitative", "title": "% Crops"},
+      {"field": "Percentage Grazing", "format":".2", "type": "quantitative", "title": "% Grazing"},
+      {"field": "Percentage Forestry", "format":".2", "type": "quantitative", "title": "% Forestry"},
+      {"field": "Percentage Other", "format":".2", "type": "quantitative", "title": "% Other"}
+    ]
+  }
+
+}

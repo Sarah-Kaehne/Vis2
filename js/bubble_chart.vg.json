@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 950,
+  "height": 380,
+  "title": "Soil and Crop Stubble Management",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/data/Land_Management_and_Farming_Final.csv"
+  },
+  "params": [
+    {
+      "name": "Area_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 100000000,
+        "step": 1000,
+        "name": "Minimum Area: "
+      }
+    }      
+  ],
+  "transform": [
+    {"calculate": "datum.SoilManTotal/datum.TotalArea*100", "as": "PerSoil"},
+    {"calculate": "datum.CropStubTotal/datum.TotalArea*100", "as": "PerCrop"},
+    
+    {"filter": "datum.RegionCode == 9991 || datum.RegionCode == 9992 || datum.RegionCode == 9993 || datum.RegionCode == 9994 || datum.RegionCode == 9995 || datum.RegionCode == 9996 || datum.RegionCode == 9997"},
+    {"filter": "datum.TotalArea > 0"},
+    {"filter": "datum.TotalArea > Area_Above"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "PerSoil",
+      "type": "quantitative",
+      "title": "Perentage of Land Requiring Soil Managment",
+      "axis": {"tickCount": 10}
+    },
+    "y": {
+      "field": "PerCrop",
+      "type": "quantitative",
+      "title": "Perentage of Land Requiring Crop Stubble Managment",
+      "axis": {"tickCount": 5}
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "state_highlight": {
+          "type": "multi",
+          "fields": ["State"],
+          "bind": "legend"
+        }
+      },
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "TotalArea",
+          "type": "quantitative",
+          "scale": {
+              "type": "threshold",
+              "domain": [5000000, 30000000, 60000000, 90000000, 100000000],
+              "range": [10, 50, 150, 200, 300, 400]
+            },
+            "legend": {"format": ".1s"}
+        }, 
+        "color": {
+          "field": "State",
+          "type": "nominal",
+          "scale":{
+            "domain":[
+              "NSW AND ACT",
+              "VIC",
+              "QLD",
+              "SA",
+              "WA",
+              "TAS",
+              "NT"
+            ],
+            "range":[
+              "#e41a1c",
+              "#984ea3",
+              "#ff7f00",
+              "#a6cee3",
+              "#377eb8",
+              "#e65777",
+              "#a65628"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"param": "state_highlight", "value": 1},
+          "value": 0.1
+        },
+        
+        "tooltip": [
+          {"field": "RegionLabel", "type": "nominal", "title": "State"},
+          {"field": "PerSoil", "type": "quantitative", "format":".2", "title": "Percentage Soil Managment"},
+          {"field": "PerCrop", "type": "quantitative", "format":".2", "title": "Percentage Crop Stubble Managment"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 10,
+        "fontSize": 15
+      },
+      "encoding": {
+        "text": {"field": "State", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['RegionLabel'] == 'Queensland' || datum['RegionLabel'] == 'Western Australia' || datum['RegionLabel'] == 'Victoria' || datum['RegionLabel'] == 'New South Wales and Australian Capital Territory' || datum['RegionLabel'] == 'South Australia' || datum['RegionLabel'] == 'Northern Territory' || datum['RegionLabel'] == 'Tasmania'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "RegionLabel", "type": "nominal", "title": "State"},
+          {"field": "PerSoil", "type": "quantitative", "format":".2", "title": "Percentage Soil Managment"},
+          {"field": "PerCrop", "type": "quantitative", "format":".2", "title": "Percentage Crop Stubble Managment"}
+        ]
+      }
+    }
+  ]
+}

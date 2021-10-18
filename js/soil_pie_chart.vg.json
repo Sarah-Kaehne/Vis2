@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 450,
+  "title": "Soil Management",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/data/pie_data.csv"
+  },
+  "transform": [
+    {"filter": "datum.SoilValue < 9000000"},
+    {"filter": "datum.SoilValue > 0"},
+    {"calculate": "datum.SoilValue/9578586.32*100", "as": "SoilV"}
+   
+    
+  ],
+  "mark": "arc",
+  "encoding": {
+    "theta": {"field": "SoilV", "type": "quantitative"},
+    "order": {"field": "SoilV", "type": "quantitative", "sort": "ascending"},
+    "color": {
+      "field": "Soil",
+      "type": "nominal",
+      "title": "Management Type",
+      "legend": {"labelExpr": "{'SoilManCompost': 'Compost', 'SoilManGreen': 'Green Manure', 'SoilManMulch': 'Mulch', 'SoilManLime': 'Lime', 'SoilManDolo': 'Dolomite', 'SoilManGyp': 'Gypsum', 'SoilManPou': 'Poultry Manure', 'SoilManOther': 'Other'}[datum.label]"}
+    },
+    "tooltip": [
+      {"field": "SoilName", "type": "nominal"},
+      {"field": "SoilV", "type": "nominal", "format":".3", "title": "Percentage"}
+    ]
+  }
+}

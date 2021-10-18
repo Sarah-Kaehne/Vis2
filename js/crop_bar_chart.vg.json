@@ -1,0 +1,130 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 950,
+  "height": 200,
+  "title": "Crop Stubble Management",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/data/Land_Management_and_Farming_Final.csv"
+  },
+  "params": [
+    {
+      "name": "Area_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 44,
+        "step": 1,
+        "name": "Minimum %: "
+      }
+    },
+    {
+      "name": "Area_Below",
+      "value": 50,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 50,
+        "step": 1,
+        "name": "Maximum %: "
+      }
+    },
+    {
+      "name": "State_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "labels":[
+          "Show All",
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "name": "State Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.CropStubTotal > 30000"},
+    {"calculate": "datum.CropStubTotal/datum.TotalArea*100", "as": "PerCrop"},
+    {"filter": "datum.RegionCode != 9991 && datum.RegionCode != 9992 && datum.RegionCode != 9993 && datum.RegionCode != 9994 && datum.RegionCode != 9995 && datum.RegionCode != 9996 && datum.RegionCode != 9997"},
+    {"filter": "State_selection == null || datum.State == State_selection"},
+    {"filter": "datum.PerCrop > Area_Above"},
+    {"filter": "datum.PerCrop < Area_Below"}
+  ],
+  "mark": "bar",
+  "selection": {
+    "state_highlight": {
+      "type": "multi",
+      "fields": ["State"],
+      "bind": "legend"
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "RegionLabel",
+      "type": "nominal",
+      "title": "Region",
+      "sort": {
+        "field": "PerCrop",
+        "order": "descending"
+      },
+      "axis": {
+        "labelAngle": -45
+      }
+    },
+    "y": {
+      "field": "PerCrop",
+      "type": "quantitative",
+      "title": "Percentage of Land Using Crop Stubble Managment",
+      "axis": {"tickCount": 10}
+    },
+    
+    "tooltip": [
+      {"field": "RegionLabel", "type": "nominal", "title": "Region"},
+      {"field": "State", "type": "nominal"},
+      {"field": "PerCrop", "type": "nominal","format":".3", "title": "Percentage Crop Stubble Managment"}
+    ],
+    "color": {
+      "field": "State",
+      "type": "nominal",
+      "scale":{
+        "domain":[
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "range":[
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#a6cee3",
+          "#377eb8",
+          "#e65777",
+          "#a65628"
+        ]
+      }
+    },
+    "opacity": {
+      "condition": {"param": "state_highlight", "value": 1},
+      "value": 0.1
+    }
+  }
+}

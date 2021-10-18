@@ -1,0 +1,129 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 950,
+  "height": 230,
+  "title": "Soil Management",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Sarah-Kaehne/Vis2/main/data/Land_Management_and_Farming_Final.csv"
+  },
+  "params": [
+    {
+      "name": "Area_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 25,
+        "step": 1,
+        "name": "Minimum %: "
+      }
+    },
+    {
+      "name": "Area_Below",
+      "value": 30,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 30,
+        "step": 1,
+        "name": "Maximum %: "
+      }
+    },
+    {
+      "name": "State_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "labels":[
+          "Show All",
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "name": "State Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.SoilManTotal > 10000"},
+    {"calculate": "datum.SoilManTotal/datum.TotalArea*100", "as": "PerSoil"},
+    {"filter": "datum.RegionCode != 9991 && datum.RegionCode != 9992 && datum.RegionCode != 9993 && datum.RegionCode != 9994 && datum.RegionCode != 9995 && datum.RegionCode != 9996 && datum.RegionCode != 9997"},
+    {"filter": "State_selection == null || datum.State == State_selection"},
+    {"filter": "datum.PerSoil > Area_Above"},
+    {"filter": "datum.PerSoil < Area_Below"}
+  ],
+  "mark": "bar",
+  "selection": {
+    "state_highlight": {
+      "type": "multi",
+      "fields": ["State"],
+      "bind": "legend"
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "RegionLabel",
+      "type": "nominal",
+      "title": "Region",
+      "sort": {
+        "field": "PerSoil",
+        "order": "descending"
+      },
+      "axis": {
+        "labelAngle": -45
+      }
+    },
+    "y": {
+      "field": "PerSoil",
+      "type": "quantitative",
+      "title": "Percentage of Land Using Soil Managment",
+      "axis": {"tickCount": 10}
+    },
+    "tooltip": [
+      {"field": "RegionLabel", "type": "nominal", "title": "Region"},
+      {"field": "State", "type": "nominal"},
+      {"field": "PerSoil", "type": "nominal","format":".3", "title": "Percentage of Land Using Soil Managment"}
+    ],
+    "color": {
+      "field": "State",
+      "type": "nominal",
+      "scale":{
+        "domain":[
+          "NSW AND ACT",
+          "VIC",
+          "QLD",
+          "SA",
+          "WA",
+          "TAS",
+          "NT"
+        ],
+        "range":[
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#a6cee3",
+          "#377eb8",
+          "#e65777",
+          "#a65628"
+        ]
+      }
+    },
+    "opacity": {
+      "condition": {"param": "state_highlight", "value": 1},
+      "value": 0.1
+    }
+  }
+}
