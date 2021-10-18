@@ -4,32 +4,32 @@ body {
 }
 * {
 	box-sizing: border-box;
-  }
-  
-  .column {
-	float: left;
-	width: 20%;
-	padding: 10px;
-	height: 500px;
-	border: 2px solid powderblue;
-	background-color: bisque;
-  }
-  
+}
+
   .columnA {
 	float: left;
 	width: 60%;
 	height: 500px;
 	padding: 10px;
-	border: 2px solid powderblue;
-	background-color: bisque;
+	align-content: center;
+	border: 2px solid rgb(245, 174, 116);
+	text-align: left;
   }
   .columnB {
 	float: right;
 	width: 40%;
 	height: 500px;
 	padding: 10px;
-	border: 2px solid powderblue;
-	background-color: bisque;
+	border: 2px solid rgb(245, 174, 116);
+	text-align: left;
+  }
+  .columnC {
+	float: right;
+	width: 100%;
+	height: 200px;
+	padding: 20px;
+	border: 2px solid rgb(245, 174, 116);
+	text-align: left;
   }
 
   /* Clear floats after the columns */
@@ -38,3 +38,7 @@ body {
 	display: table;
 	clear: both;
   }
+.note {
+	font-style: italic;
+	font-size: 1em;
+}
